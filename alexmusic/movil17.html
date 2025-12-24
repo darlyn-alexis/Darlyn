@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Triton Pro - Oficial</title>
+    <style>
+        /* VARIABLES DINÁMICAS */
+:root { 
+    /* Colores Modo Oscuro (Default) */
+    --primary: #1DB954; 
+    --bg: #000; 
+    --card: #121212; 
+    --card-gradient: linear-gradient(90deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%);
+    --text: #fff; 
+    --subtext: #b3b3b3; 
+    --panel-bg: rgba(20, 20, 20, 0.6);
+    --input-bg: #222;
+    --border: rgba(255,255,255,0.1);
+}
+
+/* VARIABLES MODO CLARO */
+[data-theme="light"] {
+    --bg: #f5f5f5; 
+    --card: #ffffff; 
+    --card-gradient: linear-gradient(90deg, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.01) 100%);
+    --text: #121212; 
+    --subtext: #535353; 
+    --panel-bg: rgba(255, 255, 255, 0.6);
+    --input-bg: #eeeeee;
+    --border: rgba(0,0,0,0.1);
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+body { 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
+    background: var(--bg); 
+    color: var(--text); 
+    margin: 0; 
+    padding: 10px;
+    padding-bottom: 220px; 
+    overflow-x: hidden;
+    transition: background 0.3s ease, color 0.3s ease; /* Transición suave de tema */
+}
+
+        .container { width: 100%; max-width: 900px; margin: auto; padding-top: 20px; }
+
+        /* SPINNERS */
+        .loader { width: 20px; height: 20px; border: 2px solid #000; border-bottom-color: transparent; border-radius: 50%; display: inline-block; animation: rotation 1s linear infinite; }
+        .loader-big { width: 48px; height: 48px; border: 5px solid var(--primary); border-bottom-color: transparent; border-radius: 50%; display: block; margin: 40px auto; animation: rotation 1s linear infinite; }
+        @keyframes rotation { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* BOTONES FLOTANTES */
+        .top-btn { position: fixed; top: 20px; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; z-index: 1200; cursor: pointer; box-shadow: 0 8px 20px rgba(0,0,0,0.6); transition: 0.3s; }
+        #authTrigger { left: 20px; background: #333; color: white; }
+        #authTrigger.logged { background: var(--panel-bg);color: #000; }
+        #searchTrigger { right: 20px; background: var(--panel-bg); color: black; }
+
+        /* PANELES */
+        .floating-panel { position: fixed; top: 20px; left: 50%; transform: translateX(-50%) translateY(-120%); width: 92%; max-width: 500px; background: var(--panel-bg); color: var(--text); border: 1px solid var(--border);; padding: 25px; border-radius: 25px; z-index: 1100; opacity: 0; border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(25px); transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+        .floating-panel.open { transform: translateX(-50%) translateY(0); opacity: 1; }
+
+        /* RESULTADOS Y TEXTO TRUNCADO */
+        .results { display: grid; grid-template-columns: 1fr; gap: 12px; padding-top: 20px; }
+        @media (min-width: 700px) { .results { grid-template-columns: 1fr 1fr; } }
+        
+        .item-card { background: var(--card); padding: 12px; border-radius: 15px; display: flex; align-items: center; cursor: pointer; transition: 0.2s; min-width: 0;border-color: var(--panel); }
+        .item-card:active { transform: scale(0.98); background: #1a1a1a; }
+        .item-card img { width: 55px; height: 55px; border-radius: 8px; margin-right: 12px; flex-shrink: 0; object-fit: cover; }
+        
+        .info { flex: 1; min-width: 0; margin-right: 8px; overflow: hidden;}
+        .info b { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 0.95rem; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+        .info span { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--subtext); font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+
+        .btn-fav { background: none; border: none; color: #444; font-size: 1.5rem; cursor: pointer; flex-shrink: 0; }
+        .btn-fav.active { color: #ff4444 !important; }
+        .add-next-btn { width: 36px; height: 36px; border-radius: 50%; border: 1px solid #333; background: #222; color: white; cursor: pointer; font-size: 1.2rem; flex-shrink: 0; }
+
+        /* PLAYER BAR */
+        .player-bar { position: fixed; bottom: 25px; left: 50%; transform: translateX(-50%); width: 92%; max-width: 600px; background: var(--panel-bg); border: 1px solid var(--border); backdrop-filter: blur(30px); padding: 12px 20px; border-radius: 25px; border: 1px solid rgba(255, 255, 255, 0.1); z-index: 1000; }
+        .seek-bar { width: 100%; height: 5px; background: #33333300; -webkit-appearance: none; border-radius: 5px; margin-bottom: 10px; cursor: pointer; }
+        .seek-bar::-webkit-slider-thumb { -webkit-appearance: none; height: 14px; width: 14px; background: var(--primary); border-radius: 50%; }
+
+        /* FORMULARIOS */
+        .filters { display: flex; gap: 8px; margin-bottom: 15px; overflow-x: auto; scrollbar-width: none; }
+        .filters::-webkit-scrollbar { display: none; }
+        .filter-btn { flex: 1; min-width: 100px; background: #333; color: white; border: none; padding: 12px; border-radius: 20px; font-size: 0.75rem; font-weight: bold; cursor: pointer; }
+        .filter-btn.active { background: var(--primary); color: black; }
+        input, select { width: 100%; padding: 14px; border-radius: 12px; border: 1px solid #444;background: var(--input-bg); color: var(--text); border: 1px solid var(--border); margin-bottom: 12px; outline: none; }
+        
+        .queue-item { color: var(--text); padding: 12px; border-bottom: 1px solid #222; display: flex; align-items: center; gap: 10px; cursor: pointer; min-width: 0; }
+        .queue-item b { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1; color: var(--text); }
+
+
+
+        /* difuminado*/
+        /* Efecto de difuminado para el reproductor */
+        .player-bar {
+            position: fixed;
+            bottom: 25px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 92%;
+            max-width: 600px;
+            
+            /* EFECTO LÍQUIDO */
+            background: var(--panel-bg); 
+            backdrop-filter: blur(20px) saturate(180%); /* El desenfoque y saturación estilo Apple */
+            -webkit-backdrop-filter: blur(20px) saturate(180%); /* Soporte para Safari/iOS */
+            
+            padding: 12px 20px;
+            border-radius: 30px; /* Bordes más redondeados para el look liquid */
+            
+            /* Borde sutil que simula el grosor del cristal */
+            border: 1px solid rgba(255, 255, 255, 0.15); 
+            
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            z-index: 1000;
+            transition: all 0.3s ease;
+}
+
+        .player-bar.loading {
+            filter: blur(8px); /* Nivel de difuminado */
+            opacity: 0.7;
+            pointer-events: none; /* Evita clicks mientras carga */
+        }
+
+        /* Opcional: Spinner sobre la imagen del reproductor mientras carga */
+        .img-container {
+            position: relative;
+            width: 45px;
+            height: 45px;
+            flex-shrink: 0;
+        }
+
+        .player-bar.loading .img-container::after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 20px;
+            height: 20px;
+            margin: -10px 0 0 -10px;
+            border: 3px solid var(--primary);
+            border-top-color: transparent;
+            border-radius: 50%;
+            animation: rotation 0.8s linear infinite;
+            z-index: 10;
+        }
+
+        /* Efecto para el contenedor de resultados */
+        #results {
+            transition: filter 0.3s ease, opacity 0.3s ease;
+        }
+
+        #results.loading {
+            filter: blur(15px);
+            opacity: 0.6;
+            pointer-events: none; /* Evita clicks accidentales mientras carga */
+        }
+
+        /*panel de autenticacion*/
+                /* Corrección para centrar el panel de Auth */
+        #authPanel {
+            /* Reseteamos posiciones de los otros paneles */
+            top: 50% !important;
+            left: 50% !important;
+            margin: 0 !important;
+            
+            /* Estado CERRADO: centrado pero invisible y pequeño */
+            transform: translate(-50%, -50%) scale(0.8) !important;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        #authPanel.open {
+            /* Estado ABIERTO: centrado, visible y tamaño normal */
+            transform: translate(-50%, -50%) scale(1) !important;
+            opacity: 1;
+            visibility: visible;
+        } 
+
+        /*blur para el panel de busqueda*/
+        /* 1. Capa de fondo difuminado (estará oculta por defecto) */
+        .blur-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4); /* Oscurece un poco */
+            backdrop-filter: blur(15px);   /* Aquí aplicamos el blur */
+            -webkit-backdrop-filter: blur(15px);
+            z-index: 1050;                /* Debajo del panel pero arriba de la app */
+            opacity: 0;
+            visibility: hidden;
+            transition: 0.4s;
+        }
+
+        /* Cuando un panel está abierto, mostramos el overlay */
+        body.panel-open .blur-overlay {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* 2. Aseguramos que el panel de búsqueda esté por encima de TODO */
+        #searchPanel {
+            top: 100px !important;
+            z-index: 1100 !important; /* Más alto que el overlay */
+        }
+
+        #authPanel {
+            z-index: 1100 !important; /* El de login también arriba */
+        }
+
+        /* 3. Los disparadores (lupa y user) siempre visibles */
+        #authTrigger, #searchTrigger {
+            z-index: 1200;
+        }
+        /* cola de reproduccion*/
+        /* Corrección definitiva para el panel de la cola */
+#queuePanel {
+    /* Desactivamos el comportamiento de "caída desde arriba" */
+    top: auto !important; 
+    left: 50% !important;
+    
+    /* Lo fijamos abajo, justo donde empieza el reproductor */
+    bottom: 95px !important; 
+    
+    /* Ajuste de tamaño: más compacto */
+    width: 95%;
+    max-width: 550px;
+    height: auto;
+    max-height: 55vh; 
+    margin: 0 !important;
+    padding: 15px;
+    
+    /* Posición inicial: escondido abajo del reproductor */
+    transform: translate(-50%, 120%) !important;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1100 !important;
+    
+    /* Bordes elegantes: redondeados solo arriba */
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 -10px 25px rgba(0,0,0,0.5);
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+}
+
+/* Estado abierto: sube suavemente */
+#queuePanel.open {
+    transform: translate(-50%, 0) !important;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Ajuste de la lista interna para que tenga scroll si es larga */
+#queueList {
+    max-height: 40vh;
+    overflow-y: auto;
+    scrollbar-width: none; /* Oculta scroll en Firefox */
+}
+#queueList::-webkit-scrollbar { display: none; } /* Oculta scroll en Chrome/Safari */
+
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.home-float-btn {
+    position: fixed;
+    /* Subimos el valor para que libre el mini reproductor */
+    bottom: 150px; 
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff6b; /* blanco */
+    color: black;
+    border: none;
+    border-radius: 50%;
+    font-size: 24px;
+    z-index: 1000; /* Aseguramos que esté por encima de todo */
+    display: none; /* Se activa por JS */
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.home-float-btn:active {
+    transform: scale(0.85);
+}
+/* Esto es lo que permite que el carrusel funcione */
+.carousel-container {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: scroll !important;
+    scrollbar-width: none; /* Firefox */
+}
+
+.carousel-container::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+}
+
+/* Evita que las tarjetas se deformen */
+.carousel-container > div {
+    flex: 0 0 140px !important; /* El primer 0 evita que se encoja */
+    max-width: 140px;
+}
+.btn-ver-mas {
+    display: block;
+    width: calc(100% - 30px); /* Margen lateral para que no toque los bordes */
+    margin: 20px auto;
+    padding: 12px;
+    background: transparent;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.btn-ver-mas:active {
+    background: var(--primary);
+    color: black;
+    transform: scale(0.98);
+}
+
+/* Ocultar suavemente cuando desaparece */
+#loadMoreBtn {
+    transition: opacity 0.3s ease;
+}
+
+/* Este es el contenedor que creamos para las 3 canciones */
+#recentListDiv {
+    padding: 0 15px; /* Espacio lateral para las tarjetas con degradado */
+    display: flex;
+    max-width: 100%;
+    overflow-x: hidden;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.item-card {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    gap: 12px;
+    padding: 12px 15px;
+    margin-bottom: 8px; /* Separación entre tarjetas */
+    border-radius: 12px;
+    
+    /* El Degradado: De un gris oscuro casi transparente a uno más sólido */
+    background: var(--card-gradient) !important;
+    
+    /* Bordes sutiles para dar profundidad */
+    border: 1px solid rgba(255,255,255,0.05);
+    
+    overflow: hidden;
+    transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.item-card:active {
+    transform: scale(0.98);
+    background: rgba(0, 0, 0, 0.784); /* Brilla un poco al tocarla */
+}
+
+/* Asegurar que la info no se rompa con el degradado */
+.item-card .info {
+    flex: 1;
+    min-width: 0;
+}
+
+.item-card .info b {
+    color: var(--text) !important;
+    font-size: 0.95rem;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.item-card .info span {
+    color: var(--subtext);
+    font-size: 0.8rem;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+    </style>
+</head>
+<body>
+    <div class="blur-overlay" onclick="closeAllPanels()"></div>
+
+<div class="top-btn" id="authTrigger" onclick="togglePanel('authPanel')">👤</div>
+<div class="top-btn" id="searchTrigger" onclick="togglePanel('searchPanel')">🔍</div>
+<div id="themeTrigger" class="top-btn" style="right: 80px; background: var(--panel-bg);border: 1px solid var(--border); color: var(--text);" onclick="toggleTheme()">🌓</div>
+
+<div class="container">
+    <div class="floating-panel" id="authPanel">
+        <div id="authInputs">
+            <h2 id="authTitle" style="text-align:center; margin:0 0 20px 0;">Bienvenido</h2>
+            <input type="text" id="authUser" placeholder="Usuario">
+            <input type="password" id="authPass" placeholder="Contraseña">
+            <button id="loginBtn" onclick="handleAuth()" style="width:100%; padding:14px; background:var(--primary); border:none; border-radius:12px; font-weight:bold;">Entrar</button>
+            <p onclick="switchAuth()" id="authLink" style="text-align:center; font-size:0.85rem; color:var(--subtext); margin-top:20px; cursor:pointer;">¿No tienes cuenta? Regístrate</p>
+        </div>
+        <div id="userInfo" style="display:none; text-align:center;">
+            <p>Hola, <b id="userLabel"></b></p>
+            <button onclick="loadFavorites()" style="width:100%; padding:12px; background:#333; color:white; border:none; border-radius:10px; margin-bottom:10px;">❤️ Mis Canciones</button>
+            <button onclick="loadFavArtistas()" style="width:100%; padding:12px; background:#444; color:white; border:none; border-radius:10px; margin-bottom:10px;">👥 Mis Artistas</button>
+            <button onclick="location.reload()" style="background:none; border:none; color:#ff4444; margin-top:10px;">Cerrar Sesión</button>
+        </div>
+    </div>
+
+    <div class="floating-panel" id="searchPanel">
+        <div class="filters">
+            <button class="filter-btn active" onclick="setType('s', this)">CANCIONES</button>
+            <button class="filter-btn" onclick="setType('a', this)">ARTISTAS</button>
+            <button class="filter-btn" onclick="setType('al', this)">ÁLBUMES</button>
+        </div>
+        <div style="display:flex; gap:10px;">
+            <input type="text" id="query" placeholder="¿Qué quieres escuchar?">
+            <button id="doSearchBtn" onclick="doSearch()" style="background:var(--primary); border:none; border-radius:12px; padding:0 20px; height:50px;">🔍</button>
+        </div>
+        <select id="qualitySelect">
+            <option value="LOW">Calidad: LOW</option>
+            <option value="HIGH">Calidad: HIGH</option>
+            <option value="LOSSLESS" selected>Calidad: LOSSLESS</option>
+            <option value="HI_RES_LOSSLESS">Calidad: HI-RES (Máxima)</option>
+        </select>
+    </div>
+
+    <div class="floating-panel" id="queuePanel" ">
+        <h3 style="text-align:center; margin-top:0;">En Cola</h3>
+        <div id="queueList"></div>
+        <!-- <button onclick="togglePanel('queuePanel')" style="width:100%; margin-top:15px; padding:12px; background:#333; color:white; border:none; border-radius:10px;">Cerrar</button>-->
+    </div>
+    
+    <button id="backBtn" class="home-float-btn" onclick="if(navigationStack.length > 1) { restoreSearch(); } else { loadDashboard(); }" style="display:none;">
+   <img src="https://img.icons8.com/?size=50&id=c9zgMbLUUiDQ&format=png&color=000000" alt="Home" style="width: 25px; height: 25px;">
+</button>
+    <div id="results" class="results"></div>
+</div>
+<div class="floating-panel" id="lyricsPanel" style="height: 80vh; overflow: hidden; display: flex; flex-direction: column;">
+    <div style="padding: 10px; border-bottom: 1px solid #333;">
+        <h3 id="lyricsTitle" style="text-align:center; margin:0;">Letras</h3>
+        <p id="lyricsArtist" style="text-align:center; color:var(--subtext); font-size:0.8rem; margin:0;"></p>
+    </div>
+    <div id="lyricsContent" style="flex: 1; overflow-y: auto; padding: 20px; text-align: center; scroll-behavior: smooth;" class="no-scrollbar">
+        </div>
+</div>
+
+<div class="player-bar" id="playerBar" style="display: none;">
+    <input type="range" class="seek-bar" id="seekBar" value="0">
+    <div style="display:flex; align-items:center; gap:12px;">
+        <img id="p-img" src="" style="width:45px; height:45px; border-radius:8px; object-fit:cover;" onclick="togglePanel('queuePanel')">
+        <div style="flex:1; min-width:0;" onclick="togglePanel('queuePanel')">
+            <b id="p-title" style="display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:0.9rem;color: var(--text);"></b>
+            <span id="p-artist" style="display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:0.75rem; color:var(--subtext);"></span>
+        </div>
+        <div style="display:flex; align-items:center; gap:8px;">
+            <button onclick="fetchLyricsV2()" class="lyrics-btn" style="background: var(--panel-bg); border: none;" >🎙️</button>
+            <button onclick="playPrev()" style="background:none; border:none; color: var(--text); font-size:1.3rem;">⏮</button>
+            <button id="playBtn" onclick="togglePlay()" style="width:42px; height:42px; background:var(--primary); border:none; border-radius:50%; font-size:1rem;">▶</button>
+            <button onclick="playNext()" style="background:none; border:none; color: var(--text); font-size:1.3rem;">⏭</button>
+        </div>
+    </div>
+</div>
+
+<audio id="mainAudio"></audio>
+
+<script>
+    let currentType = 's', navigationStack = [], currentQueue = [], currentIndex = -1;
+    let tempArtist = "", tempCover = "", currentUser = null, authMode = 'login';
+    const audio = document.getElementById('mainAudio');
+
+    // --- NUEVO: Estilos inyectados para que el carrusel funcione ---
+// --- ESTILOS ULTRA-FORZADOS PARA CARRUSEL ---
+    const style = document.createElement('style');
+    style.textContent = `
+        .carousel-wrapper {
+            width: 100%;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+        .carousel-container { 
+            display: grid !important;
+            grid-auto-flow: column !important;
+            grid-auto-columns: 140px !important; /* Ancho fijo de cada columna */
+            gap: 15px !important;
+            overflow-x: auto !important;
+            overflow-y: hidden !important;
+            padding: 10px 15px !important;
+            scrollbar-width: none; 
+            -webkit-overflow-scrolling: touch;
+            width: auto !important;
+        }
+        .carousel-container::-webkit-scrollbar { display: none; }
+        
+        .playlist-card-carousel {
+            width: 140px !important;
+            cursor: pointer; 
+            text-align: center;
+            user-select: none;
+            display: block !important;
+        }
+
+        .home-float-btn {
+            position: fixed;
+            bottom: 150px; 
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            background-color: #1DB954; 
+            border: none;
+            border-radius: 50%;
+            z-index: 1000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+            cursor: pointer;
+        }
+    `;
+    document.head.appendChild(style);
+
+    function togglePanel(id) {
+        const el = document.getElementById(id);
+        const isOpen = el.classList.contains('open');
+        document.querySelectorAll('.floating-panel').forEach(p => p.classList.remove('open'));
+        if(!isOpen) {
+            el.classList.add('open');
+            document.body.classList.add('panel-open');
+        } else {
+            document.body.classList.remove('panel-open');
+        }
+    }
+
+    function closeAllPanels() {
+        document.querySelectorAll('.floating-panel').forEach(p => p.classList.remove('open'));
+        document.body.classList.remove('panel-open');
+    }
+
+    let recientesFull = []; // Variable global para guardar todas las canciones
+    let actualesVisibles = 0; // Contador de cuántas estamos mostrando
+
+async function loadDashboard() {
+    navigationStack = []; 
+    document.getElementById('backBtn').style.display = 'none';
+    
+    const container = document.getElementById('results');
+    container.innerHTML = '<div class="loader-big"></div>';
+    
+    try {
+        const res = await fetch(`favoritos.php?action=get_home_data&usuario_id=${currentUser}`);
+        const json = await res.json();
+
+        if(json.canciones && json.canciones.length > 0) {
+            // BARAJAR TODA LA LISTA AQUÍ
+            recientesFull = shuffleArray(json.canciones); 
+            
+            actualesVisibles = 3; 
+
+            const title = document.createElement('h3');
+            title.style.margin = '30px 15px 10px 15px';
+            title.innerText = '🎵 Descubre de tu historial'; // Un título más dinámico
+            container.appendChild(title);
+
+            const recentListDiv = document.createElement('div');
+            recentListDiv.id = "recentListDiv";
+            container.appendChild(recentListDiv);
+
+            // Mostramos las primeras 3 del nuevo orden aleatorio
+            const iniciales = recientesFull.slice(0, actualesVisibles);
+            renderEnContenedor(iniciales, 'track', recentListDiv);
+
+        }
+        
+        if(json.status === 'success') {
+            container.innerHTML = ''; // Limpiamos el loader
+            
+            // --- SECCIÓN MIXES ---
+            const mixSection = document.createElement('div');
+            mixSection.className = "carousel-wrapper";
+            mixSection.innerHTML = `<h3 style="margin:20px 15px 10px 15px;color: var(--text);">✨ Mixes para ti</h3>`;
+            const scrollContainer = document.createElement('div');
+            scrollContainer.className = "carousel-container";
+            mixSection.appendChild(scrollContainer);
+            container.appendChild(mixSection);
+
+            const listaArtistas = json.artistas || [];
+            if(listaArtistas.length > 0) {
+                listaArtistas.forEach(art => {
+                    const nombre = art.name || art.nombre_artista || art.nombre;
+                    if(nombre) fetchAndRenderPlaylists(nombre, scrollContainer);
+                });
+            }
+
+            // --- SECCIÓN RECIENTES (EL PARCHE) ---
+            if(json.canciones && json.canciones.length > 0) {
+                recientesFull = json.canciones;
+                actualesVisibles = 3; 
+
+                const title = document.createElement('h3');
+                title.style.margin = '30px 15px 10px 15px';
+                title.innerText = '🎵 Escuchado recientemente';
+                container.appendChild(title);
+
+                // IMPORTANTE: Creamos un div para que render() no limpie todo el dashboard
+                const recentListDiv = document.createElement('div');
+                recentListDiv.id = "recentListDiv";
+                container.appendChild(recentListDiv);
+
+                // Renderizamos los primeros 3 usando una función auxiliar para no romper 'results'
+                const iniciales = recientesFull.slice(0, actualesVisibles);
+                renderEnContenedor(iniciales, 'track', recentListDiv);
+
+                if(recientesFull.length > actualesVisibles) {
+                    const btnMore = document.createElement('button');
+                    btnMore.id = 'loadMoreBtn';
+                    btnMore.className = 'btn-ver-mas';
+                    btnMore.innerText = 'Mostrar más';
+                    btnMore.onclick = () => mostrarMasRecientes();
+                    container.appendChild(btnMore);
+                }
+            }
+        }
+    } catch (e) { 
+        console.error("Error dashboard:", e);
+        container.innerHTML = '<p style="text-align:center;">Error al cargar el inicio.</p>';
+    }
+}
+
+        function renderEnContenedor(items, mode, targetElement) {
+    if(!items || !Array.isArray(items)) return; 
+
+    items.forEach((raw) => {
+        let d = raw.item || raw;
+        let title = (d.title || d.name || "Sin nombre").replace(/'/g, "");
+        let artist = (d.artist?.name || d.artist || d.nombre_artista || "Varios").replace(/'/g, "");
+        let coverId = d.album?.cover || d.cover || d.picture || d.foto_artista || tempCover;
+        const img = `https://resources.tidal.com/images/${coverId?.replaceAll('-', '/')}/160x160.jpg`;
+        
+        const card = document.createElement('div');
+        card.className = 'item-card';
+        // Añadimos inline style para asegurar que no se expanda
+        card.style.width = "100%"; 
+
+        card.innerHTML = `
+            <img src="${img}" style="width:50px; height:50px; border-radius:8px; flex-shrink:0;">
+            <div class="info">
+                <b title="${title}">${title}</b>
+                <span>${artist}</span>
+            </div>
+            <div style="flex-shrink:0;border-color: var(--text);">
+                <button class="btn-fav" onclick="fav(event, '${d.id}', '${title}', '${artist}', '${coverId}')">❤</button>
+            </div>`;
+            
+        card.onclick = () => {
+            currentQueue = [...recientesFull];
+            currentIndex = recientesFull.indexOf(raw);
+            triggerTrack();
+        };
+        targetElement.appendChild(card);
+    });
+}
+
+    function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]]; // Intercambio de elementos
+    }
+    return array;
+}
+
+function mostrarMasRecientes() {
+    const nextLimit = actualesVisibles + 3;
+    const siguienteGrupo = recientesFull.slice(actualesVisibles, nextLimit);
+    const target = document.getElementById('recentListDiv');
+    
+    renderEnContenedor(siguienteGrupo, 'track', target);
+    actualesVisibles = nextLimit;
+
+    if (actualesVisibles >= recientesFull.length) {
+        document.getElementById('loadMoreBtn').style.display = 'none';
+    }
+}
+
+        function mostrarMasRecientes() {
+    const target = document.getElementById('recentListDiv');
+    
+    // 1. Efecto visual: Desvanecer antes de cambiar
+    target.style.opacity = '0';
+    
+    setTimeout(() => {
+        // 2. Calcular el siguiente índice
+        let siguienteInicio = actualesVisibles;
+        
+        // Si llegamos al final, reiniciamos a 0 (Ciclado)
+        if (siguienteInicio >= recientesFull.length) {
+            siguienteInicio = 0;
+        }
+
+        const siguienteGrupo = recientesFull.slice(siguienteInicio, siguienteInicio + 3);
+        
+        // 3. Limpiar el contenedor (El reemplazo ocurre aquí)
+        target.innerHTML = '';
+        
+        // 4. Renderizar las nuevas 3
+        renderEnContenedor(siguienteGrupo, 'track', target);
+        
+        // 5. Actualizar el contador global
+        actualesVisibles = siguienteInicio + 3;
+        
+        // 6. Volver a mostrar con suavidad
+        target.style.opacity = '1';
+        
+        // Actualizar el texto del botón para feedback del usuario
+        const btn = document.getElementById('loadMoreBtn');
+        if (actualesVisibles >= recientesFull.length) {
+            btn.innerText = 'RESET';
+            actualesVisibles = 0; // Preparamos para el reinicio
+        } else {
+            btn.innerText = 'MAS';
+        }
+    }, 200); // 200ms de espera para la animación
+}
+
+    async function fetchAndRenderPlaylists(nombre, target) {
+        const url = `https://triton.squid.wtf/search/?p=${encodeURIComponent(nombre)}`;
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+            const items = data.data?.playlists?.items || [];
+            if(items.length > 0) {
+                const pl = items[0];
+                const card = document.createElement('div');
+                // --- MODIFICADO: Card con ancho fijo para carrusel ---
+                card.style.cssText = `
+                    flex: 0 0 140px; 
+                    width: 140px;
+                    cursor: pointer; 
+                    text-align: center;
+                    user-select: none;
+                `;
+                const imgHash = pl.squareImage || pl.image || pl.uuid;
+                const imgPath = imgHash ? imgHash.replace(/-/g, '/') : '';
+                const imgUrl = `https://resources.tidal.com/images/${imgPath}/640x640.jpg`;
+
+                card.innerHTML = `
+                    <div style="width:130px; height:130px; position:relative; margin:0 auto;">
+                        <img src="${imgUrl}" style="width:130px; height:130px; border-radius:18px; object-fit:cover; background:#1a1a1a;" 
+                             onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(pl.title)}&background=1DB954&color=000&bold=true'">
+                        <div style="position:absolute; bottom:8px; right:8px; background:#1DB954; width:28px; height:28px; border-radius:50%; display:flex; align-items:center; justify-content:center; color:black; font-size:10px;">▶</div>
+                    </div>
+                    <div style="font-size:11px; color: var(--text); margin-top:8px; font-weight:700; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; width:130px; padding:0 5px;">${pl.title}</div>`;
+                card.onclick = () => explorePlaylist(pl.uuid);
+                target.appendChild(card);
+            }
+        } catch (err) { console.error(err); }
+    }
+
+    async function explorePlaylist(uuid) {
+        if(!uuid) return;
+        const container = document.getElementById('results');
+        container.innerHTML = '<div class="loader-big"></div>';
+        window.scrollTo(0,0);
+        try {
+            const res = await fetch(`https://triton.squid.wtf/playlist/?id=${uuid}`);
+            const json = await res.json();
+            const tracks = json.data?.items || json.items || [];
+            if(tracks.length > 0) {
+                navigationStack.push({ data: tracks, mode: 'track' });render(tracks, 'track') 
+                render(tracks, 'track');
+                
+                // --- MODIFICADO: Imagen de Casita para BackBtn ---
+                const bBtn = document.getElementById('backBtn');
+                bBtn.className = "home-float-btn";
+                bBtn.innerHTML = `<img src="https://img.icons8.com/?size=50&id=c9zgMbLUUiDQ&format=png&color=000000" style="width:25px; height:25px;">`;
+                bBtn.style.display = 'flex';
+                bBtn.setAttribute('onclick', 'handleBackAction()');
+            } else { loadDashboard(); }
+        } catch (e) { loadDashboard(); }
+    }
+
+    function handleBackAction() {
+        if (navigationStack.length <= 1) {
+            loadDashboard();
+        } else {
+            restoreSearch();
+        }
+    }
+
+    async function doSearch() {
+        const q = document.getElementById('query').value;
+        const btn = document.getElementById('doSearchBtn');
+        const container = document.getElementById('results');
+        if (!q) return;
+
+        // --- MODIFICADO: Lupa GIF Animada ---
+        btn.innerHTML = `<img src="https://www.pikpng.com/pngl/m/151-1513059_lupa-sticker-magnifying-glass-emoji-clipart.png" style="width:35px; height:35px;">`;
+        btn.disabled = true;
+        container.innerHTML = '<div class="loader-big"></div>';
+        togglePanel('searchPanel');
+        try {
+            const res = await fetch(`https://triton.squid.wtf/search/?${currentType}=${encodeURIComponent(q)}`);
+            const json = await res.json();
+            let items = currentType === 's' ? (json.data.items || []) : 
+                        currentType === 'a' ? (json.data.artists?.items || []) : (json.data.albums?.items || []);
+            navigationStack = [{ data: items, mode: currentType }];render(items, currentType, false);
+            render(items, currentType, false);
+            
+            const bBtn = document.getElementById('backBtn');
+            bBtn.className = "home-float-btn";
+            bBtn.innerHTML = `<img src="https://img.icons8.com/?size=50&id=c9zgMbLUUiDQ&format=png&color=000000" style="width:25px; height:25px;">`;
+            bBtn.style.display = 'flex';
+            bBtn.setAttribute('onclick', 'restoreSearch()');
+        } catch (e) { container.innerHTML = '<p>Error</p>'; }
+        finally { 
+            btn.innerHTML = `<img src="https://www.pikpng.com/pngl/m/151-1513059_lupa-sticker-magnifying-glass-emoji-clipart.png" style="width:35px; height:35px;">`;
+            btn.disabled = false; 
+        }
+    }
+
+        function render(items, mode, append = false) {
+    const container = document.getElementById('results');
+    if(!append) {
+        container.innerHTML = '';
+        const bBtn = document.getElementById('backBtn');
+        // El botón se muestra si hay algo en el historial
+        bBtn.style.display = navigationStack.length > 0 ? 'flex' : 'none';
+    }
+        if(!items || !Array.isArray(items)) return; 
+
+        items.forEach((raw, idx) => {
+            let d = raw.item || raw;
+            let title = (d.title || d.name || d.nombre_artista || "Sin nombre").replace(/'/g, "");
+            let artist = (d.artist?.name || d.artists?.[0]?.name || d.artist || d.nombre_artista || tempArtist).replace(/'/g, "");
+            let coverId = d.album?.cover || d.cover || d.picture || d.foto_artista || tempCover;
+            const img = `https://resources.tidal.com/images/${coverId?.replaceAll('-', '/')}/160x160.jpg`;
+            const card = document.createElement('div');
+            card.className = 'item-card';
+            card.innerHTML = `
+                <img src="${img}">
+                <div class="info"><b>${title}</b><span>${artist}</span></div>
+                <div style="display:flex; align-items:center; gap:8px; flex-shrink:0;">
+                    ${(mode==='s' || mode==='track') ? `
+                        <button class="btn-fav" onclick="fav(event, '${d.id}', '${title}', '${artist}', '${coverId}')">❤</button>
+                        <button class="add-next-btn" onclick='addNext(event, ${JSON.stringify(d)})'>+</button>
+                    ` : (mode==='a') ? `
+                        <button class="btn-fav" onclick="favArtista(event, '${d.id}', '${title}', '${coverId}')">❤</button>
+                    ` : ''}
+                </div>`;
+            card.onclick = (e) => {
+                if(e.target.closest('button')) return;
+                if(mode==='s' || mode==='track') { 
+                    currentQueue = [...items]; 
+                    currentIndex = idx; 
+                    triggerTrack(); 
+                }
+                else if(mode==='al') { tempArtist = artist; tempCover = coverId; exploreAlbum(d.id); }
+                else if(mode==='a') exploreArtist(d.id);
+            };
+            container.appendChild(card);
+        });
+    }
+
+    async function playItem(d, t, a, i) {
+        const quality = document.getElementById('qualitySelect').value;
+        const playerBar = document.getElementById('playerBar');
+        playerBar.classList.add('loading');
+        playerBar.style.display = 'block';
+        try {
+            const res = await fetch(`https://triton.squid.wtf/track/?id=${d.id}&quality=${quality}`);
+            const json = await res.json();
+            const decoded = JSON.parse(atob(json.data.manifest));
+            audio.src = decoded.urls[0];
+            document.getElementById('p-title').innerText = t;
+            document.getElementById('p-artist').innerText = a;
+            document.getElementById('p-img').src = i;
+            audio.onplaying = () => playerBar.classList.remove('loading');
+            audio.play();
+            updateQueueUI();
+            if ('mediaSession' in navigator) {
+                navigator.mediaSession.metadata = new MediaMetadata({
+                    title: t, artist: a, artwork: [{ src: i, sizes: '512x512', type: 'image/jpeg' }]
+                });
+            }
+        } catch(e) { playerBar.classList.remove('loading'); playNext(); }
+    }
+
+    function playNext() { if (currentIndex < currentQueue.length - 1) { currentIndex++; triggerTrack(); } }
+    function playPrev() { if (currentIndex > 0) { currentIndex--; triggerTrack(); } }
+    function triggerTrack() {
+        const item = currentQueue[currentIndex];
+        const d = item.item || item;
+        const title = (d.title || d.name || d.nombre_artista || "Desconocido").replace(/'/g, "");
+        const artist = (d.artist?.name || d.artist || d.nombre_artista || tempArtist || "Varios").replace(/'/g, "");
+        const coverId = d.album?.cover || d.cover || d.picture || d.foto_artista || tempCover;
+        const img = `https://resources.tidal.com/images/${coverId?.replaceAll('-', '/')}/160x160.jpg`;
+        playItem(d, title, artist, img);
+    }
+
+    function addNext(e, itemToAdd) {
+        e.stopPropagation();
+        if (currentQueue.length === 0) { currentQueue.push(itemToAdd); currentIndex = 0; }
+        else { currentQueue.splice(currentIndex + 1, 0, itemToAdd); }
+        const btn = e.target;
+        btn.innerText = '✓';
+        setTimeout(() => { btn.innerText = '+'; }, 2000);
+        updateQueueUI();
+    }
+
+    function updateQueueUI() {
+        const list = document.getElementById('queueList');
+        list.innerHTML = '';
+        currentQueue.forEach((item, idx) => {
+            const d = item.item || item;
+            const row = document.createElement('div');
+            row.className = 'queue-item';
+            row.style.background = idx === currentIndex ? 'rgba(29, 185, 84, 0.1)' : 'transparent';
+            row.innerHTML = `<span style="color:${idx === currentIndex ? 'var(--primary)' : '#666'}">${idx+1}</span> 
+                             <div style="flex:1; min-width:0;"><b style="color:${idx === currentIndex ? 'var(--text)' : ''}">${d.title || d.name}</b></div>`;
+            row.onclick = () => { currentIndex = idx; triggerTrack(); };
+            list.appendChild(row);
+        });
+    }
+
+    audio.onended = () => playNext();
+    function togglePlay() { audio.paused ? audio.play() : audio.pause(); }
+    audio.onplay = () => { document.getElementById('playBtn').innerText = '⏸'; if('mediaSession' in navigator) navigator.mediaSession.playbackState = 'playing'; };
+    audio.onpause = () => { document.getElementById('playBtn').innerText = '▶'; if('mediaSession' in navigator) navigator.mediaSession.playbackState = 'paused'; };
+    audio.ontimeupdate = () => document.getElementById('seekBar').value = (audio.currentTime / audio.duration) * 100 || 0;
+    document.getElementById('seekBar').oninput = () => audio.currentTime = (document.getElementById('seekBar').value / 100) * audio.duration;
+
+    async function fav(e, track_id, titulo, artista, portada) {
+        e.stopPropagation(); if(!currentUser) return alert("Inicia sesión");
+        const btn = e.currentTarget;
+        const fd = new FormData(); fd.append('action', 'toggle'); fd.append('usuario_id', currentUser);
+        fd.append('track_id', track_id); fd.append('titulo', titulo); fd.append('artista', artista); fd.append('portada', portada);
+        const res = await fetch('favoritos.php', { method: 'POST', body: fd });
+        const data = await res.json();
+        data.status === 'added' ? btn.classList.add('active') : btn.classList.remove('active');
+    }
+
+    async function favArtista(e, artista_id, nombre, foto) {
+        e.stopPropagation(); if(!currentUser) return alert("Inicia sesión");
+        const btn = e.currentTarget;
+        const fd = new FormData(); fd.append('action', 'toggle_artista'); fd.append('usuario_id', currentUser);
+        fd.append('artista_id', artista_id); fd.append('nombre_artista', nombre); fd.append('foto_artista', foto);
+        const res = await fetch('favoritos.php', { method: 'POST', body: fd });
+        const data = await res.json();
+        data.status === 'added' ? btn.classList.add('active') : btn.classList.remove('active');
+    }
+
+    async function handleAuth() {
+        const u = document.getElementById('authUser').value, p = document.getElementById('authPass').value;
+        const fd = new FormData(); fd.append('action', authMode); fd.append('username', u); fd.append('password', p);
+        const res = await fetch('auth.php', { method: 'POST', body: fd });
+        const data = await res.json();
+        if(data.status === 'success') {
+            if(authMode === 'login') {
+                currentUser = data.user_id; document.getElementById('userLabel').innerText = data.username;
+                document.getElementById('authInputs').style.display = 'none'; document.getElementById('userInfo').style.display = 'block';
+                document.getElementById('authTrigger').classList.add('logged'); togglePanel('authPanel');
+                loadDashboard();
+            } else { alert("Registrado"); switchAuth(); }
+        } else alert(data.message);
+    }
+
+    async function exploreArtist(id) { 
+    const container = document.getElementById('results');
+    container.classList.add('loading');
+    try {
+        const res = await fetch(`https://triton.squid.wtf/artist/?f=${id}`);
+        const json = await res.json(); 
+        let albums = json.albums?.rows?.[0]?.modules?.[0]?.pagedList?.items || json.data?.albums?.items || [];
+        
+        // CORRECCIÓN AQUÍ: Guardamos un objeto con data y modo
+        navigationStack.push({ data: albums, mode: 'al' }); 
+        render(albums, 'al'); 
+        
+        const bBtn = document.getElementById('backBtn');
+        bBtn.style.display = 'flex';
+        bBtn.setAttribute('onclick', 'restoreSearch()');
+    } catch(e) { console.error(e); } finally { container.classList.remove('loading'); }
+}
+
+    async function exploreAlbum(id) { 
+    const container = document.getElementById('results');
+    container.classList.add('loading');
+    try {
+        const res = await fetch(`https://triton.squid.wtf/album/?id=${id}`);
+        const json = await res.json(); 
+        let tracks = json.data?.items || json.data?.tracks?.items || [];
+        
+        // CORRECCIÓN AQUÍ: Usamos 'tracks' y modo 'track'
+        navigationStack.push({ data: tracks, mode: 'track' }); 
+        render(tracks, 'track'); 
+        
+        const bBtn = document.getElementById('backBtn');
+        bBtn.style.display = 'flex';
+        bBtn.setAttribute('onclick', 'restoreSearch()');
+    } catch(e) { console.error(e); } finally { container.classList.remove('loading'); }
+}
+
+    function restoreSearch() {
+    if (!navigationStack || navigationStack.length <= 1) { 
+        loadDashboard(); 
+        return; 
+    }
+    
+    navigationStack.pop(); // Sacamos el nivel actual
+    const lastLevel = navigationStack[navigationStack.length - 1]; // Miramos el anterior
+    
+    if (lastLevel && lastLevel.data) { 
+        // Ahora pasamos el modo correcto que guardamos previamente
+        render(lastLevel.data, lastLevel.mode); 
+    } else { 
+        loadDashboard(); 
+    }
+}
+
+    function setType(t, b) { currentType = t; document.querySelectorAll('.filter-btn').forEach(el => el.classList.remove('active')); b.classList.add('active'); }
+    function switchAuth() { authMode = (authMode === 'login') ? 'register' : 'login'; document.getElementById('authTitle').innerText = authMode === 'login' ? 'Bienvenido' : 'Registro'; }
+    function loadFavorites() { togglePanel('authPanel'); fetch(`favoritos.php?action=list&usuario_id=${currentUser}`).then(r=>r.json()).then(j=>{if(j.data){navigationStack=[j.data];render(j.data,'track');}}); }
+    function loadFavArtistas() { togglePanel('authPanel'); fetch(`favoritos.php?action=list_artistas&usuario_id=${currentUser}`).then(r=>r.json()).then(j=>{if(j.data){navigationStack=[j.data];render(j.data,'a');}}); }
+
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.setActionHandler('play', () => audio.play());
+        navigator.mediaSession.setActionHandler('pause', () => audio.pause());
+        navigator.mediaSession.setActionHandler('previoustrack', () => playPrev());
+        navigator.mediaSession.setActionHandler('nexttrack', () => playNext());
+    }
+
+    async function fetchLyricsV2() {
+    // 1. Obtenemos el item actual de tu cola de reproducción
+    const item = currentQueue[currentIndex];
+    const d = item.item || item;
+
+    // 2. Extraemos los datos necesarios
+    const title = (d.title || d.name).replace(/'/g, "");
+    const artist = (d.artist?.name || d.artist || tempArtist).replace(/'/g, "");
+    const album = (d.album?.title || "Unknown").replace(/'/g, "");
+    
+    // 3. Obtenemos la duración en segundos (entero)
+    // Usamos audio.duration o el valor que viene de la API si existe
+    const duration = Math.floor(audio.duration) || 0;
+
+    // 4. Construimos los parámetros de búsqueda
+    const params = new URLSearchParams({
+        title: title,
+        artist: artist,
+        album: album,
+        duration: duration,
+        source: 'apple,lyricsplus,musixmatch,spotify,musixmatch-word' // Tus fuentes preferidas
+    });
+
+    // 5. Creamos la URL final
+    const finalUrl = `https://lyricsplus.prjktla.workers.dev/v2/lyrics/get?${params.toString()}`;
+
+    // --- LOG DE DEPURACIÓN ---
+    console.log("Consultando letras en:", finalUrl);
+
+    // 6. Ejecutamos la petición (usando el panel que ya definimos antes)
+    const container = document.getElementById('lyricsContent');
+    document.getElementById('lyricsTitle').innerText = title;
+    document.getElementById('lyricsArtist').innerText = artist;
+    container.innerHTML = '<div class="loader-big"></div>';
+    togglePanel('lyricsPanel');
+
+    try {
+        const res = await fetch(finalUrl);
+        const data = await res.json();
+
+        if (data.lyrics && data.lyrics.length > 0) {
+            lyricsData = data.lyrics; // Guardamos para la sincronización
+            renderLyrics();
+        } else {
+            container.innerHTML = "<p style='color:gray;'>No se encontraron letras sincronizadas para esta canción.</p>";
+        }
+    } catch (e) {
+        console.error("Error en la consulta de letras:", e);
+        container.innerHTML = "<p>Error al conectar con el servicio de letras.</p>";
+    }
+}
+async function fetchLyricsV2() {
+    // 1. Extraer datos del objeto actual en la cola
+    const item = currentQueue[currentIndex];
+    const d = item.item || item;
+
+    // 2. Limpieza y preparación de metadatos
+    const title = (d.title || d.name || "Unknown").replace(/'/g, "");
+    const artist = (d.artist?.name || d.artist || d.nombre_artista || tempArtist || "Unknown").replace(/'/g, "");
+    
+    // Validación de álbum: Si no existe, usamos el título de la canción para evitar campos vacíos
+    const album = (d.album?.title || d.album || title).replace(/'/g, "");
+    
+    // Duración: La API v2 espera segundos. Si el audio no ha cargado, intentamos usar 0.
+    const duration = Math.floor(audio.duration) || 0;
+
+    // 3. Construcción dinámica de la URL usando URLSearchParams
+    const queryParams = new URLSearchParams({
+        title: title,
+        artist: artist,
+        album: album,
+        duration: duration,
+        source: 'apple,lyricsplus,musixmatch,spotify,musixmatch-word'
+    });
+
+    const finalUrl = `https://lyricsplus.prjktla.workers.dev/v2/lyrics/get?${queryParams.toString()}`;
+
+    // 4. Preparación de la interfaz
+    const container = document.getElementById('lyricsContent');
+    document.getElementById('lyricsTitle').innerText = title;
+    document.getElementById('lyricsArtist').innerText = artist;
+    container.innerHTML = '<div class="loader-big"></div>';
+    
+    // Abrir el panel (asegúrate de que el ID coincida con tu HTML)
+    if(!document.getElementById('lyricsPanel').classList.contains('open')) {
+        togglePanel('lyricsPanel');
+    }
+
+    try {
+        const res = await fetch(finalUrl);
+        const data = await res.json();
+
+        if (data.lyrics && data.lyrics.length > 0) {
+            lyricsData = data.lyrics; // Variable global para el ontimeupdate
+            renderLyrics(); // Función que dibuja los <p> en el contenedor
+        } else {
+            container.innerHTML = `<p style="color:gray; margin-top:40px;">No se encontraron letras para:<br><b>${title}</b></p>`;
+        }
+    } catch (e) {
+        console.error("Error consultando API de letras:", e);
+        container.innerHTML = "<p>Servidor de letras no disponible.</p>";
+    }
+}
+
+let lyricsData = []; // Guardará el array de letras sincronizadas
+
+async function fetchLyricsV2() {
+    const title = document.getElementById('p-title').innerText;
+    const artist = document.getElementById('p-artist').innerText;
+    const container = document.getElementById('lyricsContent');
+    
+    document.getElementById('lyricsTitle').innerText = title;
+    document.getElementById('lyricsArtist').innerText = artist;
+    container.innerHTML = '<div class="loader-big"></div>';
+    togglePanel('lyricsPanel');
+
+    try {
+        // Llamada a la API v2 que proporcionaste
+        const url = `https://lyricsplus.prjktla.workers.dev/v2/lyrics/get?title=${encodeURIComponent(title)}&artist=${encodeURIComponent(artist)}`;
+        const res = await fetch(url);
+        const data = await res.json();
+
+        if (data.lyrics && data.lyrics.length > 0) {
+            lyricsData = data.lyrics;
+            renderLyrics();
+        } else {
+            container.innerHTML = "<p>Letras no encontradas.</p>";
+        }
+    } catch (e) {
+        container.innerHTML = "<p>Error al cargar letras.</p>";
+    }
+}
+
+function renderLyrics() {
+    const container = document.getElementById('lyricsContent');
+    container.innerHTML = '';
+    
+    lyricsData.forEach((line, index) => {
+        const p = document.createElement('p');
+        p.id = `line-${index}`;
+        p.innerText = line.text;
+        p.style.cssText = `
+            font-size: 1.4rem;
+            font-weight: bold;
+            color: #444;
+            margin: 20px 0;
+            transition: all 0.3s ease;
+        `;
+        container.appendChild(p);
+    });
+}
+
+// SINCRONIZACIÓN EN TIEMPO REAL
+audio.ontimeupdate = () => {
+    // Actualizar barra de progreso (ya lo tenías)
+    document.getElementById('seekBar').value = (audio.currentTime / audio.duration) * 100 || 0;
+
+    // Lógica de letras
+    if (lyricsData.length > 0) {
+        const currentTimeMs = audio.currentTime * 1000;
+        
+        // Encontrar la línea actual
+        const currentIndex = lyricsData.findLastIndex(l => l.time <= currentTimeMs);
+
+        if (currentIndex !== -1) {
+            // Estilo para todas las líneas
+            document.querySelectorAll('#lyricsContent p').forEach((p, idx) => {
+                if (idx === currentIndex) {
+                    p.style.color = "var(--primary)";
+                    p.style.transform = "scale(1.1)";
+                    // Auto-scroll para centrar la letra
+                    p.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    p.style.color = "#444";
+                    p.style.transform = "scale(1)";
+                }
+            });
+        }
+    }
+};
+
+function toggleTheme() {
+    const html = document.documentElement;
+    const isLight = html.getAttribute('data-theme') === 'light';
+    const newTheme = isLight ? 'dark' : 'light';
+    
+    html.setAttribute('data-theme', newTheme);
+    localStorage.setItem('preferred-theme', newTheme);
+    
+    // Opcional: Feedback en el icono
+    console.log("Tema cambiado a: " + newTheme);
+}
+
+// Aplicar tema guardado al abrir la app
+(function() {
+    const saved = localStorage.getItem('preferred-theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', saved);
+})();
+</script>
+</body>
+</html>
