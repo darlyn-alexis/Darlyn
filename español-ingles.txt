@@ -1,0 +1,1323 @@
+{
+  "diccionario_vox": {
+    "bloque": 11,
+    "letras": ["A"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "A": [
+        {
+          "palabra": "a",
+          "categoria": "prep",
+          "definiciones": [
+            "to (dirección/tiempo)",
+            "at (lugar/tiempo)",
+            "on (días)",
+            "by (transporte)"
+          ],
+          "frases": {
+            "a la derecha": "to the right",
+            "a pie": "on foot"
+          }
+        },
+        {
+          "palabra": "abajo",
+          "categoria": "adv",
+          "definiciones": ["down", "downstairs (en un edificio)", "below"]
+        },
+        {
+          "palabra": "abandonar",
+          "categoria": "vt",
+          "definiciones": ["to abandon", "to leave", "to give up"]
+        },
+        {
+          "palabra": "abeja",
+          "categoria": "nf",
+          "definiciones": ["bee"]
+        },
+        {
+          "palabra": "abogado, -a",
+          "categoria": "nm/f",
+          "definiciones": ["lawyer", "solicitor (GB)", "attorney (US)"]
+        },
+        {
+          "palabra": "abrazar",
+          "categoria": "vt",
+          "definiciones": ["to hug", "to embrace"]
+        },
+        {
+          "palabra": "abrir",
+          "categoria": "vt",
+          "definiciones": ["to open"],
+          "notas": "p.p. irregular: abierto"
+        },
+        {
+          "palabra": "abuela",
+          "categoria": "nf",
+          "definiciones": ["grandmother", "grandma"]
+        },
+        {
+          "palabra": "abuelo",
+          "categoria": "nm",
+          "definiciones": ["grandfather", "grandpa"]
+        },
+        {
+          "palabra": "acabar",
+          "categoria": "vt/vi",
+          "definiciones": ["to finish", "to end"],
+          "frases": {
+            "acabar de + inf": "to have just + p.p."
+          }
+        },
+        {
+          "palabra": "aceite",
+          "categoria": "nm",
+          "definiciones": ["oil"]
+        },
+        {
+          "palabra": "aceptar",
+          "categoria": "vt",
+          "definiciones": ["to accept"]
+        },
+        {
+          "palabra": "acompañar",
+          "categoria": "vt",
+          "definiciones": ["to accompany", "to go with"]
+        },
+        {
+          "palabra": "aconsejar",
+          "categoria": "vt",
+          "definiciones": ["to advise"]
+        },
+        {
+          "palabra": "acordarse",
+          "categoria": "vpr",
+          "definiciones": ["to remember"],
+          "frases": {
+            "acordarse de": "to remember something/someone"
+          }
+        },
+        {
+          "palabra": "agua",
+          "categoria": "nf",
+          "notas": "el agua (masculino en singular por fonética)",
+          "definiciones": ["water"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 12,
+    "letras": ["B", "C"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "B": [
+        {
+          "palabra": "bailar",
+          "categoria": "vi/vt",
+          "definiciones": ["to dance"]
+        },
+        {
+          "palabra": "bajo, -a",
+          "categoria": "adj/prep",
+          "definiciones": {
+            "adj": ["short (estatura)", "low (altura/volumen)"],
+            "prep": ["under", "below"]
+          }
+        },
+        {
+          "palabra": "barato, -a",
+          "categoria": "adj",
+          "definiciones": ["cheap", "inexpensive"]
+        },
+        {
+          "palabra": "barco",
+          "categoria": "nm",
+          "definiciones": ["ship", "boat"]
+        },
+        {
+          "palabra": "beber",
+          "categoria": "vt",
+          "definiciones": ["to drink"]
+        },
+        {
+          "palabra": "beso",
+          "categoria": "nm",
+          "definiciones": ["kiss"]
+        },
+        {
+          "palabra": "bicicleta",
+          "categoria": "nf",
+          "definiciones": ["bicycle", "bike"]
+        },
+        {
+          "palabra": "billete",
+          "categoria": "nm",
+          "definiciones": ["ticket (viaje)", "note (dinero GB)", "bill (dinero US)"]
+        },
+        {
+          "palabra": "blanco, -a",
+          "categoria": "adj/nm",
+          "definiciones": ["white"]
+        },
+        {
+          "palabra": "boca",
+          "categoria": "nf",
+          "definiciones": ["mouth"]
+        },
+        {
+          "palabra": "bolso",
+          "categoria": "nm",
+          "definiciones": ["handbag", "purse (US)"]
+        },
+        {
+          "palabra": "bosque",
+          "categoria": "nm",
+          "definiciones": ["wood", "forest"]
+        },
+        {
+          "palabra": "brazo",
+          "categoria": "nm",
+          "definiciones": ["arm"]
+        },
+        {
+          "palabra": "bueno, -a",
+          "categoria": "adj",
+          "definiciones": ["good", "well (salud)"],
+          "frases": {
+            "¡buenos días!": "good morning!",
+            "de buena gana": "willingly"
+          }
+        },
+        {
+          "palabra": "buscar",
+          "categoria": "vt",
+          "definiciones": ["to look for", "to search"]
+        }
+      ],
+      "C": [
+        {
+          "palabra": "caballo",
+          "categoria": "nm",
+          "definiciones": ["horse"],
+          "frases": {
+            "a caballo": "on horseback"
+          }
+        },
+        {
+          "palabra": "cabeza",
+          "categoria": "nf",
+          "definiciones": ["head"]
+        },
+        {
+          "palabra": "cada",
+          "categoria": "adj",
+          "definiciones": ["each", "every"]
+        },
+        {
+          "palabra": "caer(se)",
+          "categoria": "vi/vpr",
+          "definiciones": ["to fall", "to fall down"],
+          "notas": "p.p.: caído"
+        },
+        {
+          "palabra": "café",
+          "categoria": "nm",
+          "definiciones": ["coffee (bebida)", "café (establecimiento)"]
+        },
+        {
+          "palabra": "caja",
+          "categoria": "nf",
+          "definiciones": ["box", "case", "till (cobro GB)", "cash register (cobro US)"]
+        },
+        {
+          "palabra": "calle",
+          "categoria": "nf",
+          "definiciones": ["street", "road"]
+        },
+        {
+          "palabra": "cama",
+          "categoria": "nf",
+          "definiciones": ["bed"]
+        },
+        {
+          "palabra": "cambiar",
+          "categoria": "vt/vi",
+          "definiciones": ["to change", "to exchange (moneda)"]
+        },
+        {
+          "palabra": "caminar",
+          "categoria": "vi",
+          "definiciones": ["to walk"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 13,
+    "letras": ["D", "E", "F"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "D": [
+        {
+          "palabra": "dar",
+          "categoria": "vt",
+          "definiciones": ["to give"],
+          "frases": {
+            "dar un paseo": "to go for a walk",
+            "darse cuenta de": "to realize"
+          }
+        },
+        {
+          "palabra": "de",
+          "categoria": "prep",
+          "definiciones": ["of", "from (procedencia)", "about (tema)", "in (tiempo)"],
+          "frases": {
+            "de nada": "you're welcome"
+          }
+        },
+        {
+          "palabra": "decir",
+          "categoria": "vt",
+          "definiciones": ["to say", "to tell"],
+          "notas": "p.p. irregular: dicho"
+        },
+        {
+          "palabra": "dedo",
+          "categoria": "nm",
+          "definiciones": ["finger (mano)", "toe (pie)"]
+        },
+        {
+          "palabra": "desayuno",
+          "categoria": "nm",
+          "definiciones": ["breakfast"]
+        },
+        {
+          "palabra": "despacio",
+          "categoria": "adv",
+          "definiciones": ["slowly", "softly"]
+        },
+        {
+          "palabra": "día",
+          "categoria": "nm",
+          "definiciones": ["day"],
+          "modismos": {
+            "al día siguiente": "the next day",
+            "todo el día": "all day long"
+          }
+        },
+        {
+          "palabra": "dormir",
+          "categoria": "vi/vpr",
+          "definiciones": ["to sleep", "to fall asleep (dormirse)"]
+        }
+      ],
+      "E": [
+        {
+          "palabra": "echar",
+          "categoria": "vt",
+          "definiciones": ["to throw", "to cast", "to put"],
+          "frases": {
+            "echar de menos": "to miss",
+            "echar una mano": "to lend a hand"
+          }
+        },
+        {
+          "palabra": "edad",
+          "categoria": "nf",
+          "definiciones": ["age"]
+        },
+        {
+          "palabra": "ejercicio",
+          "categoria": "nm",
+          "definiciones": ["exercise", "practice"]
+        },
+        {
+          "palabra": "él, ella",
+          "categoria": "pron",
+          "definiciones": ["he", "she", "him", "her"]
+        },
+        {
+          "palabra": "entrada",
+          "categoria": "nf",
+          "definiciones": ["entrance", "entry", "ticket (cine/teatro)"]
+        },
+        {
+          "palabra": "escribir",
+          "categoria": "vt",
+          "definiciones": ["to write"],
+          "notas": "p.p. irregular: escrito"
+        },
+        {
+          "palabra": "estar",
+          "categoria": "vi",
+          "definiciones": ["to be (estado/lugar)"],
+          "frases": {
+            "estar de acuerdo": "to agree"
+          }
+        }
+      ],
+      "F": [
+        {
+          "palabra": "fácil",
+          "categoria": "adj",
+          "definiciones": ["easy"]
+        },
+        {
+          "palabra": "familia",
+          "categoria": "nf",
+          "definiciones": ["family"]
+        },
+        {
+          "palabra": "fecha",
+          "categoria": "nf",
+          "definiciones": ["date"]
+        },
+        {
+          "palabra": "feliz",
+          "categoria": "adj",
+          "definiciones": ["happy"]
+        },
+        {
+          "palabra": "fuego",
+          "categoria": "nm",
+          "definiciones": ["fire"]
+        },
+        {
+          "palabra": "fuera",
+          "categoria": "adv",
+          "definiciones": ["outside", "out"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 14,
+    "letras": ["G", "H", "I"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "G": [
+        {
+          "palabra": "gafas",
+          "categoria": "nfpl",
+          "definiciones": ["glasses", "spectacles"]
+        },
+        {
+          "palabra": "ganar",
+          "categoria": "vt",
+          "definiciones": ["to win (premio/partido)", "to earn (dinero)"]
+        },
+        {
+          "palabra": "gato, -a",
+          "categoria": "nm/f",
+          "definiciones": ["cat"]
+        },
+        {
+          "palabra": "gente",
+          "categoria": "nf",
+          "notas": "Se usa con verbo en plural en inglés (people are...)",
+          "definiciones": ["people"]
+        },
+        {
+          "palabra": "gracias",
+          "categoria": "nfpl/interj",
+          "definiciones": ["thanks", "thank you"]
+        },
+        {
+          "palabra": "grande",
+          "categoria": "adj",
+          "definiciones": ["big", "large", "great"]
+        },
+        {
+          "palabra": "guerra",
+          "categoria": "nf",
+          "definiciones": ["war"]
+        },
+        {
+          "palabra": "guiar",
+          "categoria": "vt",
+          "definiciones": ["to guide", "to lead"]
+        }
+      ],
+      "H": [
+        {
+          "palabra": "haber",
+          "categoria": "vaux/vimp",
+          "definiciones": {
+            "vaux": ["to have (+ participio)"],
+            "vimp": ["there is / there are (hay)"]
+          }
+        },
+        {
+          "palabra": "hablar",
+          "categoria": "vi/vt",
+          "definiciones": ["to speak", "to talk"]
+        },
+        {
+          "palabra": "hacer",
+          "categoria": "vt",
+          "definiciones": ["to do", "to make"],
+          "notas": "p.p. irregular: hecho",
+          "frases": {
+            "hacer calor/frío": "to be hot/cold",
+            "hace tres días": "three days ago"
+          }
+        },
+        {
+          "palabra": "hacia",
+          "categoria": "prep",
+          "definiciones": ["towards", "about (tiempo)"]
+        },
+        {
+          "palabra": "hambre",
+          "categoria": "nf",
+          "notas": "el hambre (por fonética)",
+          "definiciones": ["hunger"],
+          "frases": {
+            "tener hambre": "to be hungry"
+          }
+        },
+        {
+          "palabra": "hermano, -a",
+          "categoria": "nm/f",
+          "definiciones": ["brother", "sister"]
+        },
+        {
+          "palabra": "hijo, -a",
+          "categoria": "nm/f",
+          "definiciones": ["son", "daughter"]
+        },
+        {
+          "palabra": "hora",
+          "categoria": "nf",
+          "definiciones": ["hour", "time"],
+          "frases": {
+            "¿qué hora es?": "what time is it?"
+          }
+        },
+        {
+          "palabra": "hoy",
+          "categoria": "adv",
+          "definiciones": ["today"]
+        }
+      ],
+      "I": [
+        {
+          "palabra": "idioma",
+          "categoria": "nm",
+          "definiciones": ["language"]
+        },
+        {
+          "palabra": "iglesia",
+          "categoria": "nf",
+          "definiciones": ["church"]
+        },
+        {
+          "palabra": "igual",
+          "categoria": "adj",
+          "definiciones": ["same", "equal"]
+        },
+        {
+          "palabra": "importante",
+          "categoria": "adj",
+          "definiciones": ["important"]
+        },
+        {
+          "palabra": "incendio",
+          "categoria": "nm",
+          "definiciones": ["fire"]
+        },
+        {
+          "palabra": "información",
+          "categoria": "nf",
+          "notas": "Sustantivo incontable en inglés (no existe 'informations')",
+          "definiciones": ["information"]
+        },
+        {
+          "palabra": "inglés, -esa",
+          "categoria": "adj/nm",
+          "definiciones": ["English"]
+        },
+        {
+          "palabra": "invierno",
+          "categoria": "nm",
+          "definiciones": ["winter"]
+        },
+        {
+          "palabra": "ir",
+          "categoria": "vi/vpr",
+          "definiciones": ["to go"],
+          "frases": {
+            "ir de compras": "to go shopping",
+            "irse": "to go away", "to leave"
+          }
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 15,
+    "letras": ["J", "L", "M"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "J": [
+        {
+          "palabra": "jardín",
+          "categoria": "nm",
+          "definiciones": ["garden"]
+        },
+        {
+          "palabra": "joven",
+          "categoria": "adj/nmf",
+          "definiciones": ["young", "young man / young woman"]
+        },
+        {
+          "palabra": "jueves",
+          "categoria": "nm",
+          "definiciones": ["Thursday"]
+        },
+        {
+          "palabra": "jugar",
+          "categoria": "vi/vt",
+          "definiciones": ["to play"],
+          "frases": {
+            "jugar al fútbol": "to play football"
+          }
+        },
+        {
+          "palabra": "jugo",
+          "categoria": "nm",
+          "definiciones": ["juice (zumo)", "sap (plantas)"]
+        },
+        {
+          "palabra": "junto, -a",
+          "categoria": "adj/adv",
+          "definiciones": ["together", "next to (junto a)"]
+        }
+      ],
+      "L": [
+        {
+          "palabra": "lado",
+          "categoria": "nm",
+          "definiciones": ["side"],
+          "frases": {
+            "al lado de": "next to", "beside"
+          }
+        },
+        {
+          "palabra": "ladrón, -ona",
+          "categoria": "nm/f",
+          "definiciones": ["thief", "burglar"]
+        },
+        {
+          "palabra": "largo, -a",
+          "categoria": "adj",
+          "definiciones": ["long"],
+          "notas": "Falso amigo: no significa 'large' (grande)"
+        },
+        {
+          "palabra": "lápiz",
+          "categoria": "nm",
+          "definiciones": ["pencil"]
+        },
+        {
+          "palabra": "leche",
+          "categoria": "nf",
+          "definiciones": ["milk"]
+        },
+        {
+          "palabra": "leer",
+          "categoria": "vt",
+          "definiciones": ["to read"],
+          "notas": "p.p.: leído"
+        },
+        {
+          "palabra": "lejos",
+          "categoria": "adv",
+          "definiciones": ["far", "far away"]
+        },
+        {
+          "palabra": "levantar",
+          "categoria": "vt/vpr",
+          "definiciones": ["to raise", "to lift", "to get up (levantarse)"]
+        },
+        {
+          "palabra": "libro",
+          "categoria": "nm",
+          "definiciones": ["book"]
+        },
+        {
+          "palabra": "limpiar",
+          "categoria": "vt",
+          "definiciones": ["to clean"]
+        },
+        {
+          "palabra": "llegar",
+          "categoria": "vi",
+          "definiciones": ["to arrive", "to reach"]
+        },
+        {
+          "palabra": "lluvia",
+          "categoria": "nf",
+          "definiciones": ["rain"]
+        }
+      ],
+      "M": [
+        {
+          "palabra": "madre",
+          "categoria": "nf",
+          "definiciones": ["mother"]
+        },
+        {
+          "palabra": "mal",
+          "categoria": "adv/nm",
+          "definiciones": ["badly", "wrongly", "evil"]
+        },
+        {
+          "palabra": "mano",
+          "categoria": "nf",
+          "notas": "Excepción de género: termina en 'o' pero es femenina",
+          "definiciones": ["hand"]
+        },
+        {
+          "palabra": "mañana",
+          "categoria": "nf/adv",
+          "definiciones": ["morning", "tomorrow"],
+          "frases": {
+            "por la mañana": "in the morning",
+            "pasado mañana": "the day after tomorrow"
+          }
+        },
+        {
+          "palabra": "más",
+          "categoria": "adv/adj",
+          "definiciones": ["more", "plus (+)"],
+          "frases": {
+            "más o menos": "more or less"
+          }
+        },
+        {
+          "palabra": "médico, -a",
+          "categoria": "nm/f",
+          "definiciones": ["doctor"]
+        },
+        {
+          "palabra": "mejor",
+          "categoria": "adj/adv",
+          "definiciones": ["better", "best (el mejor)"]
+        },
+        {
+          "palabra": "mes",
+          "categoria": "nm",
+          "definiciones": ["month"]
+        },
+        {
+          "palabra": "miedo",
+          "categoria": "nm",
+          "definiciones": ["fear"],
+          "frases": {
+            "tener miedo": "to be afraid"
+          }
+        },
+        {
+          "palabra": "mismo, -a",
+          "categoria": "adj/pron",
+          "definiciones": ["same", "self"]
+        },
+        {
+          "palabra": "morir",
+          "categoria": "vi",
+          "definiciones": ["to die"],
+          "notas": "p.p. irregular: muerto"
+        },
+        {
+          "palabra": "mucho, -a",
+          "categoria": "adj/adv",
+          "definiciones": ["much", "many", "a lot"]
+        },
+        {
+          "palabra": "mujer",
+          "categoria": "nf",
+          "definiciones": ["woman", "wife"]
+        },
+        {
+          "palabra": "mundo",
+          "categoria": "nm",
+          "definiciones": ["world"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 16,
+    "letras": ["N", "O", "P"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "N": [
+        {
+          "palabra": "nacer",
+          "categoria": "vi",
+          "definiciones": ["to be born"],
+          "notas": "p.p.: nacido"
+        },
+        {
+          "palabra": "nada",
+          "categoria": "pron/adv",
+          "definiciones": ["nothing", "not anything"],
+          "frases": {
+            "de nada": "you're welcome",
+            "no es nada": "it's nothing / don't mention it"
+          }
+        },
+        {
+          "palabra": "nadar",
+          "categoria": "vi",
+          "definiciones": ["to swim"]
+        },
+        {
+          "palabra": "nadie",
+          "categoria": "pron",
+          "definiciones": ["nobody", "no one", "anybody"]
+        },
+        {
+          "palabra": "naranja",
+          "categoria": "nf/adj",
+          "definiciones": ["orange"]
+        },
+        {
+          "palabra": "navidad",
+          "categoria": "nf",
+          "definiciones": ["Christmas"]
+        },
+        {
+          "palabra": "necesitar",
+          "categoria": "vt",
+          "definiciones": ["to need"]
+        },
+        {
+          "palabra": "negro, -a",
+          "categoria": "adj/nm",
+          "definiciones": ["black"]
+        },
+        {
+          "palabra": "niño, -a",
+          "categoria": "nm/f",
+          "definiciones": ["child", "boy", "girl"]
+        },
+        {
+          "palabra": "noche",
+          "categoria": "nf",
+          "definiciones": ["night", "evening"],
+          "frases": {
+            "esta noche": "tonight",
+            "nochebuena": "Christmas Eve"
+          }
+        },
+        {
+          "palabra": "nombre",
+          "categoria": "nm",
+          "definiciones": ["name", "noun (gramática)"]
+        },
+        {
+          "palabra": "norte",
+          "categoria": "nm",
+          "definiciones": ["north"]
+        },
+        {
+          "palabra": "nuevo, -a",
+          "categoria": "adj",
+          "definiciones": ["new"]
+        }
+      ],
+      "O": [
+        {
+          "palabra": "objeto",
+          "categoria": "nm",
+          "definiciones": ["object"]
+        },
+        {
+          "palabra": "obtener",
+          "categoria": "vt",
+          "definiciones": ["to obtain", "to get"]
+        },
+        {
+          "palabra": "oeste",
+          "categoria": "nm",
+          "definiciones": ["west"]
+        },
+        {
+          "palabra": "oír",
+          "categoria": "vt",
+          "definiciones": ["to hear"],
+          "notas": "p.p.: oído"
+        },
+        {
+          "palabra": "ojo",
+          "categoria": "nm",
+          "definiciones": ["eye"]
+        },
+        {
+          "palabra": "olvidar(se)",
+          "categoria": "vt/vpr",
+          "definiciones": ["to forget"],
+          "frases": {
+            "olvidarse de": "to forget about"
+          }
+        },
+        {
+          "palabra": "ordenador",
+          "categoria": "nm",
+          "notas": "GB (US: computer)",
+          "definiciones": ["computer"]
+        },
+        {
+          "palabra": "otoño",
+          "categoria": "nm",
+          "definiciones": ["autumn", "fall (US)"]
+        },
+        {
+          "palabra": "otro, -a",
+          "categoria": "adj/pron",
+          "definiciones": ["other", "another"]
+        }
+      ],
+      "P": [
+        {
+          "palabra": "padre",
+          "categoria": "nm",
+          "definiciones": ["father"],
+          "plural": {
+            "padres": "parents"
+          }
+        },
+        {
+          "palabra": "pagar",
+          "categoria": "vt",
+          "definiciones": ["to pay", "to pay for"]
+        },
+        {
+          "palabra": "país",
+          "categoria": "nm",
+          "definiciones": ["country"]
+        },
+        {
+          "palabra": "pan",
+          "categoria": "nm",
+          "definiciones": ["bread"]
+        },
+        {
+          "palabra": "parar(se)",
+          "categoria": "vt/vi/vpr",
+          "definiciones": ["to stop"]
+        },
+        {
+          "palabra": "parecer",
+          "categoria": "vi/vpr",
+          "definiciones": ["to seem", "to look like"],
+          "frases": {
+            "¿qué te parece?": "what do you think?"
+          }
+        },
+        {
+          "palabra": "partido",
+          "categoria": "nm",
+          "definiciones": ["match (deporte)", "game", "party (político)"]
+        },
+        {
+          "palabra": "pedir",
+          "categoria": "vt",
+          "definiciones": ["to ask for", "to order (comida/objetos)"]
+        },
+        {
+          "palabra": "perder",
+          "categoria": "vt/vpr",
+          "definiciones": ["to lose", "to miss (tren/autobús)"],
+          "notas": "p.p. irregular: perdido"
+        },
+        {
+          "palabra": "perro, -a",
+          "categoria": "nm/f",
+          "definiciones": ["dog"]
+        },
+        {
+          "palabra": "poco, -a",
+          "categoria": "adj/adv",
+          "definiciones": ["little", "few (pocos)", "not much"]
+        },
+        {
+          "palabra": "poder",
+          "categoria": "vaux/nm",
+          "definiciones": ["can", "to be able to", "power (poderío)"]
+        },
+        {
+          "palabra": "poner",
+          "categoria": "vt/vpr",
+          "definiciones": ["to put", "to set (la mesa)", "to turn on (la radio)"],
+          "notas": "p.p. irregular: puesto"
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 17,
+    "letras": ["Q", "R", "S"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "contenido": {
+      "Q": [
+        {
+          "palabra": "que",
+          "categoria": "conj/pron",
+          "definiciones": ["that", "than (comparativo)", "who/which (relativo)"],
+          "frases": {
+            "¿qué?": "what?",
+            "¡qué...!": "how...! / what a...!"
+          }
+        },
+        {
+          "palabra": "quedar(se)",
+          "categoria": "vi/vpr",
+          "definiciones": ["to remain", "to stay", "to be left", "to meet (citarse)"],
+          "frases": {
+            "quedarse con": "to keep"
+          }
+        },
+        {
+          "palabra": "querer",
+          "categoria": "vt",
+          "definiciones": ["to want", "to wish", "to love (a alguien)"]
+        },
+        {
+          "palabra": "quien",
+          "categoria": "pron",
+          "definiciones": ["who", "whom"],
+          "frases": {
+            "¿quién?": "who?"
+          }
+        },
+        {
+          "palabra": "quitar(se)",
+          "categoria": "vt/vpr",
+          "definiciones": ["to remove", "to take away", "to take off (ropa)"]
+        }
+      ],
+      "R": [
+        {
+          "palabra": "rápido, -a",
+          "categoria": "adj/adv",
+          "definiciones": ["quick", "fast", "quickly"]
+        },
+        {
+          "palabra": "recibir",
+          "categoria": "vt",
+          "definiciones": ["to receive", "to get"]
+        },
+        {
+          "palabra": "recoger",
+          "categoria": "vt",
+          "definiciones": ["to pick up", "to gather", "to collect"]
+        },
+        {
+          "palabra": "recordar",
+          "categoria": "vt",
+          "definiciones": ["to remember", "to remind (hacer recordar)"]
+        },
+        {
+          "palabra": "reír(se)",
+          "categoria": "vi/vpr",
+          "definiciones": ["to laugh"]
+        },
+        {
+          "palabra": "reloj",
+          "categoria": "nm",
+          "definiciones": ["clock (pared/mesa)", "watch (pulsera)"]
+        },
+        {
+          "palabra": "repetir",
+          "categoria": "vt",
+          "definiciones": ["to repeat"]
+        },
+        {
+          "palabra": "respuesta",
+          "categoria": "nf",
+          "definiciones": ["answer", "reply"]
+        },
+        {
+          "palabra": "reunión",
+          "categoria": "nf",
+          "definiciones": ["meeting"]
+        },
+        {
+          "palabra": "rojo, -a",
+          "categoria": "adj/nm",
+          "definiciones": ["red"]
+        },
+        {
+          "palabra": "romper(se)",
+          "categoria": "vt/vpr",
+          "definiciones": ["to break"],
+          "notas": "p.p. irregular: roto"
+        },
+        {
+          "palabra": "ropa",
+          "categoria": "nf",
+          "notas": "Sustantivo singular en español, pero suele ser incontable en inglés (clothes/clothing)",
+          "definiciones": ["clothes"]
+        }
+      ],
+      "S": [
+        {
+          "palabra": "saber",
+          "categoria": "vt/vi",
+          "definiciones": ["to know", "to find out (enterarse)", "to taste (sabor)"]
+        },
+        {
+          "palabra": "sacar",
+          "categoria": "vt",
+          "definiciones": ["to take out", "to get out"]
+        },
+        {
+          "palabra": "salir",
+          "categoria": "vi",
+          "definiciones": ["to go out", "to leave", "to come out"],
+          "notas": "p.p.: salido"
+        },
+        {
+          "palabra": "salud",
+          "categoria": "nf",
+          "definiciones": ["health"]
+        },
+        {
+          "palabra": "seguro, -a",
+          "categoria": "adj/nm",
+          "definiciones": ["safe", "sure", "certain", "insurance (póliza)"]
+        },
+        {
+          "palabra": "semana",
+          "categoria": "nf",
+          "definiciones": ["week"],
+          "frases": {
+            "fin de semana": "weekend"
+          }
+        },
+        {
+          "palabra": "sentar(se)",
+          "categoria": "vt/vpr",
+          "definiciones": ["to seat", "to sit down (sentarse)"]
+        },
+        {
+          "palabra": "sentir(se)",
+          "categoria": "vt/vpr",
+          "definiciones": ["to feel", "to be sorry (sentirlo)"]
+        },
+        {
+          "palabra": "ser",
+          "categoria": "vi/nm",
+          "definiciones": ["to be (esencial/permanente)", "being (ser vivo)"]
+        },
+        {
+          "palabra": "siempre",
+          "categoria": "adv",
+          "definiciones": ["always"]
+        },
+        {
+          "palabra": "sol",
+          "categoria": "nm",
+          "definiciones": ["sun"]
+        },
+        {
+          "palabra": "solo, -a",
+          "categoria": "adj/adv",
+          "definiciones": ["alone", "lonely", "only (sólo)"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 18,
+    "letras": ["T", "U", "V", "Y", "Z"],
+    "seccion": "ESPAÑOL-INGLÉS",
+    "final_rango": "Página 231",
+    "contenido": {
+      "T": [
+        {
+          "palabra": "también",
+          "categoria": "adv",
+          "definiciones": ["also", "too", "as well"]
+        },
+        {
+          "palabra": "tampoco",
+          "categoria": "adv",
+          "definiciones": ["neither", "not... either"]
+        },
+        {
+          "palabra": "tan",
+          "categoria": "adv",
+          "definiciones": ["so", "as (comparativo)"]
+        },
+        {
+          "palabra": "tarde",
+          "categoria": "nf/adv",
+          "definiciones": ["afternoon", "evening", "late (adv)"],
+          "frases": {
+            "buenas tardes": "good afternoon / good evening",
+            "más tarde": "later"
+          }
+        },
+        {
+          "palabra": "tarjeta",
+          "categoria": "nf",
+          "definiciones": ["card"],
+          "compuestos": {
+            "tarjeta de crédito": "credit card",
+            "tarjeta postal": "postcard"
+          }
+        },
+        {
+          "palabra": "tener",
+          "categoria": "vt",
+          "definiciones": ["to have", "to hold"],
+          "frases": {
+            "tener que": "to have to",
+            "tener frío/calor": "to be cold/hot"
+          }
+        },
+        {
+          "palabra": "tiempo",
+          "categoria": "nm",
+          "definiciones": ["time", "weather (clima)"]
+        },
+        {
+          "palabra": "todo, -a",
+          "categoria": "adj/pron",
+          "definiciones": ["all", "every", "everything"]
+        },
+        {
+          "palabra": "trabajar",
+          "categoria": "vi/vt",
+          "definiciones": ["to work"]
+        },
+        {
+          "palabra": "traer",
+          "categoria": "vt",
+          "definiciones": ["to bring"],
+          "notas": "p.p. irregular: traído"
+        }
+      ],
+      "U": [
+        {
+          "palabra": "último, -a",
+          "categoria": "adj",
+          "definiciones": ["last", "latest"]
+        },
+        {
+          "palabra": "un, uno, una",
+          "categoria": "art/pron",
+          "definiciones": ["a", "an", "one"]
+        },
+        {
+          "palabra": "usar",
+          "categoria": "vt",
+          "definiciones": ["to use", "to wear (ropa)"]
+        },
+        {
+          "palabra": "uva",
+          "categoria": "nf",
+          "definiciones": ["grape"]
+        }
+      ],
+      "V": [
+        {
+          "palabra": "vacaciones",
+          "categoria": "nfpl",
+          "definiciones": ["holiday (GB)", "vacation (US)"]
+        },
+        {
+          "palabra": "vender",
+          "categoria": "vt",
+          "definiciones": ["to sell"]
+        },
+        {
+          "palabra": "venir",
+          "categoria": "vi",
+          "definiciones": ["to come"]
+        },
+        {
+          "palabra": "ver",
+          "categoria": "vt",
+          "definiciones": ["to see", "to watch (TV/película)"],
+          "notas": "p.p. irregular: visto"
+        },
+        {
+          "palabra": "verdad",
+          "categoria": "nf",
+          "definiciones": ["truth"],
+          "frases": {
+            "¿verdad?": "right? / isn't it?"
+          }
+        },
+        {
+          "palabra": "viaje",
+          "categoria": "nm",
+          "definiciones": ["journey", "trip", "travel"]
+        },
+        {
+          "palabra": "viejo, -a",
+          "categoria": "adj",
+          "definiciones": ["old"]
+        },
+        {
+          "palabra": "volver",
+          "categoria": "vi/vpr",
+          "definiciones": ["to return", "to come back", "to turn (girar)"],
+          "notas": "p.p. irregular: vuelto"
+        }
+      ],
+      "Y": [
+        {
+          "palabra": "y",
+          "categoria": "conj",
+          "definiciones": ["and"]
+        },
+        {
+          "palabra": "ya",
+          "categoria": "adv",
+          "definiciones": ["already", "yet", "now"],
+          "frases": {
+            "ya no": "not anymore"
+          }
+        },
+        {
+          "palabra": "yo",
+          "categoria": "pron",
+          "definiciones": ["I", "me"]
+        }
+      ],
+      "Z": [
+        {
+          "palabra": "zapato",
+          "categoria": "nm",
+          "definiciones": ["shoe"]
+        },
+        {
+          "palabra": "zumo",
+          "categoria": "nm",
+          "notas": "Esp (LatAm: jugo)",
+          "definiciones": ["juice"]
+        }
+      ]
+    }
+  }
+}
