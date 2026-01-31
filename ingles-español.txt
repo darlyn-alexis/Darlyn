@@ -1,0 +1,1405 @@
+{
+  "diccionario_vox": {
+    "version": "2.0.0",
+    "seccion": "INGLÉS-ESPAÑOL",
+    "rango_paginas": "10-231",
+    "contenido": {
+      "A": [
+        {
+          "palabra": "a",
+          "fonetica": "[eɪ, ə]",
+          "categoria": "det",
+          "definiciones": ["un", "una"]
+        },
+        {
+          "palabra": "A",
+          "fonetica": "[eɪ]",
+          "categoria": "abbr",
+          "definiciones": [
+            "sobresaliente (calificación)",
+            "la (nota musical)"
+          ]
+        },
+        {
+          "palabra": "abandon",
+          "fonetica": "[ə'bændən]",
+          "categoria": "vt",
+          "definiciones": ["abandonar"]
+        },
+        {
+          "palabra": "abattoir",
+          "fonetica": "['æbətwa:]",
+          "categoria": "n",
+          "definiciones": ["matadero"]
+        },
+        {
+          "palabra": "ability",
+          "fonetica": "[ə'bɪlɪtɪ]",
+          "categoria": "n",
+          "definiciones": ["capacidad", "talento", "aptitud"]
+        },
+        {
+          "palabra": "able",
+          "fonetica": "['eɪbəl]",
+          "categoria": "adj",
+          "definiciones": ["hábil", "capaz"],
+          "frases": {
+            "to be able to": "1 poder. 2 saber"
+          }
+        },
+        {
+          "palabra": "about",
+          "fonetica": "[ə'baut]",
+          "categoria": "prep/adv",
+          "definiciones": [
+            "de", "sobre", "acerca de", 
+            "alrededor de", "por aquí"
+          ],
+          "modismos": {
+            "to be about to": "estar a punto de"
+          }
+        },
+        {
+          "palabra": "above",
+          "fonetica": "[ə'bʌv]",
+          "categoria": "prep/adv",
+          "definiciones": ["por encima de", "más de", "arriba"],
+          "modismos": {
+            "above all": "sobre todo"
+          }
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 2,
+    "letras": ["A", "B"],
+    "contenido": {
+      "A_cont": [
+        {
+          "palabra": "accelerate",
+          "fonetica": "[ək'seləreɪt]",
+          "categoria": "vt-vi",
+          "definiciones": ["acelerar"]
+        },
+        {
+          "palabra": "accent",
+          "fonetica": "['æksənt]",
+          "categoria": "n",
+          "definiciones": ["acento"]
+        },
+        {
+          "palabra": "accept",
+          "fonetica": "[ək'sept]",
+          "categoria": "vt",
+          "definiciones": ["aceptar"]
+        },
+        {
+          "palabra": "access",
+          "fonetica": "['ækses]",
+          "categoria": "n/vt",
+          "notas": "En computación: acceder a",
+          "definiciones": ["acceso"]
+        },
+        {
+          "palabra": "accident",
+          "fonetica": "['æksɪdənt]",
+          "categoria": "n",
+          "definiciones": ["accidente"]
+        },
+        {
+          "palabra": "accurate",
+          "fonetica": "['ækjʊrət]",
+          "categoria": "adj",
+          "definiciones": ["exacto,-a", "preciso,-a"]
+        },
+        {
+          "palabra": "accuse",
+          "fonetica": "[ə'kju:z]",
+          "categoria": "vt",
+          "definiciones": ["acusar"]
+        },
+        {
+          "palabra": "acknowledge",
+          "fonetica": "[ək'nɒlɪdʒ]",
+          "categoria": "vt",
+          "definiciones": ["1 reconocer", "2 agradecer"]
+        },
+        {
+          "palabra": "acquire",
+          "fonetica": "[ə'kwaɪə]",
+          "categoria": "vt",
+          "definiciones": ["1 adquirir (posesiones)", "2 obtener", "conseguir (información)"]
+        },
+        {
+          "palabra": "across",
+          "fonetica": "[ə'krɒs]",
+          "categoria": "prep/adv",
+          "ejemplos": ["to swim across a river (cruzar un río a nado)"],
+          "definiciones": ["a través de", "al otro lado de", "de un lado a otro"]
+        },
+        {
+          "palabra": "act",
+          "fonetica": "[ækt]",
+          "categoria": "n/vi",
+          "definiciones": ["1 acto", "2 número (espectáculo)", "3 ley (parlamento)", "actuar"]
+        },
+        {
+          "palabra": "actual",
+          "fonetica": "['æktʃʊəl]",
+          "categoria": "adj",
+          "definiciones": ["1 real", "2 exacto,-a"]
+        },
+        {
+          "palabra": "actually",
+          "fonetica": "['æktʃʊəlɪ]",
+          "categoria": "adv",
+          "definiciones": ["1 en realidad", "de hecho", "2 de verdad"]
+        },
+        {
+          "palabra": "add",
+          "fonetica": "[æd]",
+          "categoria": "vt/vi",
+          "definiciones": ["añadir", "sumar"]
+        },
+        {
+          "palabra": "address",
+          "fonetica": "[ə'dres]",
+          "categoria": "n/vt",
+          "definiciones": ["1 dirección", "2 discurso", "3 conferencia", "dirigirse a"]
+        }
+      ],
+      "B": [
+        {
+          "palabra": "baby",
+          "fonetica": "['beɪbɪ]",
+          "categoria": "n",
+          "definiciones": ["bebé"]
+        },
+        {
+          "palabra": "back",
+          "fonetica": "[bæk]",
+          "categoria": "n/adv",
+          "definiciones": ["1 espalda", "2 parte posterior", "atrás", "de vuelta"]
+        }
+      ]
+    }
+  }
+} 
+{
+  "diccionario_vox": {
+    "bloque": 3,
+    "letras": ["B", "C"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "B": [
+        {
+          "palabra": "baby",
+          "fonetica": "['beɪbɪ]",
+          "categoria": "n",
+          "definiciones": ["bebé", "niño,-a"],
+          "compuestos": {
+            "baby-sitter": "canguro"
+          }
+        },
+        {
+          "palabra": "bachelor",
+          "fonetica": "['bætʃələ]",
+          "categoria": "n",
+          "definiciones": ["soltero"]
+        },
+        {
+          "palabra": "back",
+          "fonetica": "[bæk]",
+          "categoria": "adj/n/adv/vt",
+          "definiciones": {
+            "adj": ["trasero,-a", "posterior"],
+            "n": ["espalda", "lomo", "respaldo", "fondo", "defensa"],
+            "adv": ["atrás", "de vuelta"],
+            "vt": ["apoyar", "financiar", "dar marcha atrás"]
+          },
+          "modismos": {
+            "back to front": "al revés",
+            "back pay": "atrasos"
+          }
+        },
+        {
+          "palabra": "bad",
+          "fonetica": "[bæd]",
+          "categoria": "adj",
+          "definiciones": ["malo,-a", "grave", "fuerte"],
+          "frases": {
+            "to go bad": "echarse a perder",
+            "from bad to worse": "de mal en peor"
+          }
+        },
+        {
+          "palabra": "bag",
+          "fonetica": "[bæg]",
+          "categoria": "n",
+          "definiciones": ["bolsa", "saco", "bolso"]
+        },
+        {
+          "palabra": "balance",
+          "fonetica": "['bæləns]",
+          "categoria": "n/vi",
+          "definiciones": ["equilibrio", "balanza", "saldo", "balance"]
+        },
+        {
+          "palabra": "bank",
+          "fonetica": "[bæŋk]",
+          "categoria": "n",
+          "definiciones": ["banco", "ribera", "orilla"],
+          "compuestos": {
+            "bank account": "cuenta bancaria",
+            "bank holiday": "día festivo"
+          }
+        },
+        {
+          "palabra": "be",
+          "fonetica": "[bi:]",
+          "categoria": "vi/aux",
+          "definiciones": ["ser", "estar", "tener (frío/calor)", "hacer (tiempo)"],
+          "uso": {
+            "there is/are": "hay"
+          }
+        },
+        {
+          "palabra": "beautiful",
+          "fonetica": "['bju:tɪfʊl]",
+          "categoria": "adj",
+          "definiciones": ["bonito,-a", "maravilloso,-a"]
+        }
+      ],
+      "C": [
+        {
+          "palabra": "call",
+          "fonetica": "[kɔ:l]",
+          "categoria": "n/vt/vi",
+          "definiciones": ["llamada", "visita", "llamar", "telefonear"],
+          "phrasal_verbs": {
+            "to call back": "volver a llamar",
+            "to call off": "suspender", "cancelar"
+          }
+        },
+        {
+          "palabra": "can",
+          "fonetica": "[kæn]",
+          "categoria": "aux/n",
+          "definiciones": {
+            "aux": ["poder", "saber"],
+            "n": ["lata", "bote"]
+          }
+        },
+        {
+          "palabra": "car",
+          "fonetica": "[kɑ:]",
+          "categoria": "n",
+          "definiciones": ["coche", "automóvil", "vagón"]
+        },
+        {
+          "palabra": "care",
+          "fonetica": "[keə]",
+          "categoria": "n/vi",
+          "definiciones": ["cuidado", "atención", "importar", "cuidar"],
+          "modismos": {
+            "take care!": "¡cuídate!",
+            "care of (c/o)": "a la atención de"
+          }
+        },
+        {
+          "palabra": "cheap",
+          "fonetica": "[tʃi:p]",
+          "categoria": "adj",
+          "definiciones": ["barato,-a", "económico,-a"]
+        },
+        {
+          "palabra": "city",
+          "fonetica": "['sɪtɪ]",
+          "categoria": "n",
+          "definiciones": ["ciudad"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 4,
+    "letras": ["D", "E", "F"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "D": [
+        {
+          "palabra": "dad",
+          "fonetica": "[dæd]",
+          "categoria": "n",
+          "definiciones": ["papá"]
+        },
+        {
+          "palabra": "daily",
+          "fonetica": "['deɪlɪ]",
+          "categoria": "adj/adv",
+          "definiciones": ["diario,-a", "a diario", "cada día"]
+        },
+        {
+          "palabra": "damage",
+          "fonetica": "['dæmɪdʒ]",
+          "categoria": "n/vt",
+          "definiciones": ["daño", "perjuicio", "dañar"]
+        },
+        {
+          "palabra": "danger",
+          "fonetica": "['deɪndʒə]",
+          "categoria": "n",
+          "definiciones": ["peligro"]
+        },
+        {
+          "palabra": "dark",
+          "fonetica": "[dɑ:k]",
+          "categoria": "adj/n",
+          "definiciones": ["oscuro,-a", "moreno,-a", "oscuridad"]
+        },
+        {
+          "palabra": "date",
+          "fonetica": "[deɪt]",
+          "categoria": "n/vt",
+          "definiciones": ["fecha", "cita", "datar", "poner la fecha"]
+        },
+        {
+          "palabra": "day",
+          "fonetica": "[deɪ]",
+          "categoria": "n",
+          "definiciones": ["día"],
+          "modismos": {
+            "day off": "día libre",
+            "these days": "hoy en día"
+          }
+        },
+        {
+          "palabra": "dead",
+          "fonetica": "[ded]",
+          "categoria": "adj",
+          "definiciones": ["muerto,-a"]
+        }
+      ],
+      "E": [
+        {
+          "palabra": "each",
+          "fonetica": "[i:tʃ]",
+          "categoria": "adj/pron",
+          "definiciones": ["cada", "cada uno"],
+          "frases": {
+            "each other": "uno a otro", "se"
+          }
+        },
+        {
+          "palabra": "early",
+          "fonetica": "['ɜ:lɪ]",
+          "categoria": "adj/adv",
+          "definiciones": ["temprano", "pronto", "anticipado"]
+        },
+        {
+          "palabra": "earn",
+          "fonetica": "[ɜ:n]",
+          "categoria": "vt",
+          "definiciones": ["ganar (dinero, un sueldo)"]
+        },
+        {
+          "palabra": "earth",
+          "fonetica": "[ɜ:θ]",
+          "categoria": "n",
+          "definiciones": ["tierra"]
+        },
+        {
+          "palabra": "easy",
+          "fonetica": "['i:zɪ]",
+          "categoria": "adj",
+          "definiciones": ["fácil"]
+        },
+        {
+          "palabra": "eat",
+          "fonetica": "[i:t]",
+          "categoria": "vt/vi",
+          "definiciones": ["comer"],
+          "irregular": "ate, eaten"
+        },
+        {
+          "palabra": "education",
+          "fonetica": "[,edjʊ'keɪʃən]",
+          "categoria": "n",
+          "definiciones": ["educación", "enseñanza"]
+        }
+      ],
+      "F": [
+        {
+          "palabra": "face",
+          "fonetica": "[feɪs]",
+          "categoria": "n/vt",
+          "definiciones": ["cara", "rostro", "hacer frente a", "dar a"]
+        },
+        {
+          "palabra": "fair",
+          "fonetica": "[feə]",
+          "categoria": "adj/n",
+          "definiciones": ["justo", "rubio", "feria"]
+        },
+        {
+          "palabra": "fall",
+          "fonetica": "[fɔ:l]",
+          "categoria": "vi/n",
+          "definiciones": ["caer", "caída", "otoño (US)"],
+          "irregular": "fell, fallen"
+        },
+        {
+          "palabra": "family",
+          "fonetica": "['fæmɪlɪ]",
+          "categoria": "n",
+          "definiciones": ["familia"]
+        },
+        {
+          "palabra": "far",
+          "fonetica": "[fɑ:]",
+          "categoria": "adv/adj",
+          "definiciones": ["lejos", "lejano"],
+          "modismos": {
+            "as far as": "hasta",
+            "so far": "hasta ahora"
+          }
+        },
+        {
+          "palabra": "fast",
+          "fonetica": "[fɑ:st]",
+          "categoria": "adj/adv",
+          "definiciones": ["rápido", "rápidamente"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 5,
+    "letras": ["G", "H", "I"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "G": [
+        {
+          "palabra": "game",
+          "fonetica": "[geɪm]",
+          "categoria": "n",
+          "definiciones": ["juego", "partida", "deporte", "caza"]
+        },
+        {
+          "palabra": "garden",
+          "fonetica": "['gɑ:dən]",
+          "categoria": "n",
+          "definiciones": ["jardín"]
+        },
+        {
+          "palabra": "gate",
+          "fonetica": "[geɪt]",
+          "categoria": "n",
+          "definiciones": ["puerta", "verja", "salida (aeropuerto)"]
+        },
+        {
+          "palabra": "get",
+          "fonetica": "[get]",
+          "categoria": "vt/vi",
+          "irregular": "got, got/gotten",
+          "definiciones": ["conseguir", "obtener", "llegar", "ponerse (enfermo/nervioso)"],
+          "phrasal_verbs": {
+            "to get up": "levantarse",
+            "to get on": "subir a (autobús/tren)",
+            "to get in": "entrar"
+          }
+        },
+        {
+          "palabra": "girl",
+          "fonetica": "[gɜ:l]",
+          "categoria": "n",
+          "definiciones": ["niña", "chica"]
+        },
+        {
+          "palabra": "go",
+          "fonetica": "[gəʊ]",
+          "categoria": "vi",
+          "irregular": "went, gone",
+          "definiciones": ["ir", "irse", "funcionar (máquina)"],
+          "modismos": {
+            "to go shopping": "ir de compras"
+          }
+        }
+      ],
+      "H": [
+        {
+          "palabra": "hair",
+          "fonetica": "[heə]",
+          "categoria": "n",
+          "definiciones": ["pelo", "cabello"]
+        },
+        {
+          "palabra": "hand",
+          "fonetica": "[hænd]",
+          "categoria": "n/vt",
+          "definiciones": ["mano", "manecilla (reloj)", "entregar", "pasar"],
+          "modismos": {
+            "on the other hand": "por otro lado",
+            "hand-made": "hecho a mano"
+          }
+        },
+        {
+          "palabra": "happen",
+          "fonetica": "['hæpən]",
+          "categoria": "vi",
+          "definiciones": ["suceder", "ocurrir"]
+        },
+        {
+          "palabra": "hard",
+          "fonetica": "[hɑ:d]",
+          "categoria": "adj/adv",
+          "definiciones": ["duro", "difícil", "mucho", "con fuerza"]
+        },
+        {
+          "palabra": "have",
+          "fonetica": "[hæv]",
+          "categoria": "vt/aux",
+          "irregular": "had",
+          "definiciones": ["tener", "haber"],
+          "uso": {
+            "to have to": "tener que"
+          }
+        }
+      ],
+      "I": [
+        {
+          "palabra": "ice",
+          "fonetica": "[aɪs]",
+          "categoria": "n",
+          "definiciones": ["hielo"],
+          "compuestos": {
+            "ice cream": "helado"
+          }
+        },
+        {
+          "palabra": "idea",
+          "fonetica": "[aɪ'dɪə]",
+          "categoria": "n",
+          "definiciones": ["idea", "noción"]
+        },
+        {
+          "palabra": "if",
+          "fonetica": "[ɪf]",
+          "categoria": "conj",
+          "definiciones": ["si"]
+        },
+        {
+          "palabra": "important",
+          "fonetica": "[ɪm'pɔ:tənt]",
+          "categoria": "adj",
+          "definiciones": ["importante"]
+        },
+        {
+          "palabra": "increase",
+          "fonetica": "[ɪn'kri:s]",
+          "categoria": "n/vt/vi",
+          "definiciones": ["aumento", "incremento", "aumentar"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 6,
+    "letras": ["J", "K", "L"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "J": [
+        {
+          "palabra": "jacket",
+          "fonetica": "['dʒækɪt]",
+          "categoria": "n",
+          "definiciones": ["chaqueta", "americana"]
+        },
+        {
+          "palabra": "jam",
+          "fonetica": "[dʒæm]",
+          "categoria": "n",
+          "definiciones": ["mermelada", "atasco (tráfico)"]
+        },
+        {
+          "palabra": "jar",
+          "fonetica": "[dʒɑ:]",
+          "categoria": "n",
+          "definiciones": ["tarro", "frasco"]
+        },
+        {
+          "palabra": "job",
+          "fonetica": "[dʒɒb]",
+          "categoria": "n",
+          "definiciones": ["trabajo", "empleo", "puesto"]
+        },
+        {
+          "palabra": "join",
+          "fonetica": "[dʒɔɪn]",
+          "categoria": "vt/vi",
+          "definiciones": ["unir", "juntar", "hacerse socio de", "asociarse"]
+        },
+        {
+          "palabra": "journey",
+          "fonetica": "['dʒɜ:nɪ]",
+          "categoria": "n",
+          "definiciones": ["viaje"]
+        },
+        {
+          "palabra": "judge",
+          "fonetica": "[dʒʌdʒ]",
+          "categoria": "n/vt",
+          "definiciones": ["juez", "juzgar"]
+        },
+        {
+          "palabra": "juice",
+          "fonetica": "[dʒu:s]",
+          "categoria": "n",
+          "definiciones": ["zumo", "jugo"]
+        },
+        {
+          "palabra": "jump",
+          "fonetica": "[dʒʌmp]",
+          "categoria": "vi/n",
+          "definiciones": ["saltar", "salto"]
+        }
+      ],
+      "K": [
+        {
+          "palabra": "keep",
+          "fonetica": "[ki:p]",
+          "categoria": "vt/vi",
+          "irregular": "kept",
+          "definiciones": ["guardar", "mantener", "quedarse con"],
+          "phrasal_verbs": {
+            "to keep on": "continuar",
+            "to keep up": "mantener el ritmo"
+          }
+        },
+        {
+          "palabra": "key",
+          "fonetica": "[ki:]",
+          "categoria": "n",
+          "definiciones": ["llave", "tecla", "clave"]
+        },
+        {
+          "palabra": "kill",
+          "fonetica": "[kɪl]",
+          "categoria": "vt",
+          "definiciones": ["matar"]
+        },
+        {
+          "palabra": "kind",
+          "fonetica": "[kaɪnd]",
+          "categoria": "n/adj",
+          "definiciones": ["clase", "tipo", "amable", "bondadoso"]
+        },
+        {
+          "palabra": "kitchen",
+          "fonetica": "['kɪtʃɪn]",
+          "categoria": "n",
+          "definiciones": ["cocina"]
+        },
+        {
+          "palabra": "knee",
+          "fonetica": "[ni:]",
+          "categoria": "n",
+          "definiciones": ["rodilla"]
+        },
+        {
+          "palabra": "knife",
+          "fonetica": "[naɪf]",
+          "categoria": "n",
+          "plural": "knives",
+          "definiciones": ["cuchillo"]
+        },
+        {
+          "palabra": "know",
+          "fonetica": "[nəʊ]",
+          "categoria": "vt/vi",
+          "irregular": "knew, known",
+          "definiciones": ["saber", "conocer"]
+        }
+      ],
+      "L": [
+        {
+          "palabra": "label",
+          "fonetica": "['leɪbəl]",
+          "categoria": "n/vt",
+          "definiciones": ["etiqueta", "etiquetar"]
+        },
+        {
+          "palabra": "lake",
+          "fonetica": "[leɪk]",
+          "categoria": "n",
+          "definiciones": ["lago"]
+        },
+        {
+          "palabra": "lamp",
+          "fonetica": "[læmp]",
+          "categoria": "n",
+          "definiciones": ["lámpara"]
+        },
+        {
+          "palabra": "language",
+          "fonetica": "['læŋgwɪdʒ]",
+          "categoria": "n",
+          "definiciones": ["lengua", "idioma", "lenguaje"]
+        },
+        {
+          "palabra": "last",
+          "fonetica": "[lɑ:st]",
+          "categoria": "adj/adv/vi",
+          "definiciones": ["último,-a", "pasado,-a", "durar"]
+        },
+        {
+          "palabra": "laugh",
+          "fonetica": "[lɑ:f]",
+          "categoria": "vi/n",
+          "definiciones": ["reír", "risa"]
+        },
+        {
+          "palabra": "learn",
+          "fonetica": "[lɜ:n]",
+          "categoria": "vt/vi",
+          "definiciones": ["aprender"]
+        },
+        {
+          "palabra": "leave",
+          "fonetica": "[li:v]",
+          "categoria": "vt/vi",
+          "irregular": "left",
+          "definiciones": ["dejar", "abandonar", "irse", "salir"]
+        }
+      ]
+    }
+  }
+}{
+  "diccionario_vox": {
+    "bloque": 7,
+    "letras": ["M", "N", "O"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "M": [
+        {
+          "palabra": "mad",
+          "fonetica": "[mæd]",
+          "categoria": "adj",
+          "definiciones": ["loco,-a", "enfadado,-a (US)"]
+        },
+        {
+          "palabra": "make",
+          "fonetica": "[meɪk]",
+          "categoria": "vt",
+          "irregular": "made",
+          "definiciones": ["hacer", "fabricar", "causar"],
+          "phrasal_verbs": {
+            "to make up": "1 inventar. 2 maquillarse",
+            "to make sure": "asegurarse"
+          }
+        },
+        {
+          "palabra": "man",
+          "fonetica": "[mæn]",
+          "categoria": "n",
+          "plural": "men",
+          "definiciones": ["hombre"]
+        },
+        {
+          "palabra": "many",
+          "fonetica": "['menɪ]",
+          "categoria": "adj/pron",
+          "definiciones": ["muchos,-as"]
+        },
+        {
+          "palabra": "market",
+          "fonetica": "['mɑ:kɪt]",
+          "categoria": "n",
+          "definiciones": ["mercado"]
+        },
+        {
+          "palabra": "mean",
+          "fonetica": "[mi:n]",
+          "categoria": "vt/adj",
+          "irregular": "meant",
+          "definiciones": ["significar", "querer decir", "tacaño,-a"]
+        },
+        {
+          "palabra": "meat",
+          "fonetica": "[mi:t]",
+          "categoria": "n",
+          "definiciones": ["carne"]
+        },
+        {
+          "palabra": "milk",
+          "fonetica": "[mɪlk]",
+          "categoria": "n/vt",
+          "definiciones": ["leche", "ordeñar"]
+        }
+      ],
+      "N": [
+        {
+          "palabra": "name",
+          "fonetica": "[neɪm]",
+          "categoria": "n/vt",
+          "definiciones": ["nombre", "nombrar"]
+        },
+        {
+          "palabra": "near",
+          "fonetica": "[nɪə]",
+          "categoria": "adj/adv/prep",
+          "definiciones": ["cercano", "cerca", "cerca de"]
+        },
+        {
+          "palabra": "need",
+          "fonetica": "[ni:d]",
+          "categoria": "n/vt",
+          "definiciones": ["necesidad", "necesitar"]
+        },
+        {
+          "palabra": "never",
+          "fonetica": "['nevə]",
+          "categoria": "adv",
+          "definiciones": ["nunca", "jamás"]
+        },
+        {
+          "palabra": "new",
+          "fonetica": "[nju:]",
+          "categoria": "adj",
+          "definiciones": ["nuevo,-a"]
+        },
+        {
+          "palabra": "night",
+          "fonetica": "[naɪt]",
+          "categoria": "n",
+          "definiciones": ["noche"]
+        },
+        {
+          "palabra": "no",
+          "fonetica": "[nəʊ]",
+          "categoria": "adj/adv",
+          "definiciones": ["ningún,-a", "no"]
+        },
+        {
+          "palabra": "noise",
+          "fonetica": "[nɔɪz]",
+          "categoria": "n",
+          "definiciones": ["ruido"]
+        }
+      ],
+      "O": [
+        {
+          "palabra": "often",
+          "fonetica": "['ɒfən]",
+          "categoria": "adv",
+          "definiciones": ["a menudo", "con frecuencia"]
+        },
+        {
+          "palabra": "old",
+          "fonetica": "[əʊld]",
+          "categoria": "adj",
+          "definiciones": ["viejo,-a", "antiguo,-a", "anciano,-a"]
+        },
+        {
+          "palabra": "once",
+          "fonetica": "[wʌns]",
+          "categoria": "adv/conj",
+          "definiciones": ["una vez", "en cuanto"],
+          "modismos": {
+            "at once": "en seguida"
+          }
+        },
+        {
+          "palabra": "only",
+          "fonetica": "['əʊnlɪ]",
+          "categoria": "adj/adv",
+          "definiciones": ["único,-a", "sólo", "solamente"]
+        },
+        {
+          "palabra": "open",
+          "fonetica": "['əʊpən]",
+          "categoria": "adj/vt/vi",
+          "definiciones": ["abierto,-a", "abrir"]
+        },
+        {
+          "palabra": "other",
+          "fonetica": "['ʌðə]",
+          "categoria": "adj/pron",
+          "definiciones": ["otro,-a"]
+        },
+        {
+          "palabra": "outside",
+          "fonetica": "[,aut'saɪd]",
+          "categoria": "adv/prep/n",
+          "definiciones": ["fuera", "fuera de", "exterior"]
+        },
+        {
+          "palabra": "over",
+          "fonetica": "['əʊvə]",
+          "categoria": "prep/adv",
+          "definiciones": ["sobre", "encima de", "al otro lado", "terminado"],
+          "modismos": {
+            "over there": "allí"
+          }
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 8,
+    "letras": ["P", "Q", "R"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "P": [
+        {
+          "palabra": "page",
+          "fonetica": "[peɪdʒ]",
+          "categoria": "n",
+          "definiciones": ["página"]
+        },
+        {
+          "palabra": "pain",
+          "fonetica": "[peɪn]",
+          "categoria": "n",
+          "definiciones": ["dolor", "sufrimiento"]
+        },
+        {
+          "palabra": "paper",
+          "fonetica": "['peɪpə]",
+          "categoria": "n",
+          "definiciones": ["papel", "periódico", "examen"]
+        },
+        {
+          "palabra": "part",
+          "fonetica": "[pɑ:t]",
+          "categoria": "n/vt",
+          "definiciones": ["parte", "pieza", "papel (teatro)", "separar"],
+          "modismos": {
+            "to take part in": "participar en"
+          }
+        },
+        {
+          "palabra": "pavement",
+          "fonetica": "['peɪvmənt]",
+          "categoria": "n",
+          "notas": "GB",
+          "definiciones": ["acera"]
+        },
+        {
+          "palabra": "pay",
+          "fonetica": "[peɪ]",
+          "categoria": "vt/vi",
+          "irregular": "paid",
+          "definiciones": ["pagar", "prestar (atención)"],
+          "compuestos": {
+            "pay phone": "teléfono público"
+          }
+        },
+        {
+          "palabra": "perhaps",
+          "fonetica": "[pə'hæps]",
+          "categoria": "adv",
+          "definiciones": ["quizá", "tal vez"]
+        }
+      ],
+      "Q": [
+        {
+          "palabra": "quarter",
+          "fonetica": "['kwɔ:tə]",
+          "categoria": "n",
+          "definiciones": ["cuarto", "trimestre", "moneda de 25 centavos (US)"]
+        },
+        {
+          "palabra": "question",
+          "fonetica": "['kwestʃən]",
+          "categoria": "n/vt",
+          "definiciones": ["pregunta", "cuestión", "interrogar", "dudar de"]
+        },
+        {
+          "palabra": "quick",
+          "fonetica": "[kwɪk]",
+          "categoria": "adj/adv",
+          "definiciones": ["rápido", "deprisa"]
+        },
+        {
+          "palabra": "quiet",
+          "fonetica": "['kwaɪət]",
+          "categoria": "adj/n",
+          "definiciones": ["tranquilo", "silencioso", "silencio", "paz"]
+        }
+      ],
+      "R": [
+        {
+          "palabra": "railway",
+          "fonetica": "['reɪlweɪ]",
+          "categoria": "n",
+          "notas": "GB (US: railroad)",
+          "definiciones": ["ferrocarril"]
+        },
+        {
+          "palabra": "read",
+          "fonetica": "[ri:d]",
+          "categoria": "vt/vi",
+          "irregular": "read [red]",
+          "definiciones": ["leer"]
+        },
+        {
+          "palabra": "real",
+          "fonetica": "['rɪəl]",
+          "categoria": "adj",
+          "definiciones": ["real", "verdadero"]
+        },
+        {
+          "palabra": "remember",
+          "fonetica": "[rɪ'membə]",
+          "categoria": "vt/vi",
+          "definiciones": ["recordar", "acordarse de"]
+        },
+        {
+          "palabra": "right",
+          "fonetica": "[raɪt]",
+          "categoria": "adj/adv/n",
+          "definiciones": ["derecho", "recto", "correcto", "bien", "derecha"],
+          "modismos": {
+            "all right": "está bien",
+            "on the right": "a la derecha"
+          }
+        },
+        {
+          "palabra": "road",
+          "fonetica": "[rəʊd]",
+          "categoria": "n",
+          "definiciones": ["camino", "carretera", "calle"]
+        },
+        {
+          "palabra": "run",
+          "fonetica": "[rʌn]",
+          "categoria": "vi/vt",
+          "irregular": "ran, run",
+          "definiciones": ["correr", "funcionar", "dirigir (negocio)"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 9,
+    "letras": ["S", "T", "U"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "contenido": {
+      "S": [
+        {
+          "palabra": "safe",
+          "fonetica": "[seɪf]",
+          "categoria": "adj/n",
+          "definiciones": ["seguro,-a", "a salvo", "caja fuerte"]
+        },
+        {
+          "palabra": "same",
+          "fonetica": "[seɪm]",
+          "categoria": "adj/pron",
+          "definiciones": ["mismo,-a", "lo mismo"]
+        },
+        {
+          "palabra": "say",
+          "fonetica": "[seɪ]",
+          "categoria": "vt",
+          "irregular": "said",
+          "definiciones": ["decir"]
+        },
+        {
+          "palabra": "school",
+          "fonetica": "[sku:l]",
+          "categoria": "n",
+          "definiciones": ["escuela", "colegio"]
+        },
+        {
+          "palabra": "see",
+          "fonetica": "[si:]",
+          "categoria": "vt/vi",
+          "irregular": "saw, seen",
+          "definiciones": ["ver", "comprender", "visitar"]
+        },
+        {
+          "palabra": "send",
+          "fonetica": "[send]",
+          "categoria": "vt",
+          "irregular": "sent",
+          "definiciones": ["enviar", "mandar"]
+        },
+        {
+          "palabra": "set",
+          "fonetica": "[set]",
+          "categoria": "n/vt/vi",
+          "irregular": "set",
+          "definiciones": ["juego", "colección", "poner", "fijar", "ponerse (el sol)"],
+          "phrasal_verbs": {
+            "to set up": "instalar, fundar",
+            "to set off": "salir (de viaje)"
+          }
+        },
+        {
+          "palabra": "she",
+          "fonetica": "[ʃi:]",
+          "categoria": "pron",
+          "definiciones": ["ella"]
+        },
+        {
+          "palabra": "show",
+          "fonetica": "[ʃəʊ]",
+          "categoria": "n/vt",
+          "irregular": "showed, shown",
+          "definiciones": ["espectáculo", "exposición", "mostrar", "enseñar"]
+        }
+      ],
+      "T": [
+        {
+          "palabra": "take",
+          "fonetica": "[teɪk]",
+          "categoria": "vt",
+          "irregular": "took, taken",
+          "definiciones": ["tomar", "llevar", "tardar (tiempo)"],
+          "phrasal_verbs": {
+            "to take off": "1 quitarse (ropa). 2 despegar",
+            "to take part": "participar"
+          }
+        },
+        {
+          "palabra": "talk",
+          "fonetica": "[tɔ:k]",
+          "categoria": "vi/n",
+          "definiciones": ["hablar", "conversar", "charla", "conversación"]
+        },
+        {
+          "palabra": "tell",
+          "fonetica": "[tel]",
+          "categoria": "vt/vi",
+          "irregular": "told",
+          "definiciones": ["decir", "contar", "referir"]
+        },
+        {
+          "palabra": "think",
+          "fonetica": "[θɪŋk]",
+          "categoria": "vt/vi",
+          "irregular": "thought",
+          "definiciones": ["pensar", "creer"]
+        },
+        {
+          "palabra": "through",
+          "fonetica": "[θru:]",
+          "categoria": "prep/adv",
+          "definiciones": ["a través de", "por medio de", "de principio a fin"]
+        },
+        {
+          "palabra": "time",
+          "fonetica": "[taɪm]",
+          "categoria": "n",
+          "definiciones": ["tiempo", "hora", "vez"],
+          "modismos": {
+            "on time": "a tiempo",
+            "at times": "a veces"
+          }
+        }
+      ],
+      "U": [
+        {
+          "palabra": "under",
+          "fonetica": "['ʌndə]",
+          "categoria": "prep/adv",
+          "definiciones": ["debajo de", "bajo", "menos de"]
+        },
+        {
+          "palabra": "understand",
+          "fonetica": "[,ʌndə'stænd]",
+          "categoria": "vt/vi",
+          "irregular": "understood",
+          "definiciones": ["entender", "comprender"]
+        },
+        {
+          "palabra": "until",
+          "fonetica": "[ən'tɪl]",
+          "categoria": "prep/conj",
+          "definiciones": ["hasta", "hasta que"]
+        },
+        {
+          "palabra": "up",
+          "fonetica": "[ʌp]",
+          "categoria": "adv/prep",
+          "definiciones": ["arriba", "hacia arriba", "en alto"],
+          "modismos": {
+            "up to": "hasta",
+            "what's up?": "¿qué pasa?"
+          }
+        },
+        {
+          "palabra": "use",
+          "fonetica": "[ju:s / ju:z]",
+          "categoria": "n/vt",
+          "notas": "n: [ju:s], v: [ju:z]",
+          "definiciones": ["uso", "utilidad", "usar", "utilizar"]
+        }
+      ]
+    }
+  }
+}
+{
+  "diccionario_vox": {
+    "bloque": 10,
+    "letras": ["V", "W", "X", "Y", "Z"],
+    "seccion": "INGLÉS-ESPAÑOL",
+    "final_seccion_ingles": true,
+    "contenido": {
+      "V": [
+        {
+          "palabra": "vacation",
+          "fonetica": "[və'keɪʃən]",
+          "categoria": "n",
+          "notas": "US (GB: holiday)",
+          "definiciones": ["vacaciones"]
+        },
+        {
+          "palabra": "very",
+          "fonetica": "['verɪ]",
+          "categoria": "adv",
+          "definiciones": ["muy", "mucho"]
+        },
+        {
+          "palabra": "view",
+          "fonetica": "[vju:]",
+          "categoria": "n",
+          "definiciones": ["vista", "opinión", "punto de vista"]
+        },
+        {
+          "palabra": "visit",
+          "fonetica": "['vɪzɪt]",
+          "categoria": "n/vt",
+          "definiciones": ["visita", "visitar"]
+        },
+        {
+          "palabra": "voice",
+          "fonetica": "[vɔɪs]",
+          "categoria": "n",
+          "definiciones": ["voz"]
+        }
+      ],
+      "W": [
+        {
+          "palabra": "wait",
+          "fonetica": "[weɪt]",
+          "categoria": "vi",
+          "definiciones": ["esperar"],
+          "phrasal_verbs": {
+            "to wait for": "esperar a"
+          }
+        },
+        {
+          "palabra": "walk",
+          "fonetica": "[wɔ:k]",
+          "categoria": "vi/n",
+          "definiciones": ["caminar", "pasear", "paseo"]
+        },
+        {
+          "palabra": "want",
+          "fonetica": "[wɒnt]",
+          "categoria": "vt",
+          "definiciones": ["querer", "desear"]
+        },
+        {
+          "palabra": "water",
+          "fonetica": "['wɔ:tə]",
+          "categoria": "n/vt",
+          "definiciones": ["agua", "regar"]
+        },
+        {
+          "palabra": "way",
+          "fonetica": "[weɪ]",
+          "categoria": "n",
+          "definiciones": ["camino", "vía", "manera", "dirección"],
+          "modismos": {
+            "by the way": "por cierto",
+            "one way": "dirección única / de ida"
+          }
+        },
+        {
+          "palabra": "well",
+          "fonetica": "[wel]",
+          "categoria": "adv/n/adj",
+          "definiciones": ["bien", "pozo", "sano", "bueno"]
+        },
+        {
+          "palabra": "work",
+          "fonetica": "[wɜ:k]",
+          "categoria": "n/vi",
+          "definiciones": ["trabajo", "obra", "trabajar", "funcionar"]
+        },
+        {
+          "palabra": "write",
+          "fonetica": "[raɪt]",
+          "categoria": "vt/vi",
+          "irregular": "wrote, written",
+          "definiciones": ["escribir"]
+        }
+      ],
+      "X": [
+        {
+          "palabra": "X-ray",
+          "fonetica": "['eksreɪ]",
+          "categoria": "n/vt",
+          "definiciones": ["radiografía", "hacer una radiografía"]
+        }
+      ],
+      "Y": [
+        {
+          "palabra": "year",
+          "fonetica": "[jɪə]",
+          "categoria": "n",
+          "definiciones": ["año"]
+        },
+        {
+          "palabra": "yellow",
+          "fonetica": "['jeləʊ]",
+          "categoria": "adj/n",
+          "definiciones": ["amarillo"]
+        },
+        {
+          "palabra": "yesterday",
+          "fonetica": "['jestədɪ]",
+          "categoria": "adv",
+          "definiciones": ["ayer"]
+        },
+        {
+          "palabra": "young",
+          "fonetica": "[jʌŋ]",
+          "categoria": "adj",
+          "definiciones": ["joven"]
+        }
+      ],
+      "Z": [
+        {
+          "palabra": "zero",
+          "fonetica": "['zɪərəʊ]",
+          "categoria": "n",
+          "definiciones": ["cero"]
+        },
+        {
+          "palabra": "zoo",
+          "fonetica": "[zu:]",
+          "categoria": "n",
+          "definiciones": ["zoo", "zoológico"]
+        }
+      ]
+    }
+  }
+}
