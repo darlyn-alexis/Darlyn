@@ -1,0 +1,25 @@
+{
+  "data_retrieval_api": {
+    "album_details": {
+      "name": "Get Album Info",
+      "url": "https://katze.qqdl.site/album/",
+      "param": "id",
+      "example": "https://katze.qqdl.site/album/?id=478876",
+      "description": "Muestra la lista de canciones y metadatos del álbum"
+    },
+    "artist_details": {
+      "name": "Get Artist Info",
+      "url": "https://triton.squid.wtf/artist/",
+      "param": "f",
+      "example": "https://triton.squid.wtf/artist/?f=8027279",
+      "description": "Muestra la biografía, top canciones y álbumes del artista"
+    },
+    "playlist_details": {
+      "name": "Get Playlist Info",
+      "url": "https://wolf.qqdl.site/playlist/",
+      "param": "id",
+      "example": "https://wolf.qqdl.site/playlist/?id=ae297ad0-49f8-444c-ab00-29c1c60ac34c",
+      "description": "Muestra todas las canciones contenidas en una playlist"
+    }
+  }
+}
