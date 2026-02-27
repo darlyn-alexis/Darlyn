@@ -1,0 +1,46 @@
+{
+  "music_service_api": {
+    "search_engine": {
+      "by_song": {
+        "url": "https://wolf.qqdl.site/search/",
+        "param": "s",
+        "description": "Busca canciones individuales",
+        "example": "https://wolf.qqdl.site/search/?s=bad%20bunny"
+      },
+      "by_artist": {
+        "url": "https://wolf.qqdl.site/search/",
+        "param": "a",
+        "description": "Busca por nombre de intérprete",
+        "example": "https://wolf.qqdl.site/search/?a=bad%20bunny"
+      },
+      "by_album": {
+        "url": "https://wolf.qqdl.site/search/",
+        "param": "al",
+        "description": "Busca álbumes completos",
+        "example": "https://wolf.qqdl.site/search/?al=bad%20bunny"
+      },
+      "by_playlist": {
+        "url": "https://wolf.qqdl.site/search/",
+        "param": "p",
+        "description": "Busca listas de reproducción",
+        "example": "https://wolf.qqdl.site/search/?p=bad%20bunny"
+      }
+    },
+    "streaming_engine": {
+      "playback": {
+        "url": "https://triton.squid.wtf/track/",
+        "required_params": {
+          "id": "227614739",
+          "quality": "LOSSLESS"
+        },
+        "available_qualities": [
+          "LOSSLESS",
+          "HIGH",
+          "MEDIUM",
+          "LOW"
+        ],
+        "full_request": "https://triton.squid.wtf/track/?id=227614739&quality=LOSSLESS"
+      }
+    }
+  }
+}
