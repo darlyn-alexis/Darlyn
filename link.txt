@@ -1,0 +1,34 @@
+{
+    "Premium": [
+        {
+            "Canal": "Movistar Laliga",
+            "Estado": "Activo",
+            "Link": "https://daddylive.lat/embed/embed.php?id=84&player=1&source=tv.json",
+            "Logo": "https://en.wikipedia.org/wiki/Disney_XD#/media/File:2015_Disney_XD_logo.svg"
+        },
+        {
+            "Canal": "Movistar la liga Hipermotion",
+            "Estado": "Activo",
+            "Link": "https://daddylive.lat/embed/embed.php?id=102&player=1&source=tv.json",
+            "Logo": "https://en.wikipedia.org/wiki/Disney_XD#/media/File:2015_Disney_XD_logo.svg"
+        },
+        {
+            "Canal": "Nombre del Canal 3",
+            "Estado": "Activo",
+            "Link": "https://daddylive.lat/embed/embed.php?id=25&player=1&source=tv.json",
+            "Logo": "https://en.wikipedia.org/wiki/Disney_XD#/media/File:2015_Disney_XD_logo.svg"
+        },
+        {
+            "Canal": "Movistar deportes españa",
+            "Estado": "Activo",
+            "Link": "https://daddylive.lat/embed/embed.php?id=436&player=1&source=tv.json",
+            "Logo": "https://en.wikipedia.org/wiki/Disney_XD#/media/File:2015_Disney_XD_logo.svg"
+        },
+        {
+            "Canal": "Disney XD",
+            "Estado": "Activo",
+            "Link": "https://daddylive.lat/embed/embed.php?id=314&player=1&source=tv.json",
+            "Logo": "https://en.wikipedia.org/wiki/Disney_XD#/media/File:2015_Disney_XD_logo.svg"
+        }
+    ]
+}
