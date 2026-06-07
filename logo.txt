@@ -50,7 +50,7 @@
         },
         {
             "Canal": "ECDF LigaPro (eventos)",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/LigaPro_Ecuador_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/VTV_Plus_2020.webp"
         }
     ],
     "ARGENTINA": [
@@ -68,7 +68,7 @@
         },
         {
             "Canal": "TNT Sports",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/TNT_Sports_logo_%282023%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/TNT_Sports_(United_Kingdom)#/media/File:TNT_Sports_(2023).svg"
         },
         {
             "Canal": "ESPN Premium",
@@ -84,7 +84,7 @@
         },
         {
             "Canal": "Telefe",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Telefe_logo_2018.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Telefe#/media/File:Televisi%C3%B3n_Federal_Logo.svg"
         },
         {
             "Canal": "TV Pública",
@@ -94,7 +94,7 @@
     "PERÚ": [
         {
             "Canal": "Liga1 MAX",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/L1_Max_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg"
         },
         {
             "Canal": "Movistar Deportes",
