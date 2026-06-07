@@ -68,7 +68,7 @@
         },
         {
             "Canal": "TNT Sports",
-            "Logo": "https://en.wikipedia.org/wiki/TNT_Sports_(United_Kingdom)#/media/File:TNT_Sports_(2023).svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png"
         },
         {
             "Canal": "ESPN Premium",
@@ -84,7 +84,7 @@
         },
         {
             "Canal": "Telefe",
-            "Logo": "https://en.wikipedia.org/wiki/Telefe#/media/File:Televisi%C3%B3n_Federal_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2000_telefe.svg"
         },
         {
             "Canal": "TV Pública",
