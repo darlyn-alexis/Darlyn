@@ -1,0 +1,5412 @@
+[
+  {"id":"00","title":"Channel not listed #justask","logo_url":""},
+  {"id":"1","title":"Indosiar","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Indosiar_2015.svg"},
+  {"id":"2","title":"Tabii Spor 6 Turkey","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Tabii_logo.svg"},
+  {"id":"3","title":"Eleven Sports 4 Poland","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"},
+  {"id":"4","title":"Hub Premier","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/StarHub_Logo.svg"},
+  {"id":"5","title":"Sky Sport Premier League DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"},
+  {"id":"6","title":"V Sport Premium","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/V_Sport_logo.png"},
+  {"id":"7","title":"Thmanyah","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Thmanyah_Logo.svg"},
+  {"id":"8","title":"NBA League Pass","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/NBA_logo.svg"},
+  {"id":"9","title":"V Sport Football","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/V_Sport_logo.png"},
+  {"id":"10","title":"Al Iraqiya Sports","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Al_Iraqiya_New_Logo.png"},
+  {"id":"11","title":"DF1 DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/DF1_Primary_Logo.png"},
+  {"id":"12","title":"ERT 2 Greece","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/ERT2_logo.png"},
+  {"id":"13","title":"ORF 1 Austria","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/ORF_1_logo_2019.svg"},
+  {"id":"14","title":"NHL Gamecenter","logo_url":"https://en.wikipedia.org/wiki/Special:FilePath/NHL_Shield.svg"},
+  {"id":"15","title":"Arena Sport 1x2 Serbia","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"},
+  {"id":"16","title":"4seven UK","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/4seven_logo_2018.svg"},
+  {"id":"17","title":"Sport TV7 Portugal","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"},
+  {"id":"18","title":"Sky Sport 4 DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"},
+  {"id":"19","title":"Sky Sport 3 DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"},
+  {"id":"20","title":"Sky Sport 2 DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"},
+  {"id":"21","title":"Sky Sport 1 DE","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"},
+  {"id":"22","title":"STV 1 Slovenia","logo_url":"https://commons.wikimedia.org/wiki/Special:FilePath/TV_Slovenija_1_logo.svg"}
+  {
+    "id": "23",
+    "title": "NLSE",
+    "logo_url": ""
+  },
+  {
+    "id": "24",
+    "title": "JOJ Sport Slovakia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOJ_Sport_logo.svg"
+  },
+  {
+    "id": "25",
+    "title": "STV 2 Slovenia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Slovenija_2_logo.svg"
+  },
+  {
+    "id": "26",
+    "title": "TNT Sports 5 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "27",
+    "title": "svt 24 Sweden",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SVT24_logo_2016.svg"
+  },
+  {
+    "id": "28",
+    "title": "E4 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E4_logo_2018.svg"
+  },
+  {
+    "id": "29",
+    "title": "Magenta Sport 302",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "30",
+    "title": "Magenta Sport 306",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "31",
+    "title": "TNT Sports 1 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "32",
+    "title": "TNT Sports 2 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "33",
+    "title": "TNT Sports 3 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "34",
+    "title": "TNT Sports 4 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "35",
+    "title": "Sky Sports Football UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "36",
+    "title": "Sky Sports+ Plus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "37",
+    "title": "Sky Sports Action UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "38",
+    "title": "Sky Sports Main Event",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "39",
+    "title": "Fox Sports 1 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FS1_logo_2015.svg"
+  },
+  {
+    "id": "40",
+    "title": "Tennis Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "41",
+    "title": "EuroSport 1 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "42",
+    "title": "EuroSport 2 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "43",
+    "title": "PDC TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PDC_logo.png"
+  },
+  {
+    "id": "44",
+    "title": "ESPN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "45",
+    "title": "ESPN2 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "46",
+    "title": "Sky Sports Tennis UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "47",
+    "title": "Polsat Sport Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Sport_logo.svg"
+  },
+  {
+    "id": "48",
+    "title": "Canal+ Sport Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "49",
+    "title": "Sport TV1 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "50",
+    "title": "Polsat Sport 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Sport_logo.svg"
+  },
+  {
+    "id": "51",
+    "title": "ABC USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ABC_logo_2021.svg"
+  },
+  {
+    "id": "52",
+    "title": "CBS USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CBS_logo.svg"
+  },
+  {
+    "id": "53",
+    "title": "NBC USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_logo_2024.svg"
+  },
+  {
+    "id": "54",
+    "title": "FOX USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Broadcasting_Company_logo.svg"
+  },
+  {
+    "id": "55",
+    "title": "DAZN Zona 2 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "56",
+    "title": "Supersport Football",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "57",
+    "title": "EuroSport 1 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "58",
+    "title": "EuroSport 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "59",
+    "title": "STV2 Slovenia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Slovenija_2_logo.svg"
+  },
+  {
+    "id": "60",
+    "title": "Sky Sports F1 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_F1_logo_2020.svg"
+  },
+  {
+    "id": "61",
+    "title": "beIN Sports MENA English 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "62",
+    "title": "beIN SPORTS 1 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "63",
+    "title": "beIN SPORTS 2 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "64",
+    "title": "beIN SPORTS 3 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "65",
+    "title": "Sky Sports Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "66",
+    "title": "TUDN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TUDN_logo.svg"
+  },
+  {
+    "id": "67",
+    "title": "beIN SPORTS 4 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "68",
+    "title": "Canal+ Live 3 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "69",
+    "title": "Magenta Sport 307",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "70",
+    "title": "Sky Sports Golf UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "71",
+    "title": "Eleven Sports 1 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "72",
+    "title": "Eleven Sports 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "73",
+    "title": "Canal+ Sport 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "74",
+    "title": "Sport TV2 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "75",
+    "title": "Canal+ Sport 5 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "76",
+    "title": "Magenta Sport 305",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "77",
+    "title": "Movistar Liga de Campeones 9",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Liga_de_Campeones_logo.svg"
+  },
+  {
+    "id": "78",
+    "title": "SporTV Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg"
+  },
+  {
+    "id": "79",
+    "title": "SporTV2 Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg"
+  },
+  {
+    "id": "80",
+    "title": "SporTV3 Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg"
+  },
+  {
+    "id": "81",
+    "title": "ESPN Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "82",
+    "title": "ESPN2 Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "83",
+    "title": "ESPN3 Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "84",
+    "title": "Movistar Laliga",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_LaLiga_logo.svg"
+  },
+  {
+    "id": "85",
+    "title": "ESPN4 Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "86",
+    "title": "Canal+ Live 7 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "87",
+    "title": "TNT Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_logo.svg"
+  },
+  {
+    "id": "88",
+    "title": "Premier Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Premiere_logo.svg"
+  },
+  {
+    "id": "89",
+    "title": "Combate Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Combate_logo.png"
+  },
+  {
+    "id": "90",
+    "title": "beIN Sports MENA English 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "91",
+    "title": "beIN Sports 1 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "92",
+    "title": "beIN Sports 2 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "93",
+    "title": "beIN Sports 3 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "94",
+    "title": "beIN Sports 4 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "95",
+    "title": "beIN Sports 5 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "96",
+    "title": "beIN Sports 6 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "97",
+    "title": "beIN Sports 7 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "98",
+    "title": "beIN Sports 8 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "99",
+    "title": "beIN Sports 9 Arabic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "100",
+    "title": "beIN SPORTS XTRA 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "101",
+    "title": "Sport Klub 1 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "102",
+    "title": "Sport Klub 2 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "103",
+    "title": "Sport Klub 3 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "104",
+    "title": "Sport Klub 4 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "105",
+    "title": "Canal+ Live 5 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "106",
+    "title": "Canal+ Live 6 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "107",
+    "title": "Canal+ Live 4 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "108",
+    "title": "LALIGA TV Hypermotion 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LaLiga_logo.svg"
+  },
+  {
+    "id": "109",
+    "title": "Peacock Feed",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peacock_logo.svg"
+  },
+  {
+    "id": "110",
+    "title": "ACB DAZN Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "111",
+    "title": "TSN1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo.svg"
+  },
+  {
+    "id": "112",
+    "title": "TSN2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo.svg"
+  },
+  {
+    "id": "113",
+    "title": "TSN3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo.svg"
+  },
+  {
+    "id": "114",
+    "title": "TSN4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo.svg"
+  },
+  {
+    "id": "115",
+    "title": "TSN5",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo.svg"
+  },
+  {
+    "id": "116",
+    "title": "beIN SPORTS 1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "117",
+    "title": "beIN SPORTS 2 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "118",
+    "title": "beIN SPORTS 3 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "119",
+    "title": "RMC Sport 1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RMC_Sport_logo.svg"
+  },
+  {
+    "id": "120",
+    "title": "RMC Sport 2 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RMC_Sport_logo.svg"
+  },
+  {
+    "id": "121",
+    "title": "Canal+ France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "122",
+    "title": "Canal+ Sport France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "123",
+    "title": "Astro SuperSport 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "124",
+    "title": "Astro SuperSport 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "125",
+    "title": "Astro SuperSport 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "126",
+    "title": "Astro SuperSport 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "127",
+    "title": "Match TV Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "128",
+    "title": "TVP Sport Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP_Sport_logo.svg"
+  },
+  {
+    "id": "129",
+    "title": "Polsat Sport 3 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Sport_logo.svg"
+  },
+  {
+    "id": "130",
+    "title": "Sky sports Premier League",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "131",
+    "title": "Telemundo",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Telemundo_logo_2018.svg"
+  },
+  {
+    "id": "132",
+    "title": "Univision",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Univision_logo_2019.svg"
+  },
+  {
+    "id": "133",
+    "title": "Unimas",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UniMas_logo_2019.svg"
+  },
+  {
+    "id": "134",
+    "title": "Arena Sport 1 Premium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "135",
+    "title": "Arena Sport 2 Premium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "136",
+    "title": "Match Football 1 Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "137",
+    "title": "Match Football 2 Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "138",
+    "title": "Match Football 3 Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "139",
+    "title": "Arena Sport 3 Premium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "140",
+    "title": "Sport 1 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "141",
+    "title": "Sport 2 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "142",
+    "title": "Sport 3 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "143",
+    "title": "Sport 4 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "144",
+    "title": "Sport 5 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "145",
+    "title": "Sport 5 PLUS Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "146",
+    "title": "Sport 5 Live Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "147",
+    "title": "Sport 5 Star Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "148",
+    "title": "Sport 5 Gold Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sports_Channel_logo.svg"
+  },
+  {
+    "id": "149",
+    "title": "ESPN Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "150",
+    "title": "ESPN2 Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "151",
+    "title": "beIN SPORTS MAX AR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "152",
+    "title": "Sky Sport 258 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "153",
+    "title": "KHL Tv",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/KHL_logo.svg"
+  },
+  {
+    "id": "154",
+    "title": "KHL Prime",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/KHL_logo.svg"
+  },
+  {
+    "id": "155",
+    "title": "3 Schweiz",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/3_Schweiz_logo.svg"
+  },
+  {
+    "id": "156",
+    "title": "Sky Sport 256 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "157",
+    "title": "Sky Sport 255 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "158",
+    "title": "SPFL Feed",
+    "logo_url": ""
+  },
+  {
+    "id": "159",
+    "title": "Sky Sport 253 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "160",
+    "title": "Sky Sport 254 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "161",
+    "title": "DAZN PPV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "162",
+    "title": "Magenta Sport 308",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "163",
+    "title": "Polsat Sport Premium 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Sport_logo.svg"
+  },
+  {
+    "id": "164",
+    "title": "Magenta Sport 304",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "165",
+    "title": "SportKlub 8 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "166",
+    "title": "Movistar Liga de Campeones 7",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Liga_de_Campeones_logo.svg"
+  },
+  {
+    "id": "167",
+    "title": "МАТЧ! СТРАНА Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "168",
+    "title": "Match Igra Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "169",
+    "title": "SportKlub 5 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "170",
+    "title": "TG4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TG4_logo.svg"
+  },
+  {
+    "id": "171",
+    "title": "ESPN Select",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "172",
+    "title": "Movistar Liga de Campeones 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Liga_de_Campeones_logo.svg"
+  },
+  {
+    "id": "173",
+    "title": "SRF Info",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SRF_info_logo.svg"
+  },
+  {
+    "id": "174",
+    "title": "Victory+",
+    "logo_url": ""
+  },
+  {
+    "id": "175",
+    "title": "FloHockey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FloSports_logo.svg"
+  },
+  {
+    "id": "176",
+    "title": "STV 3 Slovenia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Slovenija_3_logo.svg"
+  },
+  {
+    "id": "177",
+    "title": "Canal+ Live 15 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "178",
+    "title": "Next Level Sports",
+    "logo_url": ""
+  },
+  {
+    "id": "179",
+    "title": "DAZN France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "180",
+    "title": "Canal+ Live 13 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "181",
+    "title": "Esport3 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Esport3_logo.svg"
+  },
+  {
+    "id": "182",
+    "title": "Tv2 Sport 2 Norway",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Norge_logo.svg"
+  },
+  {
+    "id": "183",
+    "title": "SECN+ USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "184",
+    "title": "Movistar Deportes 8 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Deportes.svg"
+  },
+  {
+    "id": "185",
+    "title": "FUBO Sports",
+    "logo_url": ""
+  },
+  {
+    "id": "186",
+    "title": "Sky Sport 254 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "187",
+    "title": "Sky Sport 253 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "188",
+    "title": "Sky Sport 255 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "189",
+    "title": "Sky Sport 252 IT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "190",
+    "title": "Paramount+",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramount%2B_logo.svg"
+  },
+  {
+    "id": "191",
+    "title": "ESPN+ USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "192",
+    "title": "RTSH Sport Albania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTSH_logo.svg"
+  },
+  {
+    "id": "193",
+    "title": "Peacock",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peacock_logo.svg"
+  },
+  {
+    "id": "194",
+    "title": "Canal+ Live 2 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "195",
+    "title": "Tring Sport 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tring_logo.png"
+  },
+  {
+    "id": "196",
+    "title": "beIN SPORTS MAX 1 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "197",
+    "title": "Sky Sport 8 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "198",
+    "title": "TVMSport+ Malta",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVM_Malta_logo.png"
+  },
+  {
+    "id": "199",
+    "title": "Sportklub 10 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "200",
+    "title": "DYN Germany",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyn_Media_logo.svg"
+  },
+  {
+    "id": "201",
+    "title": "GAA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaelic_Athletic_Association_logo.svg"
+  },
+  {
+    "id": "202",
+    "title": "TV2 Direkte Norway",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Norge_logo.svg"
+  },
+  {
+    "id": "203",
+    "title": "Canal+ Live 1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "204",
+    "title": "DYN DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dyn_Media_logo.svg"
+  },
+  {
+    "id": "205",
+    "title": "DAZN LaLiga 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "206",
+    "title": "AHC (American Heroes Channel)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Heroes_Channel_logo.svg"
+  },
+  {
+    "id": "207",
+    "title": "BTN+ USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Ten_Network_logo.svg"
+  },
+  {
+    "id": "208",
+    "title": "TNT Sports 6 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "209",
+    "title": "Polsat Sport Fight Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Sport_logo.svg"
+  },
+  {
+    "id": "210",
+    "title": "PBS USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PBS_logo.svg"
+  },
+  {
+    "id": "211",
+    "title": "Sky Sport Austria 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Austria_logo_2020.svg"
+  },
+  {
+    "id": "212",
+    "title": "ESPN+ ESP",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "213",
+    "title": "МАТЧ! Igra Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "214",
+    "title": "Big Ten Plus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Ten_Network_logo.svg"
+  },
+  {
+    "id": "215",
+    "title": "GAA+",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaelic_Athletic_Association_logo.svg"
+  },
+  {
+    "id": "217",
+    "title": "beIN Sports 2 Max Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "218",
+    "title": "JOJ Sport SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOJ_Sport_logo.svg"
+  },
+  {
+    "id": "219",
+    "title": "Sport 1 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_1_and_Sport_2_logo.svg"
+  },
+  {
+    "id": "220",
+    "title": "JOJ Sport",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOJ_Sport_logo.svg"
+  },
+  {
+    "id": "223",
+    "title": "TV3 Max Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV3_MAX_logo.png"
+  },
+  {
+    "id": "224",
+    "title": "Sport Klub 10 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "226",
+    "title": "DAZN Baloncesto",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "227",
+    "title": "DAZN Baloncesto 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "228",
+    "title": "Event PPV",
+    "logo_url": ""
+  },
+  {
+    "id": "229",
+    "title": "Netflix PPV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_2015_logo.svg"
+  },
+  {
+    "id": "230",
+    "title": "DAZN 1 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "231",
+    "title": "Eurosport 1 SW",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "232",
+    "title": "Eurosport 2 SW",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "233",
+    "title": "Eurosport 1 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "234",
+    "title": "Eurosport 2 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "235",
+    "title": "Eurosport 1 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "238",
+    "title": "Triller TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triller_logo.png"
+  },
+  {
+    "id": "239",
+    "title": "Magenta Sport 301",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magenta_Sport_logo.svg"
+  },
+  {
+    "id": "240",
+    "title": "Sky Sports 1 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "241",
+    "title": "Sky Sports 2 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "242",
+    "title": "ACCNX USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ACC_Network_logo.svg"
+  },
+  {
+    "id": "248",
+    "title": "SKY Go Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Go_logo.svg"
+  },
+  {
+    "id": "249",
+    "title": "SECN+ USA USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "250",
+    "title": "UFC Fight Pass",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UFC_Fight_Pass_logo.png"
+  },
+  {
+    "id": "251",
+    "title": "SKY Sport 259 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "252",
+    "title": "FloRacing",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FloSports_logo.svg"
+  },
+  {
+    "id": "256",
+    "title": "SKY Sport 257 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "258",
+    "title": "Sportklub 9 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "259",
+    "title": "Canal+ Sport 3 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "260",
+    "title": "Vodafone Sport",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vodafone_Group_logo.svg"
+  },
+  {
+    "id": "263",
+    "title": "Celtic TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Celtic_FC_crest.svg"
+  },
+  {
+    "id": "265",
+    "title": "M4 Sports Hungary",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/M4_Sport_logo.svg"
+  },
+  {
+    "id": "267",
+    "title": "Star Sports 1 IN",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Sports_logo.svg"
+  },
+  {
+    "id": "268",
+    "title": "Star Sports Hindi IN",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_Sports_logo.svg"
+  },
+  {
+    "id": "269",
+    "title": "A Sport PK",
+    "logo_url": ""
+  },
+  {
+    "id": "270",
+    "title": "T Sports BD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/T_Sports_logo.png"
+  },
+  {
+    "id": "271",
+    "title": "Canal+ MotoGP France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "272",
+    "title": "V Sport Motor Sweden",
+    "logo_url": ""
+  },
+  {
+    "id": "273",
+    "title": "Canal+ Formula 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "274",
+    "title": "Sky Sports F1 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_F1_logo_2020.svg"
+  },
+  {
+    "id": "275",
+    "title": "Bandsports Brasil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BandSports_logo.png"
+  },
+  {
+    "id": "276",
+    "title": "LaLigaTV UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LaLiga_logo.svg"
+  },
+  {
+    "id": "277",
+    "title": "NBC10 Philadelphia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_logo_2024.svg"
+  },
+  {
+    "id": "278",
+    "title": "Law & Crime Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Law_%26_Crime_Network_logo.svg"
+  },
+  {
+    "id": "279",
+    "title": "FUSE TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fuse_TV_logo.svg"
+  },
+  {
+    "id": "280",
+    "title": "CW PIX 11 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WPIX_logo.svg"
+  },
+  {
+    "id": "281",
+    "title": "Court TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Court_TV_logo.svg"
+  },
+  {
+    "id": "282",
+    "title": "Heroes & Icons (H&I) USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heroes_%26_Icons_logo.svg"
+  },
+  {
+    "id": "283",
+    "title": "Antenna TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antenna_TV_logo.svg"
+  },
+  {
+    "id": "284",
+    "title": "StarzPlay CricLife 1 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starzplay_logo.svg"
+  },
+  {
+    "id": "285",
+    "title": "Discovery Velocity CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Velocity_logo.svg"
+  },
+  {
+    "id": "286",
+    "title": "YTV CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YTV_logo.svg"
+  },
+  {
+    "id": "287",
+    "title": "Pac-12 Network USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pac-12_Conference_logo.svg"
+  },
+  {
+    "id": "288",
+    "title": "ESPNews",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "289",
+    "title": "Sport TV4 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "290",
+    "title": "Sport TV5 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "291",
+    "title": "Sport TV6 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "292",
+    "title": "NewsNation USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NewsNation_logo.svg"
+  },
+  {
+    "id": "293",
+    "title": "Reelz Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ReelzChannel_logo.svg"
+  },
+  {
+    "id": "294",
+    "title": "Science Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Science_Channel_logo_2016.svg"
+  },
+  {
+    "id": "295",
+    "title": "Adult Swim",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult_Swim_logo.svg"
+  },
+  {
+    "id": "296",
+    "title": "Hallmark Movies & Mysterie",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hallmark_Movies_%26_Mysteries_logo.svg"
+  },
+  {
+    "id": "297",
+    "title": "Fox Business",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Business_Network_logo.svg"
+  },
+  {
+    "id": "298",
+    "title": "FXX USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FXX_logo.svg"
+  },
+  {
+    "id": "299",
+    "title": "Magnolia Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnolia_Network_logo.svg"
+  },
+  {
+    "id": "300",
+    "title": "CW USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_CW_logo.svg"
+  },
+  {
+    "id": "301",
+    "title": "Freeform",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freeform_2018.svg"
+  },
+  {
+    "id": "302",
+    "title": "A&E USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%26E_logo.svg"
+  },
+  {
+    "id": "303",
+    "title": "AMC USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AMC_logo.svg"
+  },
+  {
+    "id": "304",
+    "title": "Animal Planet",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Animal_Planet_logo_2018.svg"
+  },
+  {
+    "id": "305",
+    "title": "BBC America (BBCA)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_America_logo.svg"
+  },
+  {
+    "id": "306",
+    "title": "BET USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BET_logo.svg"
+  },
+  {
+    "id": "307",
+    "title": "Bravo USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bravo_logo_2017.svg"
+  },
+  {
+    "id": "308",
+    "title": "CBS Sports Network (CBSSN)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CBS_logo.svg"
+  },
+  {
+    "id": "309",
+    "title": "CNBC USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_logo.svg"
+  },
+  {
+    "id": "310",
+    "title": "Comedy Central",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Comedy_Central_logo.svg"
+  },
+  {
+    "id": "311",
+    "title": "Discovery Life Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Life_logo.svg"
+  },
+  {
+    "id": "312",
+    "title": "Disney Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney_Channel_logo.svg"
+  },
+  {
+    "id": "313",
+    "title": "Discovery Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Channel_logo_2019.svg"
+  },
+  {
+    "id": "314",
+    "title": "Disney XD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney_XD_logo.svg"
+  },
+  {
+    "id": "315",
+    "title": "E! Entertainment Television",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E%21_logo.svg"
+  },
+  {
+    "id": "316",
+    "title": "ESPNU USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "317",
+    "title": "FX USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FX_logo.svg"
+  },
+  {
+    "id": "318",
+    "title": "GOLF Channel USA",
+    "logo_url": ""
+  },
+  {
+    "id": "319",
+    "title": "Game Show Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Game_Show_Network_logo.svg"
+  },
+  {
+    "id": "320",
+    "title": "The Hallmark Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hallmark_Channel_logo.svg"
+  },
+  {
+    "id": "321",
+    "title": "HBO USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "322",
+    "title": "History USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/History_logo.svg"
+  },
+  {
+    "id": "323",
+    "title": "Headline News",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HLN_logo_2017.svg"
+  },
+  {
+    "id": "324",
+    "title": "Investigation Discovery (ID USA)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Investigation_Discovery_logo_2020.svg"
+  },
+  {
+    "id": "325",
+    "title": "ION USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ion_Television_logo.svg"
+  },
+  {
+    "id": "326",
+    "title": "Lifetime Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lifetime_logo.svg"
+  },
+  {
+    "id": "327",
+    "title": "MSNBC",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MSNBC_logo.svg"
+  },
+  {
+    "id": "328",
+    "title": "National Geographic (NGC)",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
+  },
+  {
+    "id": "329",
+    "title": "NICK JR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Jr._logo_2009.svg"
+  },
+  {
+    "id": "330",
+    "title": "NICK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nickelodeon_logo.svg"
+  },
+  {
+    "id": "331",
+    "title": "Oprah Winfrey Network (OWN)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oprah_Winfrey_Network_logo.svg"
+  },
+  {
+    "id": "332",
+    "title": "Oxygen True Crime",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxygen_logo_2017.svg"
+  },
+  {
+    "id": "333",
+    "title": "Showtime USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "334",
+    "title": "Paramount Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramount_Network_logo.svg"
+  },
+  {
+    "id": "335",
+    "title": "Starz",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "336",
+    "title": "TBS USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TBS_logo.svg"
+  },
+  {
+    "id": "337",
+    "title": "TLC",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TLC_logo_2016.svg"
+  },
+  {
+    "id": "338",
+    "title": "TNT USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_logo.svg"
+  },
+  {
+    "id": "339",
+    "title": "Cartoon Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon_Network_logo.svg"
+  },
+  {
+    "id": "340",
+    "title": "Travel Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Travel_Channel_logo.svg"
+  },
+  {
+    "id": "341",
+    "title": "TruTV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TruTV_logo.svg"
+  },
+  {
+    "id": "342",
+    "title": "TVLAND",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Land_logo.svg"
+  },
+  {
+    "id": "343",
+    "title": "USA Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/USA_Network_logo.svg"
+  },
+  {
+    "id": "344",
+    "title": "VH1 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/VH1_logo.svg"
+  },
+  {
+    "id": "345",
+    "title": "CNN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_logo.svg"
+  },
+  {
+    "id": "346",
+    "title": "Willow Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Willow_TV_logo.svg"
+  },
+  {
+    "id": "347",
+    "title": "Fox News",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_News_Channel_logo.svg"
+  },
+  {
+    "id": "348",
+    "title": "Dave",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_logo_2022.svg"
+  },
+  {
+    "id": "349",
+    "title": "BBC News Channel HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_News_logo.svg"
+  },
+  {
+    "id": "350",
+    "title": "ITV 1 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ITV_logo_2013.svg"
+  },
+  {
+    "id": "351",
+    "title": "ITV 2 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ITV_logo_2013.svg"
+  },
+  {
+    "id": "352",
+    "title": "ITV 3 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ITV_logo_2013.svg"
+  },
+  {
+    "id": "353",
+    "title": "ITV 4 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ITV_logo_2013.svg"
+  },
+  {
+    "id": "354",
+    "title": "Channel 4 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_4_logo_2015.svg"
+  },
+  {
+    "id": "355",
+    "title": "Channel 5 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_5_logo_2016.svg"
+  },
+  {
+    "id": "356",
+    "title": "BBC One UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_One_logo_2021.svg"
+  },
+  {
+    "id": "357",
+    "title": "BBC Two UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_Two_logo_2021.svg"
+  },
+  {
+    "id": "358",
+    "title": "BBC Three UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_Three_logo_2020.svg"
+  },
+  {
+    "id": "359",
+    "title": "BBC Four UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BBC_Four_logo_2021.svg"
+  },
+  {
+    "id": "360",
+    "title": "5 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/5USA_logo.svg"
+  },
+  {
+    "id": "361",
+    "title": "Sky Witness HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Witness_logo.svg"
+  },
+  {
+    "id": "362",
+    "title": "Sky Atlantic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Atlantic_logo.svg"
+  },
+  {
+    "id": "363",
+    "title": "E4 Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/E4_logo_2018.svg"
+  },
+  {
+    "id": "364",
+    "title": "RTE 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RT%C3%89_One_logo.svg"
+  },
+  {
+    "id": "365",
+    "title": "RTE 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RT%C3%89_Two_logo.svg"
+  },
+  {
+    "id": "366",
+    "title": "Sky Sports News UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "367",
+    "title": "MTV UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "368",
+    "title": "SuperSport Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "369",
+    "title": "Fox Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Sports_logo.svg"
+  },
+  {
+    "id": "370",
+    "title": "Astro Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Astro_SuperSport_logo.svg"
+  },
+  {
+    "id": "371",
+    "title": "MTV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "372",
+    "title": "beIN SPORTS en Espanol",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "373",
+    "title": "SYFY USA",
+    "logo_url": ""
+  },
+  {
+    "id": "374",
+    "title": "Cinemax USA",
+    "logo_url": ""
+  },
+  {
+    "id": "375",
+    "title": "ESPN Deportes",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "376",
+    "title": "WWE Network",
+    "logo_url": ""
+  },
+  {
+    "id": "377",
+    "title": "MUTV UK",
+    "logo_url": ""
+  },
+  {
+    "id": "378",
+    "title": "Veronica NL Netherland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Veronica_logo_2018.svg"
+  },
+  {
+    "id": "379",
+    "title": "ESPN 1 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "380",
+    "title": "Benfica TV PT",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SL_Benfica_logo.svg"
+  },
+  {
+    "id": "381",
+    "title": "FX Movie Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FX_logo.svg"
+  },
+  {
+    "id": "382",
+    "title": "HGTV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HGTV_logo.svg"
+  },
+  {
+    "id": "383",
+    "title": "Ziggo Sport 5 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziggo_Sport_logo_2025.svg"
+  },
+  {
+    "id": "384",
+    "title": "The Food Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Food_Network_logo.svg"
+  },
+  {
+    "id": "385",
+    "title": "SEC Network USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "386",
+    "title": "ESPN 2 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "387",
+    "title": "ESPN Premium Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "388",
+    "title": "TNT Sports Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_logo.svg"
+  },
+  {
+    "id": "389",
+    "title": "Lifetime Movies Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lifetime_logo.svg"
+  },
+  {
+    "id": "390",
+    "title": "RTL7 Netherland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTL_7_logo_2023.svg"
+  },
+  {
+    "id": "391",
+    "title": "VTV+ Uruguay",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/VTV_Uruguay_logo.png"
+  },
+  {
+    "id": "392",
+    "title": "Win Sports+ Columbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Win_Sports_logo.png"
+  },
+  {
+    "id": "393",
+    "title": "Ziggo Sport NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziggo_Sport_logo_2025.svg"
+  },
+  {
+    "id": "394",
+    "title": "The Weather Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Weather_Channel_logo.svg"
+  },
+  {
+    "id": "395",
+    "title": "МАТЧ! БОЕЦ Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_TV_logo.svg"
+  },
+  {
+    "id": "396",
+    "title": "Ziggo Sport 4 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziggo_Sport_logo_2025.svg"
+  },
+  {
+    "id": "397",
+    "title": "BIG TEN Network (BTN USA)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big_Ten_Network_logo.svg"
+  },
+  {
+    "id": "398",
+    "title": "Ziggo Sport 2 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziggo_Sport_logo_2025.svg"
+  },
+  {
+    "id": "399",
+    "title": "MLB Network USA",
+    "logo_url": ""
+  },
+  {
+    "id": "400",
+    "title": "Digi Sport 1 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Digi_Sport_logo.svg"
+  },
+  {
+    "id": "401",
+    "title": "Digi Sport 2 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Digi_Sport_logo.svg"
+  },
+  {
+    "id": "402",
+    "title": "Digi Sport 3 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Digi_Sport_logo.svg"
+  },
+  {
+    "id": "403",
+    "title": "Digi Sport 4 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Digi_Sport_logo.svg"
+  },
+  {
+    "id": "404",
+    "title": "NBA TV USA",
+    "logo_url": ""
+  },
+  {
+    "id": "405",
+    "title": "NFL Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Football_League_logo.svg"
+  },
+  {
+    "id": "406",
+    "title": "Sportsnet Ontario",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "407",
+    "title": "Sportsnet West",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "408",
+    "title": "Sportsnet East",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "409",
+    "title": "Sportsnet 360",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "410",
+    "title": "Sportsnet World",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "411",
+    "title": "Sportsnet One",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportsnet_logo.svg"
+  },
+  {
+    "id": "412",
+    "title": "SuperSport Grandstand",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "413",
+    "title": "SuperSport PSL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "414",
+    "title": "SuperSport Premier league",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "415",
+    "title": "SuperSport LaLiga",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "416",
+    "title": "SuperSport Variety 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "417",
+    "title": "SuperSport Variety 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "418",
+    "title": "SuperSport Variety 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "419",
+    "title": "SuperSport Variety 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "420",
+    "title": "SuperSport Action",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "421",
+    "title": "SuperSport Rugby",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "422",
+    "title": "SuperSport Golf",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "423",
+    "title": "SuperSport Tennis",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "424",
+    "title": "SuperSport Motorsport",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "425",
+    "title": "BeIN SPORTS USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "426",
+    "title": "DAZN 1 Bar DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "427",
+    "title": "DAZN 2 Bar DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "428",
+    "title": "Eleven Sports 3 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "429",
+    "title": "Arena Sport 1 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "430",
+    "title": "Arena Sport 2 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "431",
+    "title": "Arena Sport 3 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "432",
+    "title": "Arena Sport 1 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "433",
+    "title": "Arena Sport 2 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "434",
+    "title": "Arena Sport 3 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "435",
+    "title": "Movistar Liga de Campeones",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Liga_de_Campeones_logo.svg"
+  },
+  {
+    "id": "436",
+    "title": "Movistar Deportes Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Deportes.svg"
+  },
+  {
+    "id": "437",
+    "title": "Movistar Supercopa de Espana",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_logo.svg"
+  },
+  {
+    "id": "438",
+    "title": "Movistar Deportes 2 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Deportes.svg"
+  },
+  {
+    "id": "439",
+    "title": "Orange Sport 1 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_Sport_logo.svg"
+  },
+  {
+    "id": "440",
+    "title": "Orange Sport 2 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_Sport_logo.svg"
+  },
+  {
+    "id": "441",
+    "title": "Orange Sport 3 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_Sport_logo.svg"
+  },
+  {
+    "id": "442",
+    "title": "Orange Sport 4 Romania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_Sport_logo.svg"
+  },
+  {
+    "id": "443",
+    "title": "Polsat News Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_News_logo.svg"
+  },
+  {
+    "id": "444",
+    "title": "TVN24 Poland",
+    "logo_url": ""
+  },
+  {
+    "id": "445",
+    "title": "DAZN 1 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "446",
+    "title": "DAZN 2 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "447",
+    "title": "DAZN 3 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "448",
+    "title": "DAZN 4 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "449",
+    "title": "Sky Sports MIX UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "450",
+    "title": "PTV Sports",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/PTV_Sports_logo.png"
+  },
+  {
+    "id": "451",
+    "title": "Viaplay Sports 1 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Viaplay_logo.svg"
+  },
+  {
+    "id": "452",
+    "title": "TVP INFO",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP_Info_logo.svg"
+  },
+  {
+    "id": "453",
+    "title": "Sport Klub HD Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "454",
+    "title": "Sport TV3 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "455",
+    "title": "Eleven Sports 1 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "456",
+    "title": "Eleven Sports 2 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "457",
+    "title": "Eleven Sports 3 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "458",
+    "title": "Eleven Sports 4 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "459",
+    "title": "Eleven Sports 5 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eleven_Sports_logo.svg"
+  },
+  {
+    "id": "460",
+    "title": "Sky Sport MAX Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "461",
+    "title": "Sky Sport UNO Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "462",
+    "title": "Sky Sport Arena Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "463",
+    "title": "Canal+ Foot France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "464",
+    "title": "Canal+ Sport360",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "465",
+    "title": "Diema Sport Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diema_Sport_logo.svg"
+  },
+  {
+    "id": "466",
+    "title": "Diema Sport 2 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diema_Sport_logo.svg"
+  },
+  {
+    "id": "467",
+    "title": "Diema Sport 3 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diema_Sport_logo.svg"
+  },
+  {
+    "id": "468",
+    "title": "Nova Sport Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "469",
+    "title": "TF1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TF1_logo_2013.svg"
+  },
+  {
+    "id": "470",
+    "title": "M6 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/M6_logo_2009.svg"
+  },
+  {
+    "id": "471",
+    "title": "Ring Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ring_bg_logo.svg"
+  },
+  {
+    "id": "472",
+    "title": "Max Sport 1 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Sport_logo.svg"
+  },
+  {
+    "id": "473",
+    "title": "Max Sport 2 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Sport_logo.svg"
+  },
+  {
+    "id": "474",
+    "title": "Max Sport 3 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Sport_logo.svg"
+  },
+  {
+    "id": "475",
+    "title": "Max Sport 4 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Sport_logo.svg"
+  },
+  {
+    "id": "476",
+    "title": "BNT 1 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BNT_logo.svg"
+  },
+  {
+    "id": "477",
+    "title": "BNT 2 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BNT_logo.svg"
+  },
+  {
+    "id": "478",
+    "title": "BNT 3 Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BNT_logo.svg"
+  },
+  {
+    "id": "479",
+    "title": "bTV Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BTV_logo.svg"
+  },
+  {
+    "id": "480",
+    "title": "Nova TV Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_TV_logo.svg"
+  },
+  {
+    "id": "481",
+    "title": "bTV Action Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BTV_Action_logo_2019.svg"
+  },
+  {
+    "id": "482",
+    "title": "Diema Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diema_logo.svg"
+  },
+  {
+    "id": "483",
+    "title": "FOX HD Bulgaria",
+    "logo_url": ""
+  },
+  {
+    "id": "484",
+    "title": "bTV Lady Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BTV_logo.svg"
+  },
+  {
+    "id": "485",
+    "title": "Diema Family Bulgaria",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diema_logo.svg"
+  },
+  {
+    "id": "486",
+    "title": "Canal+ Sport 1 Afrique",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "487",
+    "title": "Canal+ Sport 2 Afrique",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "488",
+    "title": "Canal+ Sport 3 Afrique",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "489",
+    "title": "Canal+ Sport 4 Afrique",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "490",
+    "title": "Canal+ Sport 5 Afrique",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "491",
+    "title": "beIN SPORTS Australia 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "492",
+    "title": "beIN SPORTS Australia 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "493",
+    "title": "beIN SPORTS Australia 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "494",
+    "title": "beIN Sports MAX 4 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "495",
+    "title": "beIN Sports MAX 5 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "496",
+    "title": "beIN Sports MAX 6 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "497",
+    "title": "beIN Sports MAX 7 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "498",
+    "title": "beIN Sports MAX 8 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "499",
+    "title": "beIN Sports MAX 9 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "500",
+    "title": "beIN Sports MAX 10 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  }
+  {
+    "id": "521",
+    "title": "#Vamos Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vamos_logo.svg"
+  },
+  {
+    "id": "522",
+    "title": "Barca TV Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bar%C3%A7a_TV_logo.svg"
+  },
+  {
+    "id": "523",
+    "title": "Real Madrid TV Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Real_Madrid_TV_logo.svg"
+  },
+  {
+    "id": "524",
+    "title": "EuroSport 1 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "525",
+    "title": "EuroSport 2 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "526",
+    "title": "Movistar Deportes 3 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_logo.svg"
+  },
+  {
+    "id": "527",
+    "title": "Movistar Deportes 4 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_logo.svg"
+  },
+  {
+    "id": "528",
+    "title": "Movistar Golf Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_logo.svg"
+  },
+  {
+    "id": "529",
+    "title": "Teledeporte Spain (TDP)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teledeporte_logo.svg"
+  },
+  {
+    "id": "530",
+    "title": "GOL PLAY Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gol_Play_logo.svg"
+  },
+  {
+    "id": "531",
+    "title": "Antena 3 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antena_3_logo_2017.svg"
+  },
+  {
+    "id": "532",
+    "title": "Telecinco Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Telecinco_logo.svg"
+  },
+  {
+    "id": "533",
+    "title": "TVE La 1 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_1_logo.svg"
+  },
+  {
+    "id": "534",
+    "title": "La Sexta Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Sexta_logo.svg"
+  },
+  {
+    "id": "535",
+    "title": "Cuatro Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuatro_logo.svg"
+  },
+  {
+    "id": "536",
+    "title": "TVE La 2 Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_2_logo.svg"
+  },
+  {
+    "id": "537",
+    "title": "DAZN F1 ES",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "538",
+    "title": "DAZN LaLiga",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "539",
+    "title": "LaLiga SmartBank TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LaLiga_SmartBank_logo.svg"
+  },
+  {
+    "id": "540",
+    "title": "Canal 11 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_11_logo.svg"
+  },
+  {
+    "id": "541",
+    "title": "ONE 1 HD Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ONE_logo.svg"
+  },
+  {
+    "id": "542",
+    "title": "ONE 2 HD Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ONE_logo.svg"
+  },
+  {
+    "id": "543",
+    "title": "Yes Movies Action Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yes_logo.svg"
+  },
+  {
+    "id": "544",
+    "title": "Yes Movies Kids Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yes_logo.svg"
+  },
+  {
+    "id": "545",
+    "title": "Yes Movies Comedy Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yes_logo.svg"
+  },
+  {
+    "id": "546",
+    "title": "Channel 9 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_9_Israel_logo.png"
+  },
+  {
+    "id": "547",
+    "title": "Channel 10 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel_10_logo.svg"
+  },
+  {
+    "id": "548",
+    "title": "Channel 11 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kan_11_logo.svg"
+  },
+  {
+    "id": "549",
+    "title": "Channel 12 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Keshet_12_logo.svg"
+  },
+  {
+    "id": "550",
+    "title": "Viaplay Sports 2 UK",
+    "logo_url": ""
+  },
+  {
+    "id": "551",
+    "title": "Channel 13 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reshet_13_logo.svg"
+  },
+  {
+    "id": "552",
+    "title": "Channel 14 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Now_14_logo.svg"
+  },
+  {
+    "id": "553",
+    "title": "HOT3 Israel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HOT_logo.svg"
+  },
+  {
+    "id": "554",
+    "title": "Sky Sports Racing UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_Racing_logo_2020.svg"
+  },
+  {
+    "id": "555",
+    "title": "Racing Tv UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Racing_TV_logo.svg"
+  },
+  {
+    "id": "556",
+    "title": "Sky Sport Top Event DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "557",
+    "title": "Sky Sport Mix DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "558",
+    "title": "Sky Sport Bundesliga 1 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Bundesliga_logo.svg"
+  },
+  {
+    "id": "559",
+    "title": "Sky Sport Austria 1 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "560",
+    "title": "TVP1 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP1_logo_2021.svg"
+  },
+  {
+    "id": "561",
+    "title": "TVP2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP2_logo_2021.svg"
+  },
+  {
+    "id": "562",
+    "title": "Polsat Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "563",
+    "title": "Motowizja Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Motowizja_logo.png"
+  },
+  {
+    "id": "564",
+    "title": "Polsat Film Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_Film_logo_2021.svg"
+  },
+  {
+    "id": "565",
+    "title": "TVN HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVN_logo_2013.svg"
+  },
+  {
+    "id": "566",
+    "title": "Canal+ Premium Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "567",
+    "title": "Canal+ Family Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "568",
+    "title": "FilmBox Premium Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FilmBox_logo.png"
+  },
+  {
+    "id": "569",
+    "title": "HBO Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "570",
+    "title": "Canal+ Seriale Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "571",
+    "title": "SportDigital Fussball",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportdigital_logo.svg"
+  },
+  {
+    "id": "572",
+    "title": "SuperSport MaXimo 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "573",
+    "title": "Match Premier Russia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_Premier_logo.svg"
+  },
+  {
+    "id": "574",
+    "title": "Sky Sports Golf Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "575",
+    "title": "Sky Sport MotoGP Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "576",
+    "title": "Sky Sport Tennis Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "577",
+    "title": "Sky Sport F1 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_F1_logo_2020.svg"
+  },
+  {
+    "id": "578",
+    "title": "BeIN Sports HD Qatar",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "579",
+    "title": "Arena Sport 1 BiH",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "580",
+    "title": "Arena Sport 4 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "581",
+    "title": "Arena Sport 4 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "582",
+    "title": "Nova Sport Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "583",
+    "title": "Prima Sport 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_Sport_logo.svg"
+  },
+  {
+    "id": "584",
+    "title": "Prima Sport 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_Sport_logo.svg"
+  },
+  {
+    "id": "585",
+    "title": "Prima Sport 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_Sport_logo.svg"
+  },
+  {
+    "id": "586",
+    "title": "Prima Sport 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_Sport_logo.svg"
+  },
+  {
+    "id": "587",
+    "title": "Sky Sport Select NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "588",
+    "title": "Sky Sport 1 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "589",
+    "title": "Sky Sport 2 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "590",
+    "title": "Sky Sport 3 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "591",
+    "title": "Sky Sport 4 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "592",
+    "title": "Sky Sport 5 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "593",
+    "title": "Sky Sport 6 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "594",
+    "title": "Sky Sport 7 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "595",
+    "title": "Sky Sport 8 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "596",
+    "title": "Sky Sport 9 NZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "597",
+    "title": "beIN SPORTS MAX AR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "598",
+    "title": "Willow 2 Cricket",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Willow_TV_logo.svg"
+  },
+  {
+    "id": "599",
+    "title": "Nova Sports Premier League Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "600",
+    "title": "Abu Dhabi Sports 1 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Dhabi_Sports_logo.svg"
+  },
+  {
+    "id": "601",
+    "title": "Abu Dhabi Sports 2 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Dhabi_Sports_logo.svg"
+  },
+  {
+    "id": "602",
+    "title": "CTV Canada",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CTV_logo.svg"
+  },
+  {
+    "id": "603",
+    "title": "Smithsonian Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Smithsonian_Channel_logo.svg"
+  },
+  {
+    "id": "604",
+    "title": "Dubai Sports 1 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Sports_logo.svg"
+  },
+  {
+    "id": "605",
+    "title": "Dubai Sports 2 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Sports_logo.svg"
+  },
+  {
+    "id": "606",
+    "title": "Dubai Sports 3 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Sports_logo.svg"
+  },
+  {
+    "id": "607",
+    "title": "Rally Tv",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rally_TV_logo.png"
+  },
+  {
+    "id": "608",
+    "title": "Dubai Racing 2 UAE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Racing_TV_logo.svg"
+  },
+  {
+    "id": "609",
+    "title": "Abu Dhabi Sports 1 Premium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Dhabi_Sports_logo.svg"
+  },
+  {
+    "id": "610",
+    "title": "Abu Dhabi Sports 2 Premium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Dhabi_Sports_logo.svg"
+  },
+  {
+    "id": "611",
+    "title": "OnTime Sports",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OnTime_Sports_logo.png"
+  },
+  {
+    "id": "612",
+    "title": "Arena Sports Tenis Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "613",
+    "title": "Newsmax USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Newsmax_logo.svg"
+  },
+  {
+    "id": "614",
+    "title": "SSC Sport 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "615",
+    "title": "SSC Sport 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "616",
+    "title": "SSC Sport 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "617",
+    "title": "SSC Sport 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "618",
+    "title": "SSC Sport 5",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "619",
+    "title": "SSC Sport Extra 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "620",
+    "title": "SSC Sport Extra 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "621",
+    "title": "SSC Sport Extra 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SSC_logo.png"
+  },
+  {
+    "id": "622",
+    "title": "Cosmote Sport 1 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "623",
+    "title": "Cosmote Sport 2 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "624",
+    "title": "Cosmote Sport 3 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "625",
+    "title": "Cosmote Sport 4 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "626",
+    "title": "Cosmote Sport 5 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "627",
+    "title": "Cosmote Sport 6 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "628",
+    "title": "Cosmote Sport 7 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "629",
+    "title": "Cosmote Sport 8 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "630",
+    "title": "Cosmote Sport 9 HD",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmote_Sport_logo.svg"
+  },
+  {
+    "id": "631",
+    "title": "Nova Sports 1 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "632",
+    "title": "Nova Sports 2 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "633",
+    "title": "Nova Sports 3 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "634",
+    "title": "Nova Sports 4 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "635",
+    "title": "Nova Sports 5 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "636",
+    "title": "Nova Sports 6 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "637",
+    "title": "Nova Sports Start Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "638",
+    "title": "Nova Sports Prime Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "639",
+    "title": "Nova Sports News Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "640",
+    "title": "Sportdigital1+ Germany",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportdigital_logo.svg"
+  },
+  {
+    "id": "641",
+    "title": "Sport1 Germany",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo_2013.svg"
+  },
+  {
+    "id": "642",
+    "title": "TNT Sports HD Chile",
+    "logo_url": ""
+  },
+  {
+    "id": "643",
+    "title": "FOX Deportes USA",
+    "logo_url": ""
+  },
+  {
+    "id": "644",
+    "title": "TCM USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TCM_logo_2021.svg"
+  },
+  {
+    "id": "645",
+    "title": "L'Equipe France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Chaine_L%27Equipe_logo.svg"
+  },
+  {
+    "id": "646",
+    "title": "Racer TV USA",
+    "logo_url": ""
+  },
+  {
+    "id": "647",
+    "title": "CMT USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CMT_logo.svg"
+  },
+  {
+    "id": "648",
+    "title": "Boomerang",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boomerang_logo_2015.svg"
+  },
+  {
+    "id": "649",
+    "title": "Nicktoons",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicktoons_logo_2009.svg"
+  },
+  {
+    "id": "650",
+    "title": "TeenNick",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TeenNick_logo_2009.svg"
+  },
+  {
+    "id": "651",
+    "title": "Destination America",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Destination_America_logo_2012.svg"
+  },
+  {
+    "id": "652",
+    "title": "Disney JR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Disney_Junior_logo_2011.svg"
+  },
+  {
+    "id": "653",
+    "title": "POP TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pop_logo_2015.svg"
+  },
+  {
+    "id": "654",
+    "title": "MY9TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WWOR-TV_logo.svg"
+  },
+  {
+    "id": "655",
+    "title": "WETV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WE_tv_logo.svg"
+  },
+  {
+    "id": "656",
+    "title": "IFC TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/IFC_logo_2014.svg"
+  },
+  {
+    "id": "657",
+    "title": "Discovery Family",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Family_logo.svg"
+  },
+  {
+    "id": "658",
+    "title": "Sundance TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sundance_TV_logo.svg"
+  },
+  {
+    "id": "659",
+    "title": "VICE TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vice_TV_logo.svg"
+  },
+  {
+    "id": "660",
+    "title": "TV ONE USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_One_logo.svg"
+  },
+  {
+    "id": "661",
+    "title": "Discovery Turbo",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Turbo_logo.png"
+  },
+  {
+    "id": "662",
+    "title": "METV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MeTV_logo.svg"
+  },
+  {
+    "id": "663",
+    "title": "NHL Network USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NHL_Network_logo.svg"
+  },
+  {
+    "id": "664",
+    "title": "ACC Network USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ACC_Network_logo.svg"
+  },
+  {
+    "id": "665",
+    "title": "FYI",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FYI_logo_2014.svg"
+  },
+  {
+    "id": "666",
+    "title": "Nick Music",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NickMusic_logo.svg"
+  },
+  {
+    "id": "667",
+    "title": "NFL RedZone",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NFL_RedZone_logo_2023.svg"
+  },
+  {
+    "id": "668",
+    "title": "Universal Kids USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Universal_Kids_logo_2017.svg"
+  },
+  {
+    "id": "669",
+    "title": "Crime+ Investigation USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crime_%26_Investigation_Network_logo.svg"
+  },
+  {
+    "id": "670",
+    "title": "S4C UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/S4C_logo_2014.svg"
+  },
+  {
+    "id": "671",
+    "title": "Sky Cinema Premiere UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "672",
+    "title": "Sky Cinema Select UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "673",
+    "title": "Sky Cinema Hits UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "674",
+    "title": "Sky Cinema Greats UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "675",
+    "title": "Sky Cinema Animation UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "676",
+    "title": "Sky Cinema Family UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "677",
+    "title": "Sky Cinema Action UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "678",
+    "title": "Sky Cinema Comedy UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "679",
+    "title": "Sky Cinema Thriller UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "680",
+    "title": "Sky Cinema Drama UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "681",
+    "title": "Sky Cinema Sci-Fi Horror UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "682",
+    "title": "Sky Showcase UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Showcase_logo.svg"
+  },
+  {
+    "id": "683",
+    "title": "Sky Arts UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Arts_logo.svg"
+  },
+  {
+    "id": "684",
+    "title": "Sky Comedy UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Comedy_logo.svg"
+  },
+  {
+    "id": "685",
+    "title": "Sky Crime",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Crime_logo.svg"
+  },
+  {
+    "id": "686",
+    "title": "Sky History",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_History_logo.svg"
+  },
+  {
+    "id": "687",
+    "title": "Gold UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gold_logo_2014.svg"
+  },
+  {
+    "id": "688",
+    "title": "Film4 UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Film4_logo_2018.svg"
+  },
+  {
+    "id": "689",
+    "title": "HBO2 USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "690",
+    "title": "HBO Comedy USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "691",
+    "title": "HBO Family USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "692",
+    "title": "HBO Latino USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "693",
+    "title": "HBO Signature USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "694",
+    "title": "HBO Zone USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/HBO_logo.svg"
+  },
+  {
+    "id": "695",
+    "title": "Showtime SHOxBET USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "696",
+    "title": "Comet USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Comet_logo.svg"
+  },
+  {
+    "id": "697",
+    "title": "Cooking Channel USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cooking_Channel_logo.svg"
+  },
+  {
+    "id": "698",
+    "title": "TMC Channel USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TMC_logo_2016.svg"
+  },
+  {
+    "id": "699",
+    "title": "Great American Family Channel (GAC)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_American_Family_logo.png"
+  },
+  {
+    "id": "700",
+    "title": "TV4 Hockey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "701",
+    "title": "TV4 Tennis",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "702",
+    "title": "TV4 Motor",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "703",
+    "title": "TV4 Sport Live 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "704",
+    "title": "TV4 Sport Live 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "705",
+    "title": "TV4 Sport Live 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "706",
+    "title": "TV4 Sport Live 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "707",
+    "title": "TV4 Sportkanalen",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "708",
+    "title": "Sky MAX UK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Max_logo.svg"
+  },
+  {
+    "id": "709",
+    "title": "Tennis+ 10",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "710",
+    "title": "Sport KLUB Golf Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "711",
+    "title": "Tennis+ 12",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "712",
+    "title": "beIN Sports 1 Malaysia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "713",
+    "title": "beIN Sports 2 Malaysia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "714",
+    "title": "beIN Sports 3 Malaysia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "715",
+    "title": "Cleo TV",
+    "logo_url": ""
+  },
+  {
+    "id": "716",
+    "title": "Sporting TV Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sporting_TV_logo.png"
+  },
+  {
+    "id": "717",
+    "title": "AXN Movies Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AXN_logo.svg"
+  },
+  {
+    "id": "718",
+    "title": "Porto Canal Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Porto_Canal_logo.png"
+  },
+  {
+    "id": "719",
+    "title": "RTP 1 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTP1_logo_2016.svg"
+  },
+  {
+    "id": "720",
+    "title": "RTP 2 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTP2_logo_2016.svg"
+  },
+  {
+    "id": "721",
+    "title": "RTP 3 Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTP3_logo_2016.svg"
+  },
+  {
+    "id": "722",
+    "title": "SIC Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SIC_logo_2018.svg"
+  },
+  {
+    "id": "723",
+    "title": "TVI Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVI_logo_2024.svg"
+  },
+  {
+    "id": "724",
+    "title": "TVI Reality Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVI_Reality_logo.png"
+  },
+  {
+    "id": "725",
+    "title": "Arte DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arte_logo.svg"
+  },
+  {
+    "id": "726",
+    "title": "3sat DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/3sat_logo_2019.svg"
+  },
+  {
+    "id": "727",
+    "title": "ZDF DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zdf_logo_2021.svg"
+  },
+  {
+    "id": "728",
+    "title": "ZDF Info DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zdf_info_logo_2011.svg"
+  },
+  {
+    "id": "729",
+    "title": "SAT.1 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sat.1_logo_2016.svg"
+  },
+  {
+    "id": "730",
+    "title": "ProSieben (PRO7) DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ProSieben_logo_2009.svg"
+  },
+  {
+    "id": "731",
+    "title": "Kabel Eins (Kabel 1) DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabel_Eins_logo_2015.svg"
+  },
+  {
+    "id": "732",
+    "title": "Sixx DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sixx_logo_2010.svg"
+  },
+  {
+    "id": "733",
+    "title": "MDR DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MDR_logo.svg"
+  },
+  {
+    "id": "734",
+    "title": "WDR DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WDR_logo_2021.svg"
+  },
+  {
+    "id": "735",
+    "title": "SWR DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SWR_logo_2014.svg"
+  },
+  {
+    "id": "736",
+    "title": "NDR DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NDR_logo.svg"
+  },
+  {
+    "id": "737",
+    "title": "BR Fernsehen DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayerischer_Rundfunk_logo.svg"
+  },
+  {
+    "id": "738",
+    "title": "SUPER RTL DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_RTL_logo_2023.svg"
+  },
+  {
+    "id": "739",
+    "title": "SR Fernsehen DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saarl%C3%A4ndischer_Rundfunk_logo.svg"
+  },
+  {
+    "id": "740",
+    "title": "RTL DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RTL_logo_2021.svg"
+  },
+  {
+    "id": "741",
+    "title": "Ten Sports PK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ten_Sports_logo.svg"
+  },
+  {
+    "id": "742",
+    "title": "AXS TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/AXS_TV_logo.svg"
+  },
+  {
+    "id": "743",
+    "title": "Galavision USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galavisi%C3%B3n_logo_2013.svg"
+  },
+  {
+    "id": "744",
+    "title": "Fashion TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fashion_TV_logo.svg"
+  },
+  {
+    "id": "745",
+    "title": "Nat Geo Wild USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nat_Geo_Wild_logo.svg"
+  },
+  {
+    "id": "746",
+    "title": "TYC Sports Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TyC_Sports_logo.svg"
+  },
+  {
+    "id": "747",
+    "title": "TV4 Football Sweden",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "748",
+    "title": "COZI TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cozi_TV_logo.svg"
+  },
+  {
+    "id": "749",
+    "title": "Mundotoro TV Spain",
+    "logo_url": ""
+  },
+  {
+    "id": "750",
+    "title": "C SPAN 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C-SPAN_logo.svg"
+  },
+  {
+    "id": "751",
+    "title": "FETV - Family Entertainment Television",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FETV_logo.svg"
+  },
+  {
+    "id": "752",
+    "title": "Grit Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grit_logo.svg"
+  },
+  {
+    "id": "753",
+    "title": "NBC Sports Bay Area",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_Sports_logo.svg"
+  },
+  {
+    "id": "754",
+    "title": "NBC Sports Boston",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_Sports_logo.svg"
+  },
+  {
+    "id": "755",
+    "title": "NBC Sports California",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_Sports_logo.svg"
+  },
+  {
+    "id": "756",
+    "title": "FOX Soccer Plus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Soccer_Plus_logo.svg"
+  },
+  {
+    "id": "757",
+    "title": "Fight Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fight_Network_logo.png"
+  },
+  {
+    "id": "758",
+    "title": "Fox Sports 2 USA",
+    "logo_url": ""
+  },
+  {
+    "id": "759",
+    "title": "SportsNet New York (SNY)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SportsNet_New_York_logo.svg"
+  },
+  {
+    "id": "760",
+    "title": "Globo SP",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rede_Globo_logo_2021.svg"
+  },
+  {
+    "id": "761",
+    "title": "Globo RIO",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rede_Globo_logo_2021.svg"
+  },
+  {
+    "id": "762",
+    "title": "NESN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NESN_logo.svg"
+  },
+  {
+    "id": "763",
+    "title": "YES Network USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yes_logo.svg"
+  },
+  {
+    "id": "764",
+    "title": "Spectrum Sportsnet LA",
+    "logo_url": ""
+  },
+  {
+    "id": "765",
+    "title": "MSG USA",
+    "logo_url": ""
+  },
+  {
+    "id": "766",
+    "title": "ABC NY USA",
+    "logo_url": ""
+  },
+  {
+    "id": "767",
+    "title": "CBSNY USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SportsNet_New_York_logo.svg"
+  },
+  {
+    "id": "768",
+    "title": "FOXNY USA",
+    "logo_url": ""
+  },
+  {
+    "id": "769",
+    "title": "NBCNY USA",
+    "logo_url": ""
+  },
+  {
+    "id": "770",
+    "title": "Marquee Sports Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marquee_Sports_Network_logo.svg"
+  },
+  {
+    "id": "771",
+    "title": "Premier Sports Ireland 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Premier_Sports_logo_2022.svg"
+  },
+  {
+    "id": "772",
+    "title": "Eurosport 1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "773",
+    "title": "Eurosport 2 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "774",
+    "title": "ERT 1 Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ERT1_logo_2020.svg"
+  },
+  {
+    "id": "775",
+    "title": "Fox Weather Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox_Weather_logo.svg"
+  },
+  {
+    "id": "776",
+    "title": "Chicago Sports Network",
+    "logo_url": ""
+  },
+  {
+    "id": "777",
+    "title": "NBC Sports Philadelphia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_Sports_logo.svg"
+  },
+  {
+    "id": "778",
+    "title": "Monumental Sports Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumental_Sports_Network_logo.png"
+  },
+  {
+    "id": "779",
+    "title": "Max Sport 1 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "780",
+    "title": "Max Sport 2 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Sport_logo.svg"
+  },
+  {
+    "id": "781",
+    "title": "Alkass One",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Kass_logo.png"
+  },
+  {
+    "id": "782",
+    "title": "Alkass Two",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Kass_logo.png"
+  },
+  {
+    "id": "783",
+    "title": "Alkass Three",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Kass_logo.png"
+  },
+  {
+    "id": "784",
+    "title": "Alkass Four",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Kass_logo.png"
+  },
+  {
+    "id": "785",
+    "title": "Sky Sports Golf DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "786",
+    "title": "DSTV Mzansi Magic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DStv_logo.svg"
+  },
+  {
+    "id": "787",
+    "title": "Fox Sports Argentina",
+    "logo_url": ""
+  },
+  {
+    "id": "788",
+    "title": "Fox Sports 2 Argentina",
+    "logo_url": ""
+  },
+  {
+    "id": "789",
+    "title": "Fox Sports 3 Argentina",
+    "logo_url": ""
+  },
+  {
+    "id": "790",
+    "title": "CMTV Portugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CMT_logo.svg"
+  },
+  {
+    "id": "791",
+    "title": "MGM+ USA / Epix",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MGM%2B_logo.svg"
+  },
+  {
+    "id": "792",
+    "title": "Showtime 2 USA (SHO2) USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "793",
+    "title": "Showtime Showcase USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "794",
+    "title": "Showtime Extreme USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "795",
+    "title": "Showtime Family Zone (SHO Family Zone) USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "796",
+    "title": "Showtime Next (SHO Next) USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "797",
+    "title": "Showtime Women USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Showtime_logo.svg"
+  },
+  {
+    "id": "798",
+    "title": "ESPN3 Argentina",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "799",
+    "title": "Premier Sports Ireland 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Premier_Sports_logo_2022.svg"
+  },
+  {
+    "id": "800",
+    "title": "6'eren Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/6%27eren_logo.png"
+  },
+  {
+    "id": "801",
+    "title": "DR1 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DR1_logo_2020.svg"
+  },
+  {
+    "id": "802",
+    "title": "DR2 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DR2_logo_2020.svg"
+  },
+  {
+    "id": "803",
+    "title": "Kanal 4 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanal_4_logo_2020.png"
+  },
+  {
+    "id": "804",
+    "title": "Kanal 5 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanal_5_logo_2020.png"
+  },
+  {
+    "id": "805",
+    "title": "CANAL 9 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_9_Denmark_logo.png"
+  },
+  {
+    "id": "806",
+    "title": "MTV Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "807",
+    "title": "TV2 Bornholm Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Bornholm_logo.svg"
+  },
+  {
+    "id": "808",
+    "title": "TV2 Sport X Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Sport_X_logo.svg"
+  },
+  {
+    "id": "809",
+    "title": "TV3 Sport Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV3_Sport_logo_2016.svg"
+  },
+  {
+    "id": "810",
+    "title": "TV2 Sport Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Sport_logo_Denmark.svg"
+  },
+  {
+    "id": "811",
+    "title": "SEE Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/See_logo_Denmark.svg"
+  },
+  {
+    "id": "812",
+    "title": "C More First Sweden",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C_More_logo.svg"
+  },
+  {
+    "id": "813",
+    "title": "C More Hits Sweden",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C_More_logo.svg"
+  },
+  {
+    "id": "814",
+    "title": "C More Series Sweden",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C_More_logo.svg"
+  },
+  {
+    "id": "815",
+    "title": "V Film Premiere",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V_Film_logo.svg"
+  },
+  {
+    "id": "816",
+    "title": "V Film Family",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V_Film_logo.svg"
+  },
+  {
+    "id": "817",
+    "title": "TV2 Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Danmark_logo.svg"
+  },
+  {
+    "id": "818",
+    "title": "TV2 Zulu",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_2_Zulu_logo_2020.svg"
+  },
+  {
+    "id": "819",
+    "title": "TV3+ Denmark",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV3_MAX_logo.png"
+  },
+  {
+    "id": "820",
+    "title": "FOX Sports 502 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "821",
+    "title": "FOX Sports 503 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "822",
+    "title": "FOX Sports 504 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "823",
+    "title": "FOX Sports 505 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "824",
+    "title": "FOX Sports 506 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "825",
+    "title": "FOX Sports 507 AU",
+    "logo_url": ""
+  },
+  {
+    "id": "826",
+    "title": "Liverpool TV (LFC TV)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LFC_TV_logo.png"
+  },
+  {
+    "id": "827",
+    "title": "DSTV M-Net",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DStv_logo.svg"
+  },
+  {
+    "id": "828",
+    "title": "DSTV kykNET & kie",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DStv_logo.svg"
+  },
+  {
+    "id": "829",
+    "title": "MASN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MASN_logo.svg"
+  },
+  {
+    "id": "830",
+    "title": "Fox Sports Premium MX",
+    "logo_url": ""
+  },
+  {
+    "id": "831",
+    "title": "Citytv",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citytv_logo.svg"
+  },
+  {
+    "id": "832",
+    "title": "CBC CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CBC_Logo_1992.svg"
+  },
+  {
+    "id": "833",
+    "title": "TVA Sports",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVA_Sports_logo.svg"
+  },
+  {
+    "id": "834",
+    "title": "TVA Sports 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVA_Sports_logo.svg"
+  },
+  {
+    "id": "835",
+    "title": "Noovo CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noovo_logo.svg"
+  },
+  {
+    "id": "836",
+    "title": "Global CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Global_Television_Network_logo.svg"
+  },
+  {
+    "id": "837",
+    "title": "Yes TV CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yes_logo.svg"
+  },
+  {
+    "id": "838",
+    "title": "CTV 2 Canada",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CTV_logo.svg"
+  },
+  {
+    "id": "839",
+    "title": "RDS CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9seau_des_sports_logo.svg"
+  },
+  {
+    "id": "840",
+    "title": "RDS 2 CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9seau_des_sports_logo.svg"
+  },
+  {
+    "id": "841",
+    "title": "RDS Info CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9seau_des_sports_logo.svg"
+  },
+  {
+    "id": "842",
+    "title": "TVO CA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TVO_logo.svg"
+  },
+  {
+    "id": "843",
+    "title": "Prima TV RO",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_TV_logo.svg"
+  },
+  {
+    "id": "844",
+    "title": "Azteca 7 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azteca_7_logo.svg"
+  },
+  {
+    "id": "845",
+    "title": "NBC Universo",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Universo_logo.svg"
+  },
+  {
+    "id": "846",
+    "title": "Happy TV Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Happy_TV_logo.svg"
+  },
+  {
+    "id": "847",
+    "title": "Nova S Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_S_logo.svg"
+  },
+  {
+    "id": "848",
+    "title": "Outdoor Channel USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Outdoor_Channel_logo.svg"
+  },
+  {
+    "id": "849",
+    "title": "Logo TV USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_TV_logo.svg"
+  },
+  {
+    "id": "850",
+    "title": "Rai 1 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_1_logo_2016.svg"
+  },
+  {
+    "id": "851",
+    "title": "Rai 2 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_2_logo_2016.svg"
+  },
+  {
+    "id": "852",
+    "title": "Rai 3 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_3_logo_2016.svg"
+  },
+  {
+    "id": "853",
+    "title": "Rai 4 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_4_logo_2016.svg"
+  },
+  {
+    "id": "854",
+    "title": "Italia 1 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Italia1_logo_2018.svg"
+  },
+  {
+    "id": "855",
+    "title": "La7 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La7_logo_2011.svg"
+  },
+  {
+    "id": "856",
+    "title": "LA7d HD+ Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La7_logo_2011.svg"
+  },
+  {
+    "id": "857",
+    "title": "20 Mediaset Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/20_Mediaset_logo.svg"
+  },
+  {
+    "id": "858",
+    "title": "Rai Premium Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_Premium_logo_2016.svg"
+  },
+  {
+    "id": "859",
+    "title": "Sky Cinema Collection Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "860",
+    "title": "Sky Cinema Uno Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "861",
+    "title": "Sky Cinema Action Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "862",
+    "title": "Sky Cinema Comedy Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "863",
+    "title": "Sky Cinema Uno +24 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "864",
+    "title": "Sky Cinema Romance Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "865",
+    "title": "Sky Cinema Family Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "866",
+    "title": "CW Philly",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_CW_logo.svg"
+  },
+  {
+    "id": "867",
+    "title": "Sky Cinema Drama Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "868",
+    "title": "8Sky Cinema Suspense Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Cinema_logo_2020.svg"
+  },
+  {
+    "id": "869",
+    "title": "Sky Sport 24 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "870",
+    "title": "Sky Sport Calcio Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "871",
+    "title": "Sky Calcio 1 (251) Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "872",
+    "title": "Sky Calcio 2 (252) Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "873",
+    "title": "Sky Calcio 3 (253) Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "874",
+    "title": "Sky Calcio 4 (254) Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "875",
+    "title": "Sky Sport Basket Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "876",
+    "title": "ITV Quiz",
+    "logo_url": ""
+  },
+  {
+    "id": "877",
+    "title": "DAZN ZONA Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "878",
+    "title": "EuroSport 1 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_1_logo.svg"
+  },
+  {
+    "id": "879",
+    "title": "EuroSport 2 Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport_2_logo.svg"
+  },
+  {
+    "id": "880",
+    "title": "Sky Serie Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "881",
+    "title": "Sky UNO Italy",
+    "logo_url": ""
+  },
+  {
+    "id": "882",
+    "title": "Rai Sport Italy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rai_Sport_logo_2016.svg"
+  },
+  {
+    "id": "883",
+    "title": "SBS6 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SBS_6_logo_2019.svg"
+  },
+  {
+    "id": "884",
+    "title": "Sky Sports Tennis DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "885",
+    "title": "SONY TEN 1",
+    "logo_url": ""
+  },
+  {
+    "id": "886",
+    "title": "SONY TEN 2",
+    "logo_url": ""
+  },
+  {
+    "id": "887",
+    "title": "SONY TEN 3",
+    "logo_url": ""
+  },
+  {
+    "id": "888",
+    "title": "ESPN 3 NL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "889",
+    "title": "TRT Spor TR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TRT_Spor_logo.svg"
+  },
+  {
+    "id": "890",
+    "title": "FanDuel Sports Network Arizona",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "891",
+    "title": "FanDuel Sports Network Detroit",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "892",
+    "title": "FanDuel Sports Network Florida",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "893",
+    "title": "FanDuel Sports Network Great Lakes",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "894",
+    "title": "FanDuel Sports Network Indiana",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "895",
+    "title": "FanDuel Sports Network Kansas City",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "896",
+    "title": "FanDuel Sports Network Midwest",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "897",
+    "title": "FanDuel Sports Network New Orleans",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "898",
+    "title": "FanDuel Sports Network North",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "899",
+    "title": "FanDuel Sports Network Ohio",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "900",
+    "title": "FanDuel Sports Network Oklahoma",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "901",
+    "title": "Ziggo Sport 6 NL",
+    "logo_url": ""
+  },
+  {
+    "id": "902",
+    "title": "FanDuel Sports Network SoCal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "903",
+    "title": "FanDuel Sports Network South",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "904",
+    "title": "FanDuel Sports Network Southeast",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "905",
+    "title": "FanDuel Sports Network Sun",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "906",
+    "title": "FanDuel Sports Network West",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "907",
+    "title": "FanDuel Sports Network Wisconsin",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FanDuel_Sports_Network_logo.svg"
+  },
+  {
+    "id": "910",
+    "title": "CBS Sports Golazo",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CBS_Sports_Golazo_Network_logo.png"
+  },
+  {
+    "id": "911",
+    "title": "Cytavision Sports 1 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "912",
+    "title": "Cytavision Sports 2 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "913",
+    "title": "Cytavision Sports 3 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "914",
+    "title": "Cytavision Sports 4 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "915",
+    "title": "Cytavision Sports 5 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "916",
+    "title": "Cytavision Sports 6 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "917",
+    "title": "Cytavision Sports 7 Cyprus",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cytavision_logo.svg"
+  },
+  {
+    "id": "918",
+    "title": "DAZN Portugal FIFA Mundial de Clubes",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "919",
+    "title": "Root Sports Northwest",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Root_Sports_logo.svg"
+  },
+  {
+    "id": "920",
+    "title": "Space City Home Network",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Space_City_Home_Network_logo.svg"
+  },
+  {
+    "id": "921",
+    "title": "SportsNet Pittsburgh",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SportsNet_Pittsburgh_logo.png"
+  },
+  {
+    "id": "922",
+    "title": "Altitude Sports",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Altitude_Sports_%26_Entertainment_logo.svg"
+  },
+  {
+    "id": "923",
+    "title": "Las Estrellas",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Estrellas_logo.svg"
+  },
+  {
+    "id": "924",
+    "title": "ESPN 1 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "925",
+    "title": "ESPN 2 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "926",
+    "title": "ESPN 3 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "927",
+    "title": "ESPN 4 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "928",
+    "title": "Fox Sports 1 MX",
+    "logo_url": ""
+  },
+  {
+    "id": "929",
+    "title": "Fox Sports 2 MX",
+    "logo_url": ""
+  },
+  {
+    "id": "930",
+    "title": "Fox Sports 3 MX",
+    "logo_url": ""
+  },
+  {
+    "id": "931",
+    "title": "TVC Deportes MX",
+    "logo_url": ""
+  },
+  {
+    "id": "932",
+    "title": "Claro Sports MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claro_Sports_logo.png"
+  },
+  {
+    "id": "933",
+    "title": "Azteca Uno MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azteca_Uno_logo.svg"
+  },
+  {
+    "id": "934",
+    "title": "TUDN MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TUDN_logo.svg"
+  },
+  {
+    "id": "935",
+    "title": "Canal5 MX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_5_logo_Mexico.svg"
+  },
+  {
+    "id": "936",
+    "title": "V Sport Golf",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V_Sport_logo.png"
+  },
+  {
+    "id": "940",
+    "title": "Arena Sport 5 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "941",
+    "title": "Arena Sport 6 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "942",
+    "title": "Arena Sport 7 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "943",
+    "title": "Arena Sport 8 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "944",
+    "title": "Arena Sport 9 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "945",
+    "title": "Arena Sport 10 Serbia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arena_Sport_logo_2019.svg"
+  },
+  {
+    "id": "946",
+    "title": "Sky Sport Bundesliga 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Bundesliga_logo.svg"
+  },
+  {
+    "id": "947",
+    "title": "Sky Sport Bundesliga 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Bundesliga_logo.svg"
+  },
+  {
+    "id": "948",
+    "title": "Sky Sport Bundesliga 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Bundesliga_logo.svg"
+  },
+  {
+    "id": "949",
+    "title": "Sky Sport Bundesliga 5",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_Bundesliga_logo.svg"
+  },
+  {
+    "id": "950",
+    "title": "France 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/France_2_logo_2018.svg"
+  },
+  {
+    "id": "951",
+    "title": "France 3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/France_3_logo_2018.svg"
+  },
+  {
+    "id": "952",
+    "title": "France 4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/France_4_logo_2018.svg"
+  },
+  {
+    "id": "953",
+    "title": "France 5",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/France_5_logo_2018.svg"
+  },
+  {
+    "id": "954",
+    "title": "RMC Story France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RMC_Story_logo.svg"
+  },
+  {
+    "id": "955",
+    "title": "TMC France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TMC_logo_2016.svg"
+  },
+  {
+    "id": "956",
+    "title": "C8 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/C8_logo.svg"
+  },
+  {
+    "id": "957",
+    "title": "BFM TV France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BFM_TV_logo.svg"
+  },
+  {
+    "id": "958",
+    "title": "Arte France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arte_logo.svg"
+  },
+  {
+    "id": "959",
+    "title": "W9 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/W9_logo.svg"
+  },
+  {
+    "id": "960",
+    "title": "DAZN Ligue 1 France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "961",
+    "title": "Automoto La chaine",
+    "logo_url": ""
+  },
+  {
+    "id": "962",
+    "title": "LCI France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LCI_logo_2021.svg"
+  },
+  {
+    "id": "963",
+    "title": "6ter France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/6ter_logo_2012.svg"
+  },
+  {
+    "id": "964",
+    "title": "CNews France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CNews_logo.svg"
+  },
+  {
+    "id": "965",
+    "title": "Sport en France",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_en_France_logo.png"
+  },
+  {
+    "id": "967",
+    "title": "Sportklub 7 Croatia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_Klub_logo.svg"
+  },
+  {
+    "id": "970",
+    "title": "Starz Cinema",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "971",
+    "title": "Starz Comedy",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "972",
+    "title": "Starz Edge",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "973",
+    "title": "Starz In Black",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "974",
+    "title": "Starz Kids & Family",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "975",
+    "title": "Starz Encore",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "976",
+    "title": "Starz Encore Action",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "977",
+    "title": "Starz Encore Black",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "978",
+    "title": "Starz Encore Classic",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "979",
+    "title": "Starz Encore Family",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "980",
+    "title": "Starz Encore Suspense",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "981",
+    "title": "Starz Encore Westerns",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starz_logo.svg"
+  },
+  {
+    "id": "982",
+    "title": "Spectrum SportsNet USA",
+    "logo_url": ""
+  },
+  {
+    "id": "983",
+    "title": "Canal+ Extra 1 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "984",
+    "title": "Canal+ Extra 2 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "985",
+    "title": "Canal+ Extra 3 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "986",
+    "title": "Canal+ Extra 4 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "987",
+    "title": "Canal+ Extra 5 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "988",
+    "title": "Canal+ Extra 6 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "989",
+    "title": "Canal+ Extra 7 Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_logo.svg"
+  },
+  {
+    "id": "990",
+    "title": "MTV Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "991",
+    "title": "Polsat Sport Premium 1 Super HD PL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "992",
+    "title": "Polsat Sport Premium 2 Super HD PL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "993",
+    "title": "Polsat Sport Extra 1 HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "994",
+    "title": "Polsat Sport Extra 2 HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "995",
+    "title": "Polsat Sport Extra 3 HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "996",
+    "title": "Polsat Sport Extra 4 HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "997",
+    "title": "Polsat Sport Fight HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "998",
+    "title": "Polsat Sport NEWS HD Poland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polsat_logo_2021.svg"
+  },
+  {
+    "id": "999",
+    "title": "Eleven Sports 4 Poland",
+    "logo_url": ""
+  },
+  {
+    "id": "1000",
+    "title": "ATV Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ATV_logo.svg"
+  },
+  {
+    "id": "1001",
+    "title": "Kanal D Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanal_D_logo.svg"
+  },
+  {
+    "id": "1002",
+    "title": "Show TV Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Show_TV_logo_2018.svg"
+  },
+  {
+    "id": "1003",
+    "title": "NOW TV Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/NOW_logo_2024.svg"
+  },
+  {
+    "id": "1004",
+    "title": "Star TV Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Star_TV_logo.svg"
+  },
+  {
+    "id": "1005",
+    "title": "TV8 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV8_logo.svg"
+  },
+  {
+    "id": "1010",
+    "title": "bein Sports 5 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "1011",
+    "title": "A Spor Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Spor_logo.png"
+  },
+  {
+    "id": "1012",
+    "title": "TRT 1 Turkey",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TRT_1_logo.svg"
+  },
+  {
+    "id": "1020",
+    "title": "Canal+ Sport CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1021",
+    "title": "Nova Sport 1 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1022",
+    "title": "Nova Sport 2 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1023",
+    "title": "Nova Sport 3 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1024",
+    "title": "Nova Sport 4 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1025",
+    "title": "Nova Sport 5 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1026",
+    "title": "Nova Sport 6 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1027",
+    "title": "Oneplay Sport 1 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "1028",
+    "title": "Oneplay Sport 2 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1029",
+    "title": "Oneplay Sport 3 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1030",
+    "title": "Premier Sport 1 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "1031",
+    "title": "Premier Sport 2 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1032",
+    "title": "Premier Sport 3 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1033",
+    "title": "CT Sport CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C4%8CT_Sport_logo_2022.svg"
+  },
+  {
+    "id": "1034",
+    "title": "Nova HD CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1035",
+    "title": "CT1 HD CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/%C4%8CT1_logo_2022.svg"
+  },
+  {
+    "id": "1036",
+    "title": "CT2 HD CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/%C4%8CT2_logo_2022.svg"
+  },
+  {
+    "id": "1037",
+    "title": "TN Live CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TN_Live_logo.png"
+  },
+  {
+    "id": "1038",
+    "title": "Oneplay Sport 4 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1039",
+    "title": "OnePlay MD2 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1040",
+    "title": "OnePlay MD3 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1041",
+    "title": "OnePlay MD4 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "1042",
+    "title": "Sport 1 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "1043",
+    "title": "Canal+ Sport 2 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1044",
+    "title": "Canal+ Sport 3 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1045",
+    "title": "Canal+ Sport 4 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1046",
+    "title": "Canal+ Sport 5 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1047",
+    "title": "Canal+ Sport 6 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1048",
+    "title": "Canal+ Sport 7 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1049",
+    "title": "Canal+ Sport 8 CZ",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1050",
+    "title": "JOJ SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOJ_Group_logo.svg"
+  },
+  {
+    "id": "1051",
+    "title": "Dajto SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dajto_logo.svg"
+  },
+  {
+    "id": "1052",
+    "title": "JOJ Sport SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOJ_Group_logo.svg"
+  },
+  {
+    "id": "1053",
+    "title": "Voyo Special 1 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1054",
+    "title": "Voyo Special 2 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1055",
+    "title": "Voyo Special 3 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1056",
+    "title": "Voyo Special 4 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1057",
+    "title": "Voyo Special 7 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1058",
+    "title": "Voyo Special 8 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1059",
+    "title": "Voyo Special 9 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyo_logo.svg"
+  },
+  {
+    "id": "1060",
+    "title": "Nova Sport 3 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1061",
+    "title": "Nova Sport 4 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1062",
+    "title": "Nova Sport 5 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "1063",
+    "title": "Canal+ Sport SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1064",
+    "title": "Canal+ Sport 2 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1065",
+    "title": "Canal+ Sport 3 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1066",
+    "title": "Canal+ Sport 4 SK",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal%2B_Sport_logo.svg"
+  },
+  {
+    "id": "1067",
+    "title": "DAZN USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "1073",
+    "title": "Sky Sport 258 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "1076",
+    "title": "ACCNX",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ACC_Network_logo.svg"
+  },
+  {
+    "id": "1078",
+    "title": "Sky Sport 252 Italia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sport_logo_2020.svg"
+  },
+  {
+    "id": "1159",
+    "title": "Dirtgvision",
+    "logo_url": ""
+  },
+  {
+    "id": "1161",
+    "title": "PPV Feed",
+    "logo_url": ""
+  },
+  {
+    "id": "1166",
+    "title": "SECNX USA",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "1177",
+    "title": "FloSports",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/FloSports_logo.svg"
+  },
+  {
+    "id": "1501",
+    "title": "Tennis Stream",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1507",
+    "title": "Tennis Stream 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1508",
+    "title": "T. Tennis Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1515",
+    "title": "LINK 2",
+    "logo_url": ""
+  },
+  {
+    "id": "1558",
+    "title": "Tennis Stream 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1563",
+    "title": "Tennis Stream (CH-110)",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1574",
+    "title": "Tennis Stream (CH-1551) Tennis Stream",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_Channel_logo.svg"
+  },
+  {
+    "id": "1926",
+    "title": "ESPN 2 Mexico",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.svg"
+  },
+  {
+    "id": "2003",
+    "title": "UFC Channel",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UFC_logo.svg"
+  },
+  {
+    "id": "2024",
+    "title": "UFCTV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CTV_logo.svg"
+  },
+  {
+    "id": "2906",
+    "title": "Sport TV5 Poutugal",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "3007",
+    "title": "Sky Sports F1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_F1_logo_2020.svg"
+  },
+  {
+    "id": "3011",
+    "title": "ORF eins",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ORF_1_logo_2019.svg"
+  },
+  {
+    "id": "3012",
+    "title": "ProSieben MAXX DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ProSieben_logo_2009.svg"
+  },
+  {
+    "id": "3017",
+    "title": "DAZN1 DE 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "3018",
+    "title": "DAZN2 DE 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "3020",
+    "title": "RSI La 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/RSI_La_2_logo.svg"
+  },
+  {
+    "id": "3021",
+    "title": "Sport TV1 Portugal 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_TV_2023.svg"
+  },
+  {
+    "id": "3024",
+    "title": "Alpha TV Greece",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alpha_TV_logo.svg"
+  },
+  {
+    "id": "3025",
+    "title": "Nova Sports Start",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova_Sport_logo.svg"
+  },
+  {
+    "id": "3027",
+    "title": "Movistar+ Spain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_logo.svg"
+  },
+  {
+    "id": "3033",
+    "title": "beIN Sports English 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "3041",
+    "title": "Oneplay Sport",
+    "logo_url": ""
+  },
+  {
+    "id": "3042",
+    "title": "Sport 2 CZ",
+    "logo_url": ""
+  },
+  {
+    "id": "3049",
+    "title": "La Une Belgim 2",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Une_logo_2023.svg"
+  },
+  {
+    "id": "3060",
+    "title": "FightKlub Poland",
+    "logo_url": ""
+  },
+  {
+    "id": "3062",
+    "title": "SuperSport 2 Albania",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "3063",
+    "title": "Sport 2 Albania",
+    "logo_url": ""
+  },
+  {
+    "id": "3064",
+    "title": "beIN Sports AR",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeIN_Sports_logo.svg"
+  },
+  {
+    "id": "3065",
+    "title": "ETV 2 Estonia",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ETV2_logo.svg"
+  },
+  {
+    "id": "3066",
+    "title": "M4 Sports Hungry",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/M4_Sport_logo.svg"
+  },
+  {
+    "id": "3067",
+    "title": "V sport 1 Norway",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "3068",
+    "title": "MEGOGO Football 1 Ukrain",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MEGOGO_logo.png"
+  },
+  {
+    "id": "3070",
+    "title": "MTV Urheilu 1 Finland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "3071",
+    "title": "MTV Urheilu 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "3072",
+    "title": "TV4",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV4_logo_2023.svg"
+  },
+  {
+    "id": "3073",
+    "title": "Viaplay 3 Urheilu",
+    "logo_url": ""
+  },
+  {
+    "id": "3074",
+    "title": "Ruutu+",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruutu%2B_logo.png"
+  },
+  {
+    "id": "3076",
+    "title": "V Sport 1 SE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo.svg"
+  },
+  {
+    "id": "3077",
+    "title": "MTV3",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTV_logo_2021.svg"
+  },
+  {
+    "id": "3078",
+    "title": "V Sport Premium SE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V_Sport_logo.png"
+  },
+  {
+    "id": "3079",
+    "title": "V Sport Premium Finland",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V_Sport_logo.png"
+  },
+  {
+    "id": "3080",
+    "title": "Viaplay Sport SE",
+    "logo_url": ""
+  },
+  {
+    "id": "3082",
+    "title": "Fox Sports 2 USA 2",
+    "logo_url": ""
+  },
+  {
+    "id": "3084",
+    "title": "SporTV Brazil",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SporTV_logo.svg"
+  },
+  {
+    "id": "3087",
+    "title": "Fox Deportes 2",
+    "logo_url": ""
+  },
+  {
+    "id": "3099",
+    "title": "DAZN DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "5000",
+    "title": "PPV Events",
+    "logo_url": ""
+  },
+  {
+    "id": "5003",
+    "title": "DAZN ES",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "5004",
+    "title": "KSWTV",
+    "logo_url": ""
+  },
+  {
+    "id": "5005",
+    "title": "WWE PPV",
+    "logo_url": ""
+  },
+  {
+    "id": "5006",
+    "title": "PPV Event",
+    "logo_url": ""
+  },
+  {
+    "id": "5009",
+    "title": "UFC Fight Pass 1",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UFC_logo.svg"
+  },
+  {
+    "id": "5013",
+    "title": "PPV Event 1",
+    "logo_url": ""
+  },
+  {
+    "id": "5014",
+    "title": "PPV Event 2",
+    "logo_url": ""
+  },
+  {
+    "id": "5015",
+    "title": "UFC Fight Night",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UFC_logo.svg"
+  },
+  {
+    "id": "5017",
+    "title": "DirtTrackPPV",
+    "logo_url": ""
+  },
+  {
+    "id": "5018",
+    "title": "FloRacing II",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Racing_TV_logo.svg"
+  },
+  {
+    "id": "5022",
+    "title": "Event PPV Boxing",
+    "logo_url": ""
+  },
+  {
+    "id": "5025",
+    "title": "Netflix",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Netflix_2015_logo.svg"
+  },
+  {
+    "id": "5029",
+    "title": "FAMEMMATV",
+    "logo_url": ""
+  },
+  {
+    "id": "5030",
+    "title": "Bein Arabic Baclup",
+    "logo_url": ""
+  },
+  {
+    "id": "5031",
+    "title": "Court 6 Tennis",
+    "logo_url": ""
+  },
+  {
+    "id": "5032",
+    "title": "Court 7 Tennis",
+    "logo_url": ""
+  },
+  {
+    "id": "5033",
+    "title": "Court 2 Tennis",
+    "logo_url": ""
+  },
+  {
+    "id": "5034",
+    "title": "WNBA Season Pass",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WNBA_logo.svg"
+  },
+  {
+    "id": "5035",
+    "title": "Court Suzanne Lenglen",
+    "logo_url": ""
+  },
+  {
+    "id": "5036",
+    "title": "Court Simonne Mathieu",
+    "logo_url": ""
+  },
+  {
+    "id": "5037",
+    "title": "Court 14 Tennis",
+    "logo_url": ""
+  },
+  {
+    "id": "5041",
+    "title": "WNBA League Pass",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/WNBA_logo.svg"
+  },
+  {
+    "id": "6002",
+    "title": "SuperSports PSL",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/SuperSport_logo.svg"
+  },
+  {
+    "id": "6003",
+    "title": "Sports Stream",
+    "logo_url": ""
+  },
+  {
+    "id": "6004",
+    "title": "CZ Sports",
+    "logo_url": ""
+  },
+  {
+    "id": "6007",
+    "title": "Sports Channel",
+    "logo_url": ""
+  },
+  {
+    "id": "6034",
+    "title": "DAZN Belgium",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "6036",
+    "title": "DAZN PPV Box",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAZN_logo.svg"
+  },
+  {
+    "id": "6414",
+    "title": "SPORT1 DE",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport1_logo_2013.svg"
+  },
+  {
+    "id": "7004",
+    "title": "Winsportsplus",
+    "logo_url": ""
+  },
+  {
+    "id": "7005",
+    "title": "Winsports2",
+    "logo_url": ""
+  },
+  {
+    "id": "7057",
+    "title": "WinPlus",
+    "logo_url": ""
+  },
+  {
+    "id": "8001",
+    "title": "SD Stream",
+    "logo_url": ""
+  },
+  {
+    "id": "9000",
+    "title": "UPL.TV",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/UPL_logo.svg"
+  },
+  {
+    "id": "9007",
+    "title": "Ontime Sports Stream",
+    "logo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/OnTime_Sports_logo.png"
+  }
+
+
+]
