@@ -46,7 +46,7 @@
         },
         {
             "Canal": "VTV Plus",
-            "Logo": "https://commons.wikimedia.org/wiki/Category:VTV_Plus#/media/File:VTV+Uruguay.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/VTV%2BUruguay.svg"
         },
         {
             "Canal": "ECDF LigaPro (eventos)",
@@ -174,11 +174,11 @@
         },
         {
             "Canal": "Hisports",
-            "Logo": "https://commons.wikimedia.org/wiki/Category:SVG_sports_logos#/media/File:Asian_Games_logo_bw.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Asian_Games_logo_bw.svg"
         },
         {
             "Canal": "Sky Sports LaLiga",
-            "Logo": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svgg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg"
         },
         {
             "Canal": "Sky Sports Bundesliga",
