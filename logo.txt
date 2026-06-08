@@ -130,7 +130,7 @@
         },
         {
             "Canal": "Fox Sports Premium",
-            "Logo": "https://commons.wikimedia.org/wiki/Category:SVG_logos_of_Fox_Sports#/media/File:Fox_Sports_Go_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg"
         },
         {
             "Canal": "TUDN",
