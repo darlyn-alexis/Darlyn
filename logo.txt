@@ -260,35 +260,35 @@
     "BRASIL": [
         {
             "Canal": "Premiere 1",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 2",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 3",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 4",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 5",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 6",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 7",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Premiere 8",
-            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Premier_sports_logo_2018.svg"
         },
         {
             "Canal": "Sportv",
@@ -402,23 +402,23 @@
     "MUNDO": [
         {
             "Canal": "Sky Bundesliga 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sport_Corner_2011.svg"
         },
         {
             "Canal": "Sky Bundesliga 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sport_Corner_2011.svg"
         },
         {
             "Canal": "Sky Bundesliga 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sport_Corner_2011.svg"
         },
         {
             "Canal": "Sky Bundesliga 4",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sport_Corner_2011.svg"
         },
         {
             "Canal": "Sky Bundesliga 5",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sky_Sport_Corner_2011.svg"
         },
         {
             "Canal": "DAZN 1 DE",
@@ -430,15 +430,15 @@
         },
         {
             "Canal": "ESPN 1 NL",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
         },
         {
             "Canal": "ESPN 2 NL",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN2_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
         },
         {
             "Canal": "ESPN 3 NL",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
         },
         {
             "Canal": "Dazn Eleven Pro 1 BE",
