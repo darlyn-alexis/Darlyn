@@ -46,7 +46,7 @@
         },
         {
             "Canal": "VTV Plus",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/VTV_Plus_logo_2021.png"
+            "Logo": "https://commons.wikimedia.org/wiki/Category:VTV_Plus#/media/File:VTV+Uruguay.svg"
         },
         {
             "Canal": "ECDF LigaPro (eventos)",
@@ -108,11 +108,11 @@
         },
         {
             "Canal": "Win Sports plus (2)",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Win_Sports_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Win_Sports%2B_logo.svg"
         },
         {
             "Canal": "Win Sports",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Win_Sports_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Win_Sports%2B_logo.svg"
         }
     ],
     "MÉXICO": [
@@ -130,11 +130,11 @@
         },
         {
             "Canal": "Fox Sports Premium",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fox_Sports_Premium_logo.svg"
+            "Logo": "https://commons.wikimedia.org/wiki/Category:SVG_logos_of_Fox_Sports#/media/File:Fox_Sports_Go_logo.svg"
         },
         {
             "Canal": "TUDN",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/TUDN_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg"
         },
         {
             "Canal": "ESPN",
@@ -142,7 +142,7 @@
         },
         {
             "Canal": "ESPN 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN2_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Espn2.svg"
         },
         {
             "Canal": "ESPN 3",
@@ -158,11 +158,11 @@
         },
         {
             "Canal": "Azteca 7",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Azteca_7_logo_2020.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Logotipo_de_TV_Azteca.svg"
         },
         {
             "Canal": "Canal 5",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_5_M%C3%A9xico_logo_2014.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Canal_5_2016.svg.svg"
         },
         {
             "Canal": "TVC Deportes",
@@ -174,15 +174,15 @@
         },
         {
             "Canal": "Hisports",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hi_Sports_TV_logo.png"
+            "Logo": "https://commons.wikimedia.org/wiki/Category:SVG_sports_logos#/media/File:Asian_Games_logo_bw.svg"
         },
         {
             "Canal": "Sky Sports LaLiga",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/LaLiga_EA_Sports_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svgg"
         },
         {
             "Canal": "Sky Sports Bundesliga",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sky_Sport_Bundesliga_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg"
         }
     ],
     "USA": [
