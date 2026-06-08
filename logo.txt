@@ -188,67 +188,67 @@
     "USA": [
         {
             "Canal": "Fox Deportes",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fox_Deportes_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/FOX_Deportes_logo.svg"
         },
         {
             "Canal": "ESPN Deportes",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/ESPN_Deportes_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg"
         },
         {
             "Canal": "TUDN",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/TUDN_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg"
         },
         {
             "Canal": "Univisión",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Univision_logo_2019.svg"
+            "Logo": "hhttps://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
         },
         {
             "Canal": "Fox Sports 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_1_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg"
         },
         {
             "Canal": "Fox Sports 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fox_Sports_2_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/FS2_logo_2015.svg"
         },
         {
             "Canal": "Universo",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Universo_logo_2017.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg"
         },
         {
             "Canal": "BeIN Sports Español",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BeIN_Sports_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg"
         },
         {
             "Canal": "Unimás",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/UniM%C3%A1s_logo_2019.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_UniM%C3%A1s_2021.svg"
         },
         {
             "Canal": "BeIN Sports Xtra Español",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BeIN_Sports_XTRA_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg"
         },
         {
             "Canal": "ESPN",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/ESPN_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
         },
         {
             "Canal": "ESPN2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN2_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
         },
         {
             "Canal": "ESPN U",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/ESPNews_and_ESPNU_wordmark.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/ESPN_U_logo.svg"
         },
         {
             "Canal": "CBS Sports Network",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/CBS_Sports_Network_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/CBS_Sports_Network_2021.svg"
         },
         {
             "Canal": "USAnetwork",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/USA_Network_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg"
         },
         {
             "Canal": "Telemundo",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Telemundo_2018_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
         }
     ],
     "CHILE": [
