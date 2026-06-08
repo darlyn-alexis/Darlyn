@@ -200,7 +200,7 @@
         },
         {
             "Canal": "Univisión",
-            "Logo": "hhttps://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg"
         },
         {
             "Canal": "Fox Sports 1",
@@ -254,7 +254,7 @@
     "CHILE": [
         {
             "Canal": "TNT Sports Chile",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png""
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png"
         }
     ],
     "BRASIL": [
