@@ -254,129 +254,129 @@
     "CHILE": [
         {
             "Canal": "TNT Sports Chile",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/TNT_Sports_logo_%282023%29.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1920px-TNT_Sports_%282023%29.svg.png""
         }
     ],
     "BRASIL": [
         {
             "Canal": "Premiere 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 4",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 5",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 6",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 7",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Premiere 8",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Premiere_logo_%282021%29.svg"
+            "Logo": "https://en.wikipedia.org/wiki/Premiere_(Brazilian_TV_channel)#/media/File:Premiere_(2017)_logo.png"
         },
         {
             "Canal": "Sportv",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/SporTV_logo_2021.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sportv 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SporTV_2_logo_2021.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sportv 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SporTV_3_logo_2021.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         }
     ],
     "PORTUGAL": [
         {
             "Canal": "Sport TV 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sport_TV1_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sport TV 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sport_TV2_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sport TV 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sport_TV3_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sport TV 4",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sport_TV4_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sport TV 5",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sport_TV5_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Sport TV 6",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sport_TV6_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg"
         },
         {
             "Canal": "Canal 11",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal_11_%28Portugal%29_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Canal_11_FPF.svg"
         },
         {
             "Canal": "Dazn Eleven 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DAZN_Eleven_1.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/DAZN_1_2024.svg"
         },
         {
             "Canal": "Dazn Eleven 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/DAZN_Eleven_2.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN_2_2024.svg"
         },
         {
             "Canal": "Dazn Eleven 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/DAZN_Eleven_3.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DAZN_3_2024.svg"
         },
         {
             "Canal": "Dazn Eleven 4",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_Eleven_4.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/DAZN_4_2024.svg"
         },
         {
             "Canal": "Dazn Eleven 5",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/DAZN_Eleven_5.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/DAZN_5.svg"
         },
         {
             "Canal": "Dazn Eleven 6",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_Eleven_6.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/26/DAZN_6.svg"
         }
     ],
     "ESPAÑA": [
         {
             "Canal": "DAZN 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/DAZN_1_2024.svg"
         },
         {
             "Canal": "DAZN 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN_2_2024.svg"
         },
         {
             "Canal": "DAZN 3 (eventos)",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/DAZN_3_2024.svg"
         },
         {
             "Canal": "DAZN 4 (eventos)",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_Logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/DAZN_4_2024.svg"
         },
         {
             "Canal": "DAZN LaLiga",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/DAZN_LaLiga_logo.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg"
         },
         {
             "Canal": "La 1 TVE",
@@ -384,19 +384,19 @@
         },
         {
             "Canal": "Liga de Campeones 1",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Movistar_Plus%2B_Liga_de_Campeones_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg"
         },
         {
             "Canal": "Liga de Campeones 2",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Movistar_Plus%2B_Liga_de_Campeones_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg"
         },
         {
             "Canal": "Liga de Campeones 3",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Movistar_Plus%2B_Liga_de_Campeones_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg"
         },
         {
             "Canal": "LaLigaTV BAR",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Movistar_Plus%2B_LaLiga_TV_Bar_logo.svg"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"
         }
     ],
     "MUNDO": [
@@ -442,7 +442,7 @@
         },
         {
             "Canal": "Dazn Eleven Pro 1 BE",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DAZN_Eleven_Pro_League.png"
+            "Logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg"
         }
     ]
 }
